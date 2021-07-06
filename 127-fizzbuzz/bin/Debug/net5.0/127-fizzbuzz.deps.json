@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "127-fizzbuzz/1.0.0": {
+        "runtime": {
+          "127-fizzbuzz.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "127-fizzbuzz/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

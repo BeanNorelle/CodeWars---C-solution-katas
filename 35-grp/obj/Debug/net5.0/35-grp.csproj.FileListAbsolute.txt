@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\35-grp\obj\Debug\net5.0\35-grp.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\35-grp\obj\Debug\net5.0\35-grp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\35-grp\obj\Debug\net5.0\35-grp.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\35-grp\obj\Debug\net5.0\35-grp.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\35-grp\obj\Debug\net5.0\35-grp.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\35-grp\bin\Debug\net5.0\35-grp.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\35-grp\bin\Debug\net5.0\35-grp.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\35-grp\bin\Debug\net5.0\35-grp.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\35-grp\bin\Debug\net5.0\35-grp.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\35-grp\bin\Debug\net5.0\35-grp.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\35-grp\bin\Debug\net5.0\ref\35-grp.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\35-grp\bin\Debug\net5.0\35-grp.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\35-grp\obj\Debug\net5.0\35-grp.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\35-grp\obj\Debug\net5.0\ref\35-grp.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\35-grp\obj\Debug\net5.0\35-grp.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\35-grp\obj\Debug\net5.0\35-grp.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\31-vasyaclerk\bin\Debug\net5.0\31-vasyaclerk.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\31-vasyaclerk\bin\Debug\net5.0\31-vasyaclerk.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\31-vasyaclerk\bin\Debug\net5.0\31-vasyaclerk.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\31-vasyaclerk\bin\Debug\net5.0\31-vasyaclerk.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\31-vasyaclerk\bin\Debug\net5.0\31-vasyaclerk.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\31-vasyaclerk\bin\Debug\net5.0\ref\31-vasyaclerk.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\31-vasyaclerk\bin\Debug\net5.0\31-vasyaclerk.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\31-vasyaclerk\obj\Debug\net5.0\31-vasyaclerk.csprojAssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\31-vasyaclerk\obj\Debug\net5.0\31-vasyaclerk.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\31-vasyaclerk\obj\Debug\net5.0\31-vasyaclerk.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\31-vasyaclerk\obj\Debug\net5.0\31-vasyaclerk.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\31-vasyaclerk\obj\Debug\net5.0\31-vasyaclerk.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\31-vasyaclerk\obj\Debug\net5.0\31-vasyaclerk.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\31-vasyaclerk\obj\Debug\net5.0\ref\31-vasyaclerk.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\31-vasyaclerk\obj\Debug\net5.0\31-vasyaclerk.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\31-vasyaclerk\obj\Debug\net5.0\31-vasyaclerk.genruntimeconfig.cache

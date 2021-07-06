@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\96-RomanNumerals\bin\Debug\net5.0\96-RomanNumerals.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\96-RomanNumerals\bin\Debug\net5.0\96-RomanNumerals.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\96-RomanNumerals\bin\Debug\net5.0\96-RomanNumerals.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\96-RomanNumerals\bin\Debug\net5.0\96-RomanNumerals.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\96-RomanNumerals\bin\Debug\net5.0\96-RomanNumerals.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\96-RomanNumerals\bin\Debug\net5.0\ref\96-RomanNumerals.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\96-RomanNumerals\bin\Debug\net5.0\96-RomanNumerals.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\96-RomanNumerals\obj\Debug\net5.0\96-RomanNumerals.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\96-RomanNumerals\obj\Debug\net5.0\96-RomanNumerals.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\96-RomanNumerals\obj\Debug\net5.0\96-RomanNumerals.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\96-RomanNumerals\obj\Debug\net5.0\96-RomanNumerals.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\96-RomanNumerals\obj\Debug\net5.0\96-RomanNumerals.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\96-RomanNumerals\obj\Debug\net5.0\96-RomanNumerals.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\96-RomanNumerals\obj\Debug\net5.0\ref\96-RomanNumerals.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\96-RomanNumerals\obj\Debug\net5.0\96-RomanNumerals.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\96-RomanNumerals\obj\Debug\net5.0\96-RomanNumerals.genruntimeconfig.cache

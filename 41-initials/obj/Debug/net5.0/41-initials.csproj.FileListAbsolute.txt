@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\41-initials\bin\Debug\net5.0\41-initials.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\41-initials\bin\Debug\net5.0\41-initials.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\41-initials\bin\Debug\net5.0\41-initials.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\41-initials\bin\Debug\net5.0\41-initials.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\41-initials\bin\Debug\net5.0\41-initials.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\41-initials\bin\Debug\net5.0\ref\41-initials.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\41-initials\bin\Debug\net5.0\41-initials.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\41-initials\obj\Debug\net5.0\41-initials.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\41-initials\obj\Debug\net5.0\41-initials.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\41-initials\obj\Debug\net5.0\41-initials.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\41-initials\obj\Debug\net5.0\41-initials.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\41-initials\obj\Debug\net5.0\41-initials.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\41-initials\obj\Debug\net5.0\41-initials.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\41-initials\obj\Debug\net5.0\ref\41-initials.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\41-initials\obj\Debug\net5.0\41-initials.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\41-initials\obj\Debug\net5.0\41-initials.genruntimeconfig.cache

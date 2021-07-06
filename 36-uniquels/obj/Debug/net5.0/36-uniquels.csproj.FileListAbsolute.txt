@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\36-uniquels\bin\Debug\net5.0\36-uniquels.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\36-uniquels\bin\Debug\net5.0\36-uniquels.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\36-uniquels\bin\Debug\net5.0\36-uniquels.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\36-uniquels\bin\Debug\net5.0\36-uniquels.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\36-uniquels\bin\Debug\net5.0\36-uniquels.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\36-uniquels\bin\Debug\net5.0\ref\36-uniquels.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\36-uniquels\bin\Debug\net5.0\36-uniquels.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\36-uniquels\obj\Debug\net5.0\36-uniquels.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\36-uniquels\obj\Debug\net5.0\36-uniquels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\36-uniquels\obj\Debug\net5.0\36-uniquels.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\36-uniquels\obj\Debug\net5.0\36-uniquels.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\36-uniquels\obj\Debug\net5.0\36-uniquels.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\36-uniquels\obj\Debug\net5.0\36-uniquels.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\36-uniquels\obj\Debug\net5.0\ref\36-uniquels.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\36-uniquels\obj\Debug\net5.0\36-uniquels.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\36-uniquels\obj\Debug\net5.0\36-uniquels.genruntimeconfig.cache

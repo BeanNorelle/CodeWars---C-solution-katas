@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\74-humanReadableTime\bin\Debug\net5.0\74-humanReadableTime.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\74-humanReadableTime\bin\Debug\net5.0\74-humanReadableTime.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\74-humanReadableTime\bin\Debug\net5.0\74-humanReadableTime.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\74-humanReadableTime\bin\Debug\net5.0\74-humanReadableTime.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\74-humanReadableTime\bin\Debug\net5.0\74-humanReadableTime.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\74-humanReadableTime\bin\Debug\net5.0\ref\74-humanReadableTime.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\74-humanReadableTime\bin\Debug\net5.0\74-humanReadableTime.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\74-humanReadableTime\obj\Debug\net5.0\74-humanReadableTime.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\74-humanReadableTime\obj\Debug\net5.0\74-humanReadableTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\74-humanReadableTime\obj\Debug\net5.0\74-humanReadableTime.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\74-humanReadableTime\obj\Debug\net5.0\74-humanReadableTime.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\74-humanReadableTime\obj\Debug\net5.0\74-humanReadableTime.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\74-humanReadableTime\obj\Debug\net5.0\74-humanReadableTime.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\74-humanReadableTime\obj\Debug\net5.0\ref\74-humanReadableTime.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\74-humanReadableTime\obj\Debug\net5.0\74-humanReadableTime.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\74-humanReadableTime\obj\Debug\net5.0\74-humanReadableTime.genruntimeconfig.cache

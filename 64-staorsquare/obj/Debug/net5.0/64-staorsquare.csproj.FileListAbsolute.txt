@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\64-staorsquare\bin\Debug\net5.0\64-staorsquare.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\64-staorsquare\bin\Debug\net5.0\64-staorsquare.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\64-staorsquare\bin\Debug\net5.0\64-staorsquare.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\64-staorsquare\bin\Debug\net5.0\64-staorsquare.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\64-staorsquare\bin\Debug\net5.0\64-staorsquare.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\64-staorsquare\bin\Debug\net5.0\ref\64-staorsquare.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\64-staorsquare\bin\Debug\net5.0\64-staorsquare.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\64-staorsquare\obj\Debug\net5.0\64-staorsquare.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\64-staorsquare\obj\Debug\net5.0\64-staorsquare.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\64-staorsquare\obj\Debug\net5.0\64-staorsquare.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\64-staorsquare\obj\Debug\net5.0\64-staorsquare.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\64-staorsquare\obj\Debug\net5.0\64-staorsquare.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\64-staorsquare\obj\Debug\net5.0\64-staorsquare.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\64-staorsquare\obj\Debug\net5.0\ref\64-staorsquare.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\64-staorsquare\obj\Debug\net5.0\64-staorsquare.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\64-staorsquare\obj\Debug\net5.0\64-staorsquare.genruntimeconfig.cache

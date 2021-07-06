@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\38-contains\bin\Debug\net5.0\38-contains.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\38-contains\bin\Debug\net5.0\38-contains.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\38-contains\bin\Debug\net5.0\38-contains.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\38-contains\bin\Debug\net5.0\38-contains.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\38-contains\bin\Debug\net5.0\38-contains.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\38-contains\bin\Debug\net5.0\ref\38-contains.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\38-contains\bin\Debug\net5.0\38-contains.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\38-contains\obj\Debug\net5.0\38-contains.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\38-contains\obj\Debug\net5.0\38-contains.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\38-contains\obj\Debug\net5.0\38-contains.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\38-contains\obj\Debug\net5.0\38-contains.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\38-contains\obj\Debug\net5.0\38-contains.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\38-contains\obj\Debug\net5.0\38-contains.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\38-contains\obj\Debug\net5.0\ref\38-contains.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\38-contains\obj\Debug\net5.0\38-contains.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\38-contains\obj\Debug\net5.0\38-contains.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\118-Spiral\bin\Debug\net5.0\118-Spiral.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\118-Spiral\bin\Debug\net5.0\118-Spiral.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\118-Spiral\bin\Debug\net5.0\118-Spiral.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\118-Spiral\bin\Debug\net5.0\118-Spiral.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\118-Spiral\bin\Debug\net5.0\118-Spiral.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\118-Spiral\bin\Debug\net5.0\ref\118-Spiral.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\118-Spiral\bin\Debug\net5.0\118-Spiral.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\118-Spiral\obj\Debug\net5.0\118-Spiral.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\118-Spiral\obj\Debug\net5.0\118-Spiral.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\118-Spiral\obj\Debug\net5.0\118-Spiral.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\118-Spiral\obj\Debug\net5.0\118-Spiral.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\118-Spiral\obj\Debug\net5.0\118-Spiral.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\118-Spiral\obj\Debug\net5.0\118-Spiral.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\118-Spiral\obj\Debug\net5.0\ref\118-Spiral.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\118-Spiral\obj\Debug\net5.0\118-Spiral.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\118-Spiral\obj\Debug\net5.0\118-Spiral.genruntimeconfig.cache

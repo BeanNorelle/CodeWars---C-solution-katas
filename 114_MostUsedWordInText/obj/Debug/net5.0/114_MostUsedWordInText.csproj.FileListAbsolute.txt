@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\114_MostUsedWordInText\bin\Debug\net5.0\114_MostUsedWordInText.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\114_MostUsedWordInText\bin\Debug\net5.0\114_MostUsedWordInText.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\114_MostUsedWordInText\bin\Debug\net5.0\114_MostUsedWordInText.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\114_MostUsedWordInText\bin\Debug\net5.0\114_MostUsedWordInText.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\114_MostUsedWordInText\bin\Debug\net5.0\114_MostUsedWordInText.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\114_MostUsedWordInText\bin\Debug\net5.0\ref\114_MostUsedWordInText.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\114_MostUsedWordInText\bin\Debug\net5.0\114_MostUsedWordInText.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\114_MostUsedWordInText\obj\Debug\net5.0\114_MostUsedWordInText.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\114_MostUsedWordInText\obj\Debug\net5.0\114_MostUsedWordInText.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\114_MostUsedWordInText\obj\Debug\net5.0\114_MostUsedWordInText.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\114_MostUsedWordInText\obj\Debug\net5.0\114_MostUsedWordInText.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\114_MostUsedWordInText\obj\Debug\net5.0\114_MostUsedWordInText.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\114_MostUsedWordInText\obj\Debug\net5.0\114_MostUsedWordInText.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\114_MostUsedWordInText\obj\Debug\net5.0\ref\114_MostUsedWordInText.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\114_MostUsedWordInText\obj\Debug\net5.0\114_MostUsedWordInText.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\114_MostUsedWordInText\obj\Debug\net5.0\114_MostUsedWordInText.genruntimeconfig.cache

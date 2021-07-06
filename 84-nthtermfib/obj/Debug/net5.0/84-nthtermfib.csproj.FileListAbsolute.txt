@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\84-nthtermfib\bin\Debug\net5.0\84-nthtermfib.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\84-nthtermfib\bin\Debug\net5.0\84-nthtermfib.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\84-nthtermfib\bin\Debug\net5.0\84-nthtermfib.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\84-nthtermfib\bin\Debug\net5.0\84-nthtermfib.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\84-nthtermfib\bin\Debug\net5.0\84-nthtermfib.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\84-nthtermfib\bin\Debug\net5.0\ref\84-nthtermfib.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\84-nthtermfib\bin\Debug\net5.0\84-nthtermfib.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\84-nthtermfib\obj\Debug\net5.0\84-nthtermfib.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\84-nthtermfib\obj\Debug\net5.0\84-nthtermfib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\84-nthtermfib\obj\Debug\net5.0\84-nthtermfib.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\84-nthtermfib\obj\Debug\net5.0\84-nthtermfib.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\84-nthtermfib\obj\Debug\net5.0\84-nthtermfib.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\84-nthtermfib\obj\Debug\net5.0\84-nthtermfib.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\84-nthtermfib\obj\Debug\net5.0\ref\84-nthtermfib.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\84-nthtermfib\obj\Debug\net5.0\84-nthtermfib.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\84-nthtermfib\obj\Debug\net5.0\84-nthtermfib.genruntimeconfig.cache

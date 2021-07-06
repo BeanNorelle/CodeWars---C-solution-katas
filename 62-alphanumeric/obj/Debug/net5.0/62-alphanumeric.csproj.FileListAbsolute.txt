@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\62-alphanumeric\obj\Debug\net5.0\62-alphanumeric.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\62-alphanumeric\obj\Debug\net5.0\62-alphanumeric.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\62-alphanumeric\obj\Debug\net5.0\62-alphanumeric.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\62-alphanumeric\obj\Debug\net5.0\62-alphanumeric.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\62-alphanumeric\obj\Debug\net5.0\62-alphanumeric.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\62-alphanumeric\bin\Debug\net5.0\62-alphanumeric.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\62-alphanumeric\bin\Debug\net5.0\62-alphanumeric.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\62-alphanumeric\bin\Debug\net5.0\62-alphanumeric.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\62-alphanumeric\bin\Debug\net5.0\62-alphanumeric.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\62-alphanumeric\bin\Debug\net5.0\62-alphanumeric.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\62-alphanumeric\bin\Debug\net5.0\ref\62-alphanumeric.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\62-alphanumeric\bin\Debug\net5.0\62-alphanumeric.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\62-alphanumeric\obj\Debug\net5.0\62-alphanumeric.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\62-alphanumeric\obj\Debug\net5.0\ref\62-alphanumeric.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\62-alphanumeric\obj\Debug\net5.0\62-alphanumeric.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\62-alphanumeric\obj\Debug\net5.0\62-alphanumeric.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\100-BasiCalculator\bin\Debug\net5.0\100-BasiCalculator.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\100-BasiCalculator\bin\Debug\net5.0\100-BasiCalculator.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\100-BasiCalculator\bin\Debug\net5.0\100-BasiCalculator.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\100-BasiCalculator\bin\Debug\net5.0\100-BasiCalculator.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\100-BasiCalculator\bin\Debug\net5.0\100-BasiCalculator.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\100-BasiCalculator\bin\Debug\net5.0\ref\100-BasiCalculator.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\100-BasiCalculator\bin\Debug\net5.0\100-BasiCalculator.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\100-BasiCalculator\obj\Debug\net5.0\100-BasiCalculator.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\100-BasiCalculator\obj\Debug\net5.0\100-BasiCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\100-BasiCalculator\obj\Debug\net5.0\100-BasiCalculator.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\100-BasiCalculator\obj\Debug\net5.0\100-BasiCalculator.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\100-BasiCalculator\obj\Debug\net5.0\100-BasiCalculator.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\100-BasiCalculator\obj\Debug\net5.0\100-BasiCalculator.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\100-BasiCalculator\obj\Debug\net5.0\ref\100-BasiCalculator.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\100-BasiCalculator\obj\Debug\net5.0\100-BasiCalculator.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\100-BasiCalculator\obj\Debug\net5.0\100-BasiCalculator.genruntimeconfig.cache

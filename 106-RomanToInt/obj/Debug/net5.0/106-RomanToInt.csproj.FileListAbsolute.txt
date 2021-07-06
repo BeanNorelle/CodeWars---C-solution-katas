@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\106-RomanToInt\bin\Debug\net5.0\106-RomanToInt.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\106-RomanToInt\bin\Debug\net5.0\106-RomanToInt.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\106-RomanToInt\bin\Debug\net5.0\106-RomanToInt.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\106-RomanToInt\bin\Debug\net5.0\106-RomanToInt.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\106-RomanToInt\bin\Debug\net5.0\106-RomanToInt.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\106-RomanToInt\bin\Debug\net5.0\ref\106-RomanToInt.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\106-RomanToInt\bin\Debug\net5.0\106-RomanToInt.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\106-RomanToInt\obj\Debug\net5.0\106-RomanToInt.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\106-RomanToInt\obj\Debug\net5.0\106-RomanToInt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\106-RomanToInt\obj\Debug\net5.0\106-RomanToInt.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\106-RomanToInt\obj\Debug\net5.0\106-RomanToInt.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\106-RomanToInt\obj\Debug\net5.0\106-RomanToInt.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\106-RomanToInt\obj\Debug\net5.0\106-RomanToInt.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\106-RomanToInt\obj\Debug\net5.0\ref\106-RomanToInt.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\106-RomanToInt\obj\Debug\net5.0\106-RomanToInt.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\106-RomanToInt\obj\Debug\net5.0\106-RomanToInt.genruntimeconfig.cache

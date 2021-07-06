@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\113-ValidPhoneNumber\bin\Debug\net5.0\113-ValidPhoneNumber.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\113-ValidPhoneNumber\bin\Debug\net5.0\113-ValidPhoneNumber.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\113-ValidPhoneNumber\bin\Debug\net5.0\113-ValidPhoneNumber.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\113-ValidPhoneNumber\bin\Debug\net5.0\113-ValidPhoneNumber.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\113-ValidPhoneNumber\bin\Debug\net5.0\113-ValidPhoneNumber.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\113-ValidPhoneNumber\bin\Debug\net5.0\ref\113-ValidPhoneNumber.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\113-ValidPhoneNumber\bin\Debug\net5.0\113-ValidPhoneNumber.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\113-ValidPhoneNumber\obj\Debug\net5.0\113-ValidPhoneNumber.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\113-ValidPhoneNumber\obj\Debug\net5.0\113-ValidPhoneNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\113-ValidPhoneNumber\obj\Debug\net5.0\113-ValidPhoneNumber.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\113-ValidPhoneNumber\obj\Debug\net5.0\113-ValidPhoneNumber.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\113-ValidPhoneNumber\obj\Debug\net5.0\113-ValidPhoneNumber.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\113-ValidPhoneNumber\obj\Debug\net5.0\113-ValidPhoneNumber.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\113-ValidPhoneNumber\obj\Debug\net5.0\ref\113-ValidPhoneNumber.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\113-ValidPhoneNumber\obj\Debug\net5.0\113-ValidPhoneNumber.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\113-ValidPhoneNumber\obj\Debug\net5.0\113-ValidPhoneNumber.genruntimeconfig.cache

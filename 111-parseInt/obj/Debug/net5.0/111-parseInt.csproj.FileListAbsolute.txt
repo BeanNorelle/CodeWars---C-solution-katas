@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\111-parseInt\obj\Debug\net5.0\111-parseInt.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\111-parseInt\obj\Debug\net5.0\111-parseInt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\111-parseInt\obj\Debug\net5.0\111-parseInt.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\111-parseInt\obj\Debug\net5.0\111-parseInt.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\111-parseInt\obj\Debug\net5.0\111-parseInt.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\111-parseInt\bin\Debug\net5.0\111-parseInt.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\111-parseInt\bin\Debug\net5.0\111-parseInt.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\111-parseInt\bin\Debug\net5.0\111-parseInt.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\111-parseInt\bin\Debug\net5.0\111-parseInt.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\111-parseInt\bin\Debug\net5.0\111-parseInt.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\111-parseInt\bin\Debug\net5.0\ref\111-parseInt.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\111-parseInt\bin\Debug\net5.0\111-parseInt.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\111-parseInt\obj\Debug\net5.0\111-parseInt.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\111-parseInt\obj\Debug\net5.0\ref\111-parseInt.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\111-parseInt\obj\Debug\net5.0\111-parseInt.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\111-parseInt\obj\Debug\net5.0\111-parseInt.genruntimeconfig.cache

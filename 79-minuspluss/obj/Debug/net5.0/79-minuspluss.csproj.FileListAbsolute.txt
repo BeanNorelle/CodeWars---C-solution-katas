@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\79-minuspluss\bin\Debug\net5.0\79-minuspluss.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\79-minuspluss\bin\Debug\net5.0\79-minuspluss.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\79-minuspluss\bin\Debug\net5.0\79-minuspluss.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\79-minuspluss\bin\Debug\net5.0\79-minuspluss.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\79-minuspluss\bin\Debug\net5.0\79-minuspluss.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\79-minuspluss\bin\Debug\net5.0\ref\79-minuspluss.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\79-minuspluss\bin\Debug\net5.0\79-minuspluss.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\79-minuspluss\obj\Debug\net5.0\79-minuspluss.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\79-minuspluss\obj\Debug\net5.0\79-minuspluss.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\79-minuspluss\obj\Debug\net5.0\79-minuspluss.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\79-minuspluss\obj\Debug\net5.0\79-minuspluss.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\79-minuspluss\obj\Debug\net5.0\79-minuspluss.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\79-minuspluss\obj\Debug\net5.0\79-minuspluss.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\79-minuspluss\obj\Debug\net5.0\ref\79-minuspluss.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\79-minuspluss\obj\Debug\net5.0\79-minuspluss.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\79-minuspluss\obj\Debug\net5.0\79-minuspluss.genruntimeconfig.cache

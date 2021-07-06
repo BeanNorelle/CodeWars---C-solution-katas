@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\104-countDiv\bin\Debug\net5.0\104-countDiv.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\104-countDiv\bin\Debug\net5.0\104-countDiv.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\104-countDiv\bin\Debug\net5.0\104-countDiv.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\104-countDiv\bin\Debug\net5.0\104-countDiv.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\104-countDiv\bin\Debug\net5.0\104-countDiv.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\104-countDiv\bin\Debug\net5.0\ref\104-countDiv.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\104-countDiv\bin\Debug\net5.0\104-countDiv.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\104-countDiv\obj\Debug\net5.0\104-countDiv.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\104-countDiv\obj\Debug\net5.0\104-countDiv.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\104-countDiv\obj\Debug\net5.0\104-countDiv.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\104-countDiv\obj\Debug\net5.0\104-countDiv.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\104-countDiv\obj\Debug\net5.0\104-countDiv.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\104-countDiv\obj\Debug\net5.0\104-countDiv.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\104-countDiv\obj\Debug\net5.0\ref\104-countDiv.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\104-countDiv\obj\Debug\net5.0\104-countDiv.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\104-countDiv\obj\Debug\net5.0\104-countDiv.genruntimeconfig.cache

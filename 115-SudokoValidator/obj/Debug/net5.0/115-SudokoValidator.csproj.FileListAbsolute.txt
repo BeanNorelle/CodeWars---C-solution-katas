@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\115-SudokoValidator\bin\Debug\net5.0\115-SudokoValidator.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\115-SudokoValidator\bin\Debug\net5.0\115-SudokoValidator.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\115-SudokoValidator\bin\Debug\net5.0\115-SudokoValidator.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\115-SudokoValidator\bin\Debug\net5.0\115-SudokoValidator.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\115-SudokoValidator\bin\Debug\net5.0\115-SudokoValidator.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\115-SudokoValidator\bin\Debug\net5.0\ref\115-SudokoValidator.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\115-SudokoValidator\bin\Debug\net5.0\115-SudokoValidator.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\115-SudokoValidator\obj\Debug\net5.0\115-SudokoValidator.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\115-SudokoValidator\obj\Debug\net5.0\115-SudokoValidator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\115-SudokoValidator\obj\Debug\net5.0\115-SudokoValidator.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\115-SudokoValidator\obj\Debug\net5.0\115-SudokoValidator.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\115-SudokoValidator\obj\Debug\net5.0\115-SudokoValidator.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\115-SudokoValidator\obj\Debug\net5.0\115-SudokoValidator.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\115-SudokoValidator\obj\Debug\net5.0\ref\115-SudokoValidator.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\115-SudokoValidator\obj\Debug\net5.0\115-SudokoValidator.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\115-SudokoValidator\obj\Debug\net5.0\115-SudokoValidator.genruntimeconfig.cache

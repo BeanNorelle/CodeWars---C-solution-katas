@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\83-factorial\bin\Debug\net5.0\83-factorial.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\83-factorial\bin\Debug\net5.0\83-factorial.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\83-factorial\bin\Debug\net5.0\83-factorial.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\83-factorial\bin\Debug\net5.0\83-factorial.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\83-factorial\bin\Debug\net5.0\83-factorial.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\83-factorial\bin\Debug\net5.0\ref\83-factorial.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\83-factorial\bin\Debug\net5.0\83-factorial.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\83-factorial\obj\Debug\net5.0\83-factorial.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\83-factorial\obj\Debug\net5.0\83-factorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\83-factorial\obj\Debug\net5.0\83-factorial.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\83-factorial\obj\Debug\net5.0\83-factorial.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\83-factorial\obj\Debug\net5.0\83-factorial.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\83-factorial\obj\Debug\net5.0\83-factorial.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\83-factorial\obj\Debug\net5.0\ref\83-factorial.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\83-factorial\obj\Debug\net5.0\83-factorial.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\83-factorial\obj\Debug\net5.0\83-factorial.genruntimeconfig.cache

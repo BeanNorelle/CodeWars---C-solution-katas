@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\117-ValidateString\bin\Debug\net5.0\117-ValidateString.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\117-ValidateString\bin\Debug\net5.0\117-ValidateString.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\117-ValidateString\bin\Debug\net5.0\117-ValidateString.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\117-ValidateString\bin\Debug\net5.0\117-ValidateString.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\117-ValidateString\bin\Debug\net5.0\117-ValidateString.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\117-ValidateString\bin\Debug\net5.0\ref\117-ValidateString.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\117-ValidateString\bin\Debug\net5.0\117-ValidateString.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\117-ValidateString\obj\Debug\net5.0\117-ValidateString.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\117-ValidateString\obj\Debug\net5.0\117-ValidateString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\117-ValidateString\obj\Debug\net5.0\117-ValidateString.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\117-ValidateString\obj\Debug\net5.0\117-ValidateString.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\117-ValidateString\obj\Debug\net5.0\117-ValidateString.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\117-ValidateString\obj\Debug\net5.0\117-ValidateString.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\117-ValidateString\obj\Debug\net5.0\ref\117-ValidateString.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\117-ValidateString\obj\Debug\net5.0\117-ValidateString.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\117-ValidateString\obj\Debug\net5.0\117-ValidateString.genruntimeconfig.cache

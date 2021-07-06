@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\48-filter\bin\Debug\net5.0\48-filter.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\48-filter\bin\Debug\net5.0\48-filter.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\48-filter\bin\Debug\net5.0\48-filter.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\48-filter\bin\Debug\net5.0\48-filter.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\48-filter\bin\Debug\net5.0\48-filter.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\48-filter\bin\Debug\net5.0\ref\48-filter.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\48-filter\bin\Debug\net5.0\48-filter.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\48-filter\obj\Debug\net5.0\48-filter.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\48-filter\obj\Debug\net5.0\48-filter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\48-filter\obj\Debug\net5.0\48-filter.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\48-filter\obj\Debug\net5.0\48-filter.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\48-filter\obj\Debug\net5.0\48-filter.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\48-filter\obj\Debug\net5.0\48-filter.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\48-filter\obj\Debug\net5.0\ref\48-filter.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\48-filter\obj\Debug\net5.0\48-filter.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\48-filter\obj\Debug\net5.0\48-filter.genruntimeconfig.cache

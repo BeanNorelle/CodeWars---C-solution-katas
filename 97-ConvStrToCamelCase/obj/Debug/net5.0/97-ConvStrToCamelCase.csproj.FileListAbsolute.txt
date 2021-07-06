@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\97-ConvStrToCamelCase\bin\Debug\net5.0\97-ConvStrToCamelCase.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\97-ConvStrToCamelCase\bin\Debug\net5.0\97-ConvStrToCamelCase.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\97-ConvStrToCamelCase\bin\Debug\net5.0\97-ConvStrToCamelCase.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\97-ConvStrToCamelCase\bin\Debug\net5.0\97-ConvStrToCamelCase.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\97-ConvStrToCamelCase\bin\Debug\net5.0\97-ConvStrToCamelCase.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\97-ConvStrToCamelCase\bin\Debug\net5.0\ref\97-ConvStrToCamelCase.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\97-ConvStrToCamelCase\bin\Debug\net5.0\97-ConvStrToCamelCase.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\97-ConvStrToCamelCase\obj\Debug\net5.0\97-ConvStrToCamelCase.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\97-ConvStrToCamelCase\obj\Debug\net5.0\97-ConvStrToCamelCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\97-ConvStrToCamelCase\obj\Debug\net5.0\97-ConvStrToCamelCase.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\97-ConvStrToCamelCase\obj\Debug\net5.0\97-ConvStrToCamelCase.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\97-ConvStrToCamelCase\obj\Debug\net5.0\97-ConvStrToCamelCase.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\97-ConvStrToCamelCase\obj\Debug\net5.0\97-ConvStrToCamelCase.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\97-ConvStrToCamelCase\obj\Debug\net5.0\ref\97-ConvStrToCamelCase.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\97-ConvStrToCamelCase\obj\Debug\net5.0\97-ConvStrToCamelCase.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\97-ConvStrToCamelCase\obj\Debug\net5.0\97-ConvStrToCamelCase.genruntimeconfig.cache

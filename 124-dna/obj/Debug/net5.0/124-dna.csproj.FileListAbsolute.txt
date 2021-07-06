@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\124-dna\bin\Debug\net5.0\124-dna.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\124-dna\bin\Debug\net5.0\124-dna.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\124-dna\bin\Debug\net5.0\124-dna.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\124-dna\bin\Debug\net5.0\124-dna.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\124-dna\bin\Debug\net5.0\124-dna.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\124-dna\bin\Debug\net5.0\ref\124-dna.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\124-dna\bin\Debug\net5.0\124-dna.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\124-dna\obj\Debug\net5.0\124-dna.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\124-dna\obj\Debug\net5.0\124-dna.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\124-dna\obj\Debug\net5.0\124-dna.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\124-dna\obj\Debug\net5.0\124-dna.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\124-dna\obj\Debug\net5.0\124-dna.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\124-dna\obj\Debug\net5.0\124-dna.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\124-dna\obj\Debug\net5.0\ref\124-dna.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\124-dna\obj\Debug\net5.0\124-dna.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\124-dna\obj\Debug\net5.0\124-dna.genruntimeconfig.cache

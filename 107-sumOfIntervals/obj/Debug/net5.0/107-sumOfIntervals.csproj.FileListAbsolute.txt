@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\107-sumOfIntervals\bin\Debug\net5.0\107-sumOfIntervals.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\107-sumOfIntervals\bin\Debug\net5.0\107-sumOfIntervals.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\107-sumOfIntervals\bin\Debug\net5.0\107-sumOfIntervals.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\107-sumOfIntervals\bin\Debug\net5.0\107-sumOfIntervals.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\107-sumOfIntervals\bin\Debug\net5.0\107-sumOfIntervals.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\107-sumOfIntervals\bin\Debug\net5.0\ref\107-sumOfIntervals.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\107-sumOfIntervals\bin\Debug\net5.0\107-sumOfIntervals.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\107-sumOfIntervals\obj\Debug\net5.0\107-sumOfIntervals.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\107-sumOfIntervals\obj\Debug\net5.0\107-sumOfIntervals.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\107-sumOfIntervals\obj\Debug\net5.0\107-sumOfIntervals.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\107-sumOfIntervals\obj\Debug\net5.0\107-sumOfIntervals.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\107-sumOfIntervals\obj\Debug\net5.0\107-sumOfIntervals.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\107-sumOfIntervals\obj\Debug\net5.0\107-sumOfIntervals.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\107-sumOfIntervals\obj\Debug\net5.0\ref\107-sumOfIntervals.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\107-sumOfIntervals\obj\Debug\net5.0\107-sumOfIntervals.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\107-sumOfIntervals\obj\Debug\net5.0\107-sumOfIntervals.genruntimeconfig.cache

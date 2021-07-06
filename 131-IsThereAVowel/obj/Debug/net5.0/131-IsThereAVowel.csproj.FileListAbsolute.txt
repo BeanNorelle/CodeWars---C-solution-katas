@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\131-IsThereAVowel\obj\Debug\net5.0\131-IsThereAVowel.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\131-IsThereAVowel\obj\Debug\net5.0\131-IsThereAVowel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\131-IsThereAVowel\obj\Debug\net5.0\131-IsThereAVowel.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\131-IsThereAVowel\obj\Debug\net5.0\131-IsThereAVowel.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\131-IsThereAVowel\obj\Debug\net5.0\131-IsThereAVowel.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\131-IsThereAVowel\bin\Debug\net5.0\131-IsThereAVowel.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\131-IsThereAVowel\bin\Debug\net5.0\131-IsThereAVowel.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\131-IsThereAVowel\bin\Debug\net5.0\131-IsThereAVowel.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\131-IsThereAVowel\bin\Debug\net5.0\131-IsThereAVowel.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\131-IsThereAVowel\bin\Debug\net5.0\131-IsThereAVowel.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\131-IsThereAVowel\bin\Debug\net5.0\ref\131-IsThereAVowel.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\131-IsThereAVowel\bin\Debug\net5.0\131-IsThereAVowel.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\131-IsThereAVowel\obj\Debug\net5.0\131-IsThereAVowel.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\131-IsThereAVowel\obj\Debug\net5.0\ref\131-IsThereAVowel.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\131-IsThereAVowel\obj\Debug\net5.0\131-IsThereAVowel.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\131-IsThereAVowel\obj\Debug\net5.0\131-IsThereAVowel.genruntimeconfig.cache

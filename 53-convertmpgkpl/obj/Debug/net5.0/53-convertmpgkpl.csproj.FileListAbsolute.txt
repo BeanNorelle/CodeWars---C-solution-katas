@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\53-convertmpgkpl\bin\Debug\net5.0\53-convertmpgkpl.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\53-convertmpgkpl\bin\Debug\net5.0\53-convertmpgkpl.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\53-convertmpgkpl\bin\Debug\net5.0\53-convertmpgkpl.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\53-convertmpgkpl\bin\Debug\net5.0\53-convertmpgkpl.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\53-convertmpgkpl\bin\Debug\net5.0\53-convertmpgkpl.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\53-convertmpgkpl\bin\Debug\net5.0\ref\53-convertmpgkpl.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\53-convertmpgkpl\bin\Debug\net5.0\53-convertmpgkpl.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\53-convertmpgkpl\obj\Debug\net5.0\53-convertmpgkpl.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\53-convertmpgkpl\obj\Debug\net5.0\53-convertmpgkpl.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\53-convertmpgkpl\obj\Debug\net5.0\53-convertmpgkpl.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\53-convertmpgkpl\obj\Debug\net5.0\53-convertmpgkpl.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\53-convertmpgkpl\obj\Debug\net5.0\53-convertmpgkpl.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\53-convertmpgkpl\obj\Debug\net5.0\53-convertmpgkpl.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\53-convertmpgkpl\obj\Debug\net5.0\ref\53-convertmpgkpl.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\53-convertmpgkpl\obj\Debug\net5.0\53-convertmpgkpl.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\53-convertmpgkpl\obj\Debug\net5.0\53-convertmpgkpl.genruntimeconfig.cache

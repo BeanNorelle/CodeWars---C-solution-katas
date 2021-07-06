@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\127-fizzbuzz\bin\Debug\net5.0\127-fizzbuzz.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\127-fizzbuzz\bin\Debug\net5.0\127-fizzbuzz.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\127-fizzbuzz\bin\Debug\net5.0\127-fizzbuzz.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\127-fizzbuzz\bin\Debug\net5.0\127-fizzbuzz.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\127-fizzbuzz\bin\Debug\net5.0\127-fizzbuzz.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\127-fizzbuzz\bin\Debug\net5.0\ref\127-fizzbuzz.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\127-fizzbuzz\bin\Debug\net5.0\127-fizzbuzz.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\127-fizzbuzz\obj\Debug\net5.0\127-fizzbuzz.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\127-fizzbuzz\obj\Debug\net5.0\127-fizzbuzz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\127-fizzbuzz\obj\Debug\net5.0\127-fizzbuzz.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\127-fizzbuzz\obj\Debug\net5.0\127-fizzbuzz.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\127-fizzbuzz\obj\Debug\net5.0\127-fizzbuzz.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\127-fizzbuzz\obj\Debug\net5.0\127-fizzbuzz.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\127-fizzbuzz\obj\Debug\net5.0\ref\127-fizzbuzz.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\127-fizzbuzz\obj\Debug\net5.0\127-fizzbuzz.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\127-fizzbuzz\obj\Debug\net5.0\127-fizzbuzz.genruntimeconfig.cache

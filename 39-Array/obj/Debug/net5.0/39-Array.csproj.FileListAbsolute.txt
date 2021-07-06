@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\39-Array\bin\Debug\net5.0\39-Array.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\39-Array\bin\Debug\net5.0\39-Array.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\39-Array\bin\Debug\net5.0\39-Array.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\39-Array\bin\Debug\net5.0\39-Array.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\39-Array\bin\Debug\net5.0\39-Array.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\39-Array\bin\Debug\net5.0\ref\39-Array.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\39-Array\bin\Debug\net5.0\39-Array.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\39-Array\obj\Debug\net5.0\39-Array.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\39-Array\obj\Debug\net5.0\39-Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\39-Array\obj\Debug\net5.0\39-Array.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\39-Array\obj\Debug\net5.0\39-Array.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\39-Array\obj\Debug\net5.0\39-Array.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\39-Array\obj\Debug\net5.0\39-Array.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\39-Array\obj\Debug\net5.0\ref\39-Array.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\39-Array\obj\Debug\net5.0\39-Array.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\39-Array\obj\Debug\net5.0\39-Array.genruntimeconfig.cache

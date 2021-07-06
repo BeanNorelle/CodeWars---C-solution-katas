@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\120-sortAndStar\obj\Debug\net5.0\120-sortAndStar.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\120-sortAndStar\obj\Debug\net5.0\120-sortAndStar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\120-sortAndStar\obj\Debug\net5.0\120-sortAndStar.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\120-sortAndStar\obj\Debug\net5.0\120-sortAndStar.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\120-sortAndStar\obj\Debug\net5.0\120-sortAndStar.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\120-sortAndStar\bin\Debug\net5.0\120-sortAndStar.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\120-sortAndStar\bin\Debug\net5.0\120-sortAndStar.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\120-sortAndStar\bin\Debug\net5.0\120-sortAndStar.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\120-sortAndStar\bin\Debug\net5.0\120-sortAndStar.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\120-sortAndStar\bin\Debug\net5.0\120-sortAndStar.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\120-sortAndStar\bin\Debug\net5.0\ref\120-sortAndStar.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\120-sortAndStar\bin\Debug\net5.0\120-sortAndStar.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\120-sortAndStar\obj\Debug\net5.0\120-sortAndStar.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\120-sortAndStar\obj\Debug\net5.0\ref\120-sortAndStar.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\120-sortAndStar\obj\Debug\net5.0\120-sortAndStar.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\120-sortAndStar\obj\Debug\net5.0\120-sortAndStar.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\109-HammingNumbers\bin\Debug\net5.0\109-HammingNumbers.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\109-HammingNumbers\bin\Debug\net5.0\109-HammingNumbers.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\109-HammingNumbers\bin\Debug\net5.0\109-HammingNumbers.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\109-HammingNumbers\bin\Debug\net5.0\109-HammingNumbers.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\109-HammingNumbers\bin\Debug\net5.0\109-HammingNumbers.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\109-HammingNumbers\bin\Debug\net5.0\ref\109-HammingNumbers.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\109-HammingNumbers\bin\Debug\net5.0\109-HammingNumbers.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\109-HammingNumbers\obj\Debug\net5.0\109-HammingNumbers.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\109-HammingNumbers\obj\Debug\net5.0\109-HammingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\109-HammingNumbers\obj\Debug\net5.0\109-HammingNumbers.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\109-HammingNumbers\obj\Debug\net5.0\109-HammingNumbers.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\109-HammingNumbers\obj\Debug\net5.0\109-HammingNumbers.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\109-HammingNumbers\obj\Debug\net5.0\109-HammingNumbers.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\109-HammingNumbers\obj\Debug\net5.0\ref\109-HammingNumbers.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\109-HammingNumbers\obj\Debug\net5.0\109-HammingNumbers.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\109-HammingNumbers\obj\Debug\net5.0\109-HammingNumbers.genruntimeconfig.cache

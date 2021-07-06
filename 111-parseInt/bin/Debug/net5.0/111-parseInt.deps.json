@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "111-parseInt/1.0.0": {
+        "runtime": {
+          "111-parseInt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "111-parseInt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\28-inheiritance\bin\Debug\net5.0\28-inheiritance.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\28-inheiritance\bin\Debug\net5.0\28-inheiritance.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\28-inheiritance\bin\Debug\net5.0\28-inheiritance.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\28-inheiritance\bin\Debug\net5.0\28-inheiritance.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\28-inheiritance\bin\Debug\net5.0\28-inheiritance.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\28-inheiritance\bin\Debug\net5.0\ref\28-inheiritance.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\28-inheiritance\bin\Debug\net5.0\28-inheiritance.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\28-inheiritance\obj\Debug\net5.0\28-inheiritance.csprojAssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\28-inheiritance\obj\Debug\net5.0\28-inheiritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\28-inheiritance\obj\Debug\net5.0\28-inheiritance.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\28-inheiritance\obj\Debug\net5.0\28-inheiritance.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\28-inheiritance\obj\Debug\net5.0\28-inheiritance.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\28-inheiritance\obj\Debug\net5.0\28-inheiritance.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\28-inheiritance\obj\Debug\net5.0\ref\28-inheiritance.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\28-inheiritance\obj\Debug\net5.0\28-inheiritance.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\28-inheiritance\obj\Debug\net5.0\28-inheiritance.genruntimeconfig.cache

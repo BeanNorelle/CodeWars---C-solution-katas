@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\78-permutation\bin\Debug\net5.0\78-permutation.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\78-permutation\bin\Debug\net5.0\78-permutation.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\78-permutation\bin\Debug\net5.0\78-permutation.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\78-permutation\bin\Debug\net5.0\78-permutation.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\78-permutation\bin\Debug\net5.0\78-permutation.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\78-permutation\bin\Debug\net5.0\ref\78-permutation.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\78-permutation\bin\Debug\net5.0\78-permutation.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\78-permutation\obj\Debug\net5.0\78-permutation.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\78-permutation\obj\Debug\net5.0\78-permutation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\78-permutation\obj\Debug\net5.0\78-permutation.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\78-permutation\obj\Debug\net5.0\78-permutation.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\78-permutation\obj\Debug\net5.0\78-permutation.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\78-permutation\obj\Debug\net5.0\78-permutation.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\78-permutation\obj\Debug\net5.0\ref\78-permutation.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\78-permutation\obj\Debug\net5.0\78-permutation.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\78-permutation\obj\Debug\net5.0\78-permutation.genruntimeconfig.cache

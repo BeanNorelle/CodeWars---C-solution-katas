@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\108-ChristmassTree\bin\Debug\net5.0\108-ChristmassTree.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\108-ChristmassTree\bin\Debug\net5.0\108-ChristmassTree.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\108-ChristmassTree\bin\Debug\net5.0\108-ChristmassTree.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\108-ChristmassTree\bin\Debug\net5.0\108-ChristmassTree.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\108-ChristmassTree\bin\Debug\net5.0\108-ChristmassTree.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\108-ChristmassTree\bin\Debug\net5.0\ref\108-ChristmassTree.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\108-ChristmassTree\bin\Debug\net5.0\108-ChristmassTree.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\108-ChristmassTree\obj\Debug\net5.0\108-ChristmassTree.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\108-ChristmassTree\obj\Debug\net5.0\108-ChristmassTree.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\108-ChristmassTree\obj\Debug\net5.0\108-ChristmassTree.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\108-ChristmassTree\obj\Debug\net5.0\108-ChristmassTree.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\108-ChristmassTree\obj\Debug\net5.0\108-ChristmassTree.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\108-ChristmassTree\obj\Debug\net5.0\108-ChristmassTree.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\108-ChristmassTree\obj\Debug\net5.0\ref\108-ChristmassTree.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\108-ChristmassTree\obj\Debug\net5.0\108-ChristmassTree.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\108-ChristmassTree\obj\Debug\net5.0\108-ChristmassTree.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\91-moveZero\bin\Debug\net5.0\91-moveZero.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\91-moveZero\bin\Debug\net5.0\91-moveZero.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\91-moveZero\bin\Debug\net5.0\91-moveZero.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\91-moveZero\bin\Debug\net5.0\91-moveZero.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\91-moveZero\bin\Debug\net5.0\91-moveZero.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\91-moveZero\bin\Debug\net5.0\ref\91-moveZero.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\91-moveZero\bin\Debug\net5.0\91-moveZero.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\91-moveZero\obj\Debug\net5.0\91-moveZero.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\91-moveZero\obj\Debug\net5.0\91-moveZero.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\91-moveZero\obj\Debug\net5.0\91-moveZero.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\91-moveZero\obj\Debug\net5.0\91-moveZero.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\91-moveZero\obj\Debug\net5.0\91-moveZero.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\91-moveZero\obj\Debug\net5.0\91-moveZero.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\91-moveZero\obj\Debug\net5.0\ref\91-moveZero.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\91-moveZero\obj\Debug\net5.0\91-moveZero.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\91-moveZero\obj\Debug\net5.0\91-moveZero.genruntimeconfig.cache

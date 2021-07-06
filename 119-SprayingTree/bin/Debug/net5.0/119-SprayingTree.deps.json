@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "119-SprayingTree/1.0.0": {
+        "runtime": {
+          "119-SprayingTree.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "119-SprayingTree/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

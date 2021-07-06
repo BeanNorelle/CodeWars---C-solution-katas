@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\57-countduplicates\bin\Debug\net5.0\57-countduplicates.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\57-countduplicates\bin\Debug\net5.0\57-countduplicates.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\57-countduplicates\bin\Debug\net5.0\57-countduplicates.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\57-countduplicates\bin\Debug\net5.0\57-countduplicates.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\57-countduplicates\bin\Debug\net5.0\57-countduplicates.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\57-countduplicates\bin\Debug\net5.0\ref\57-countduplicates.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\57-countduplicates\bin\Debug\net5.0\57-countduplicates.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\57-countduplicates\obj\Debug\net5.0\57-countduplicates.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\57-countduplicates\obj\Debug\net5.0\57-countduplicates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\57-countduplicates\obj\Debug\net5.0\57-countduplicates.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\57-countduplicates\obj\Debug\net5.0\57-countduplicates.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\57-countduplicates\obj\Debug\net5.0\57-countduplicates.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\57-countduplicates\obj\Debug\net5.0\57-countduplicates.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\57-countduplicates\obj\Debug\net5.0\ref\57-countduplicates.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\57-countduplicates\obj\Debug\net5.0\57-countduplicates.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\57-countduplicates\obj\Debug\net5.0\57-countduplicates.genruntimeconfig.cache

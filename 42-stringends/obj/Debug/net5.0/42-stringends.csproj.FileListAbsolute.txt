@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\42-stringends\bin\Debug\net5.0\42-stringends.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\42-stringends\bin\Debug\net5.0\42-stringends.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\42-stringends\bin\Debug\net5.0\42-stringends.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\42-stringends\bin\Debug\net5.0\42-stringends.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\42-stringends\bin\Debug\net5.0\42-stringends.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\42-stringends\bin\Debug\net5.0\ref\42-stringends.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\42-stringends\bin\Debug\net5.0\42-stringends.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\42-stringends\obj\Debug\net5.0\42-stringends.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\42-stringends\obj\Debug\net5.0\42-stringends.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\42-stringends\obj\Debug\net5.0\42-stringends.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\42-stringends\obj\Debug\net5.0\42-stringends.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\42-stringends\obj\Debug\net5.0\42-stringends.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\42-stringends\obj\Debug\net5.0\42-stringends.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\42-stringends\obj\Debug\net5.0\ref\42-stringends.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\42-stringends\obj\Debug\net5.0\42-stringends.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\42-stringends\obj\Debug\net5.0\42-stringends.genruntimeconfig.cache

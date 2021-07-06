@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\87-ShoppingCalculator\obj\Debug\net5.0\87-ShoppingCalculator.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\87-ShoppingCalculator\obj\Debug\net5.0\87-ShoppingCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\87-ShoppingCalculator\obj\Debug\net5.0\87-ShoppingCalculator.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\87-ShoppingCalculator\obj\Debug\net5.0\87-ShoppingCalculator.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\87-ShoppingCalculator\obj\Debug\net5.0\87-ShoppingCalculator.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\87-ShoppingCalculator\bin\Debug\net5.0\87-ShoppingCalculator.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\87-ShoppingCalculator\bin\Debug\net5.0\87-ShoppingCalculator.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\87-ShoppingCalculator\bin\Debug\net5.0\87-ShoppingCalculator.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\87-ShoppingCalculator\bin\Debug\net5.0\87-ShoppingCalculator.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\87-ShoppingCalculator\bin\Debug\net5.0\87-ShoppingCalculator.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\87-ShoppingCalculator\bin\Debug\net5.0\ref\87-ShoppingCalculator.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\87-ShoppingCalculator\bin\Debug\net5.0\87-ShoppingCalculator.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\87-ShoppingCalculator\obj\Debug\net5.0\87-ShoppingCalculator.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\87-ShoppingCalculator\obj\Debug\net5.0\ref\87-ShoppingCalculator.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\87-ShoppingCalculator\obj\Debug\net5.0\87-ShoppingCalculator.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\87-ShoppingCalculator\obj\Debug\net5.0\87-ShoppingCalculator.genruntimeconfig.cache

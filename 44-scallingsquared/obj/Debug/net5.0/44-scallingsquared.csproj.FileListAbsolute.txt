@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\44-scallingsquared\bin\Debug\net5.0\44-scallingsquared.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\44-scallingsquared\bin\Debug\net5.0\44-scallingsquared.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\44-scallingsquared\bin\Debug\net5.0\44-scallingsquared.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\44-scallingsquared\bin\Debug\net5.0\44-scallingsquared.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\44-scallingsquared\bin\Debug\net5.0\44-scallingsquared.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\44-scallingsquared\bin\Debug\net5.0\ref\44-scallingsquared.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\44-scallingsquared\bin\Debug\net5.0\44-scallingsquared.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\44-scallingsquared\obj\Debug\net5.0\44-scallingsquared.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\44-scallingsquared\obj\Debug\net5.0\44-scallingsquared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\44-scallingsquared\obj\Debug\net5.0\44-scallingsquared.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\44-scallingsquared\obj\Debug\net5.0\44-scallingsquared.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\44-scallingsquared\obj\Debug\net5.0\44-scallingsquared.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\44-scallingsquared\obj\Debug\net5.0\44-scallingsquared.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\44-scallingsquared\obj\Debug\net5.0\ref\44-scallingsquared.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\44-scallingsquared\obj\Debug\net5.0\44-scallingsquared.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\44-scallingsquared\obj\Debug\net5.0\44-scallingsquared.genruntimeconfig.cache

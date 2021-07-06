@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "104-countDiv/1.0.0": {
+        "runtime": {
+          "104-countDiv.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "104-countDiv/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

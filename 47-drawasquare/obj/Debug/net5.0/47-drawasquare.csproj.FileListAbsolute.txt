@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\47-drawasquare\bin\Debug\net5.0\47-drawasquare.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\47-drawasquare\bin\Debug\net5.0\47-drawasquare.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\47-drawasquare\bin\Debug\net5.0\47-drawasquare.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\47-drawasquare\bin\Debug\net5.0\47-drawasquare.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\47-drawasquare\bin\Debug\net5.0\47-drawasquare.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\47-drawasquare\bin\Debug\net5.0\ref\47-drawasquare.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\47-drawasquare\bin\Debug\net5.0\47-drawasquare.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\47-drawasquare\obj\Debug\net5.0\47-drawasquare.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\47-drawasquare\obj\Debug\net5.0\47-drawasquare.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\47-drawasquare\obj\Debug\net5.0\47-drawasquare.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\47-drawasquare\obj\Debug\net5.0\47-drawasquare.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\47-drawasquare\obj\Debug\net5.0\47-drawasquare.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\47-drawasquare\obj\Debug\net5.0\47-drawasquare.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\47-drawasquare\obj\Debug\net5.0\ref\47-drawasquare.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\47-drawasquare\obj\Debug\net5.0\47-drawasquare.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\47-drawasquare\obj\Debug\net5.0\47-drawasquare.genruntimeconfig.cache

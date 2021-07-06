@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "77-humanreadable/1.0.0": {
+        "runtime": {
+          "77-humanreadable.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "77-humanreadable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

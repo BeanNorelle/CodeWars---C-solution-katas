@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\30-VasyaChange\bin\Debug\net5.0\30-VasyaChange.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\30-VasyaChange\bin\Debug\net5.0\30-VasyaChange.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\30-VasyaChange\bin\Debug\net5.0\30-VasyaChange.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\30-VasyaChange\bin\Debug\net5.0\30-VasyaChange.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\30-VasyaChange\bin\Debug\net5.0\30-VasyaChange.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\30-VasyaChange\bin\Debug\net5.0\ref\30-VasyaChange.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\30-VasyaChange\bin\Debug\net5.0\30-VasyaChange.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\30-VasyaChange\obj\Debug\net5.0\30-VasyaChange.csprojAssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\30-VasyaChange\obj\Debug\net5.0\30-VasyaChange.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\30-VasyaChange\obj\Debug\net5.0\30-VasyaChange.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\30-VasyaChange\obj\Debug\net5.0\30-VasyaChange.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\30-VasyaChange\obj\Debug\net5.0\30-VasyaChange.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\30-VasyaChange\obj\Debug\net5.0\30-VasyaChange.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\30-VasyaChange\obj\Debug\net5.0\ref\30-VasyaChange.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\30-VasyaChange\obj\Debug\net5.0\30-VasyaChange.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\30-VasyaChange\obj\Debug\net5.0\30-VasyaChange.genruntimeconfig.cache

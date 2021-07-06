@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\128-TwoSum\bin\Debug\net5.0\128-TwoSum.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\128-TwoSum\bin\Debug\net5.0\128-TwoSum.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\128-TwoSum\bin\Debug\net5.0\128-TwoSum.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\128-TwoSum\bin\Debug\net5.0\128-TwoSum.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\128-TwoSum\bin\Debug\net5.0\128-TwoSum.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\128-TwoSum\bin\Debug\net5.0\ref\128-TwoSum.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\128-TwoSum\bin\Debug\net5.0\128-TwoSum.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\128-TwoSum\obj\Debug\net5.0\128-TwoSum.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\128-TwoSum\obj\Debug\net5.0\128-TwoSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\128-TwoSum\obj\Debug\net5.0\128-TwoSum.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\128-TwoSum\obj\Debug\net5.0\128-TwoSum.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\128-TwoSum\obj\Debug\net5.0\128-TwoSum.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\128-TwoSum\obj\Debug\net5.0\128-TwoSum.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\128-TwoSum\obj\Debug\net5.0\ref\128-TwoSum.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\128-TwoSum\obj\Debug\net5.0\128-TwoSum.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\128-TwoSum\obj\Debug\net5.0\128-TwoSum.genruntimeconfig.cache

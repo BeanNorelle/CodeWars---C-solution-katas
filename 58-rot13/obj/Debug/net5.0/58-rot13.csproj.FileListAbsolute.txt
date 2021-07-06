@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\58-rot13\bin\Debug\net5.0\58-rot13.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\58-rot13\bin\Debug\net5.0\58-rot13.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\58-rot13\bin\Debug\net5.0\58-rot13.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\58-rot13\bin\Debug\net5.0\58-rot13.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\58-rot13\bin\Debug\net5.0\58-rot13.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\58-rot13\bin\Debug\net5.0\ref\58-rot13.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\58-rot13\bin\Debug\net5.0\58-rot13.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\58-rot13\obj\Debug\net5.0\58-rot13.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\58-rot13\obj\Debug\net5.0\58-rot13.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\58-rot13\obj\Debug\net5.0\58-rot13.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\58-rot13\obj\Debug\net5.0\58-rot13.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\58-rot13\obj\Debug\net5.0\58-rot13.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\58-rot13\obj\Debug\net5.0\58-rot13.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\58-rot13\obj\Debug\net5.0\ref\58-rot13.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\58-rot13\obj\Debug\net5.0\58-rot13.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\58-rot13\obj\Debug\net5.0\58-rot13.genruntimeconfig.cache

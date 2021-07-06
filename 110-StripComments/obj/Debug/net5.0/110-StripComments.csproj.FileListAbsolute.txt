@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\110-StripComments\bin\Debug\net5.0\110-StripComments.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\110-StripComments\bin\Debug\net5.0\110-StripComments.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\110-StripComments\bin\Debug\net5.0\110-StripComments.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\110-StripComments\bin\Debug\net5.0\110-StripComments.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\110-StripComments\bin\Debug\net5.0\110-StripComments.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\110-StripComments\bin\Debug\net5.0\ref\110-StripComments.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\110-StripComments\bin\Debug\net5.0\110-StripComments.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\110-StripComments\obj\Debug\net5.0\110-StripComments.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\110-StripComments\obj\Debug\net5.0\110-StripComments.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\110-StripComments\obj\Debug\net5.0\110-StripComments.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\110-StripComments\obj\Debug\net5.0\110-StripComments.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\110-StripComments\obj\Debug\net5.0\110-StripComments.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\110-StripComments\obj\Debug\net5.0\110-StripComments.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\110-StripComments\obj\Debug\net5.0\ref\110-StripComments.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\110-StripComments\obj\Debug\net5.0\110-StripComments.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\110-StripComments\obj\Debug\net5.0\110-StripComments.genruntimeconfig.cache

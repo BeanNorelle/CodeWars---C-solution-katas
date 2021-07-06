@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\43-smallestpermu\bin\Debug\net5.0\43-smallestpermu.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\43-smallestpermu\bin\Debug\net5.0\43-smallestpermu.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\43-smallestpermu\bin\Debug\net5.0\43-smallestpermu.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\43-smallestpermu\bin\Debug\net5.0\43-smallestpermu.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\43-smallestpermu\bin\Debug\net5.0\43-smallestpermu.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\43-smallestpermu\bin\Debug\net5.0\ref\43-smallestpermu.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\43-smallestpermu\bin\Debug\net5.0\43-smallestpermu.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\43-smallestpermu\obj\Debug\net5.0\43-smallestpermu.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\43-smallestpermu\obj\Debug\net5.0\43-smallestpermu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\43-smallestpermu\obj\Debug\net5.0\43-smallestpermu.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\43-smallestpermu\obj\Debug\net5.0\43-smallestpermu.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\43-smallestpermu\obj\Debug\net5.0\43-smallestpermu.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\43-smallestpermu\obj\Debug\net5.0\43-smallestpermu.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\43-smallestpermu\obj\Debug\net5.0\ref\43-smallestpermu.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\43-smallestpermu\obj\Debug\net5.0\43-smallestpermu.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\43-smallestpermu\obj\Debug\net5.0\43-smallestpermu.genruntimeconfig.cache

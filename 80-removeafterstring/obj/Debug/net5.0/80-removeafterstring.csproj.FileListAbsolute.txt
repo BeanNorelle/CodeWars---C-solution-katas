@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\80-removeafterstring\bin\Debug\net5.0\80-removeafterstring.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\80-removeafterstring\bin\Debug\net5.0\80-removeafterstring.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\80-removeafterstring\bin\Debug\net5.0\80-removeafterstring.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\80-removeafterstring\bin\Debug\net5.0\80-removeafterstring.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\80-removeafterstring\bin\Debug\net5.0\80-removeafterstring.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\80-removeafterstring\bin\Debug\net5.0\ref\80-removeafterstring.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\80-removeafterstring\bin\Debug\net5.0\80-removeafterstring.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\80-removeafterstring\obj\Debug\net5.0\80-removeafterstring.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\80-removeafterstring\obj\Debug\net5.0\80-removeafterstring.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\80-removeafterstring\obj\Debug\net5.0\80-removeafterstring.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\80-removeafterstring\obj\Debug\net5.0\80-removeafterstring.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\80-removeafterstring\obj\Debug\net5.0\80-removeafterstring.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\80-removeafterstring\obj\Debug\net5.0\80-removeafterstring.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\80-removeafterstring\obj\Debug\net5.0\ref\80-removeafterstring.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\80-removeafterstring\obj\Debug\net5.0\80-removeafterstring.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\80-removeafterstring\obj\Debug\net5.0\80-removeafterstring.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\33-panagram\bin\Debug\net5.0\33-panagram.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\33-panagram\bin\Debug\net5.0\33-panagram.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\33-panagram\bin\Debug\net5.0\33-panagram.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\33-panagram\bin\Debug\net5.0\33-panagram.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\33-panagram\bin\Debug\net5.0\33-panagram.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\33-panagram\bin\Debug\net5.0\ref\33-panagram.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\33-panagram\bin\Debug\net5.0\33-panagram.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\33-panagram\obj\Debug\net5.0\33-panagram.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\33-panagram\obj\Debug\net5.0\33-panagram.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\33-panagram\obj\Debug\net5.0\33-panagram.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\33-panagram\obj\Debug\net5.0\33-panagram.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\33-panagram\obj\Debug\net5.0\33-panagram.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\33-panagram\obj\Debug\net5.0\33-panagram.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\33-panagram\obj\Debug\net5.0\ref\33-panagram.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\33-panagram\obj\Debug\net5.0\33-panagram.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\33-panagram\obj\Debug\net5.0\33-panagram.genruntimeconfig.cache

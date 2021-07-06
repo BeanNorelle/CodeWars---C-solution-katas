@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\102-SumArray\bin\Debug\net5.0\102-SumArray.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\102-SumArray\bin\Debug\net5.0\102-SumArray.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\102-SumArray\bin\Debug\net5.0\102-SumArray.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\102-SumArray\bin\Debug\net5.0\102-SumArray.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\102-SumArray\bin\Debug\net5.0\102-SumArray.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\102-SumArray\bin\Debug\net5.0\ref\102-SumArray.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\102-SumArray\bin\Debug\net5.0\102-SumArray.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\102-SumArray\obj\Debug\net5.0\102-SumArray.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\102-SumArray\obj\Debug\net5.0\102-SumArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\102-SumArray\obj\Debug\net5.0\102-SumArray.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\102-SumArray\obj\Debug\net5.0\102-SumArray.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\102-SumArray\obj\Debug\net5.0\102-SumArray.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\102-SumArray\obj\Debug\net5.0\102-SumArray.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\102-SumArray\obj\Debug\net5.0\ref\102-SumArray.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\102-SumArray\obj\Debug\net5.0\102-SumArray.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\102-SumArray\obj\Debug\net5.0\102-SumArray.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\71-snailpattern\bin\Debug\net5.0\71-snailpattern.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\71-snailpattern\bin\Debug\net5.0\71-snailpattern.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\71-snailpattern\bin\Debug\net5.0\71-snailpattern.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\71-snailpattern\bin\Debug\net5.0\71-snailpattern.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\71-snailpattern\bin\Debug\net5.0\71-snailpattern.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\71-snailpattern\bin\Debug\net5.0\ref\71-snailpattern.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\71-snailpattern\bin\Debug\net5.0\71-snailpattern.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\71-snailpattern\obj\Debug\net5.0\71-snailpattern.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\71-snailpattern\obj\Debug\net5.0\71-snailpattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\71-snailpattern\obj\Debug\net5.0\71-snailpattern.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\71-snailpattern\obj\Debug\net5.0\71-snailpattern.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\71-snailpattern\obj\Debug\net5.0\71-snailpattern.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\71-snailpattern\obj\Debug\net5.0\71-snailpattern.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\71-snailpattern\obj\Debug\net5.0\ref\71-snailpattern.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\71-snailpattern\obj\Debug\net5.0\71-snailpattern.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\71-snailpattern\obj\Debug\net5.0\71-snailpattern.genruntimeconfig.cache

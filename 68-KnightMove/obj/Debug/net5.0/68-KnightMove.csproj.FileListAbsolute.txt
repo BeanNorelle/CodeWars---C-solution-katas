@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\68-KnightMove\bin\Debug\net5.0\68-KnightMove.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\68-KnightMove\bin\Debug\net5.0\68-KnightMove.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\68-KnightMove\bin\Debug\net5.0\68-KnightMove.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\68-KnightMove\bin\Debug\net5.0\68-KnightMove.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\68-KnightMove\bin\Debug\net5.0\68-KnightMove.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\68-KnightMove\bin\Debug\net5.0\ref\68-KnightMove.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\68-KnightMove\bin\Debug\net5.0\68-KnightMove.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\68-KnightMove\obj\Debug\net5.0\68-KnightMove.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\68-KnightMove\obj\Debug\net5.0\68-KnightMove.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\68-KnightMove\obj\Debug\net5.0\68-KnightMove.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\68-KnightMove\obj\Debug\net5.0\68-KnightMove.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\68-KnightMove\obj\Debug\net5.0\68-KnightMove.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\68-KnightMove\obj\Debug\net5.0\68-KnightMove.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\68-KnightMove\obj\Debug\net5.0\ref\68-KnightMove.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\68-KnightMove\obj\Debug\net5.0\68-KnightMove.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\68-KnightMove\obj\Debug\net5.0\68-KnightMove.genruntimeconfig.cache

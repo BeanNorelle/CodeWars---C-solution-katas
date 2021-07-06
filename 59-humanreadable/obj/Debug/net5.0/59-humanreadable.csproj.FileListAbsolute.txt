@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\59-humanreadable\bin\Debug\net5.0\59-humanreadable.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\59-humanreadable\bin\Debug\net5.0\59-humanreadable.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\59-humanreadable\bin\Debug\net5.0\59-humanreadable.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\59-humanreadable\bin\Debug\net5.0\59-humanreadable.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\59-humanreadable\bin\Debug\net5.0\59-humanreadable.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\59-humanreadable\bin\Debug\net5.0\ref\59-humanreadable.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\59-humanreadable\bin\Debug\net5.0\59-humanreadable.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\59-humanreadable\obj\Debug\net5.0\59-humanreadable.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\59-humanreadable\obj\Debug\net5.0\59-humanreadable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\59-humanreadable\obj\Debug\net5.0\59-humanreadable.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\59-humanreadable\obj\Debug\net5.0\59-humanreadable.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\59-humanreadable\obj\Debug\net5.0\59-humanreadable.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\59-humanreadable\obj\Debug\net5.0\59-humanreadable.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\59-humanreadable\obj\Debug\net5.0\ref\59-humanreadable.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\59-humanreadable\obj\Debug\net5.0\59-humanreadable.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\59-humanreadable\obj\Debug\net5.0\59-humanreadable.genruntimeconfig.cache

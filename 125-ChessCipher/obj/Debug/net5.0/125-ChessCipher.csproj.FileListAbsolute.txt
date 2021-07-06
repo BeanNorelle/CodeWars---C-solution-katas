@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\125-ChessCipher\bin\Debug\net5.0\125-ChessCipher.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\125-ChessCipher\bin\Debug\net5.0\125-ChessCipher.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\125-ChessCipher\bin\Debug\net5.0\125-ChessCipher.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\125-ChessCipher\bin\Debug\net5.0\125-ChessCipher.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\125-ChessCipher\bin\Debug\net5.0\125-ChessCipher.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\125-ChessCipher\bin\Debug\net5.0\ref\125-ChessCipher.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\125-ChessCipher\bin\Debug\net5.0\125-ChessCipher.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\125-ChessCipher\obj\Debug\net5.0\125-ChessCipher.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\125-ChessCipher\obj\Debug\net5.0\125-ChessCipher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\125-ChessCipher\obj\Debug\net5.0\125-ChessCipher.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\125-ChessCipher\obj\Debug\net5.0\125-ChessCipher.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\125-ChessCipher\obj\Debug\net5.0\125-ChessCipher.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\125-ChessCipher\obj\Debug\net5.0\125-ChessCipher.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\125-ChessCipher\obj\Debug\net5.0\ref\125-ChessCipher.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\125-ChessCipher\obj\Debug\net5.0\125-ChessCipher.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\125-ChessCipher\obj\Debug\net5.0\125-ChessCipher.genruntimeconfig.cache

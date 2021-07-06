@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\29-codewars\bin\Debug\net5.0\29-codewars.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\29-codewars\bin\Debug\net5.0\29-codewars.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\29-codewars\bin\Debug\net5.0\29-codewars.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\29-codewars\bin\Debug\net5.0\29-codewars.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\29-codewars\bin\Debug\net5.0\29-codewars.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\29-codewars\bin\Debug\net5.0\ref\29-codewars.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\29-codewars\bin\Debug\net5.0\29-codewars.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\29-codewars\obj\Debug\net5.0\29-codewars.csprojAssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\29-codewars\obj\Debug\net5.0\29-codewars.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\29-codewars\obj\Debug\net5.0\29-codewars.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\29-codewars\obj\Debug\net5.0\29-codewars.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\29-codewars\obj\Debug\net5.0\29-codewars.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\29-codewars\obj\Debug\net5.0\29-codewars.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\29-codewars\obj\Debug\net5.0\ref\29-codewars.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\29-codewars\obj\Debug\net5.0\29-codewars.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\29-codewars\obj\Debug\net5.0\29-codewars.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\73-largest2digits\bin\Debug\net5.0\73-largest2digits.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\73-largest2digits\bin\Debug\net5.0\73-largest2digits.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\73-largest2digits\bin\Debug\net5.0\73-largest2digits.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\73-largest2digits\bin\Debug\net5.0\73-largest2digits.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\73-largest2digits\bin\Debug\net5.0\73-largest2digits.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\73-largest2digits\bin\Debug\net5.0\ref\73-largest2digits.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\73-largest2digits\bin\Debug\net5.0\73-largest2digits.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\73-largest2digits\obj\Debug\net5.0\73-largest2digits.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\73-largest2digits\obj\Debug\net5.0\73-largest2digits.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\73-largest2digits\obj\Debug\net5.0\73-largest2digits.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\73-largest2digits\obj\Debug\net5.0\73-largest2digits.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\73-largest2digits\obj\Debug\net5.0\73-largest2digits.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\73-largest2digits\obj\Debug\net5.0\73-largest2digits.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\73-largest2digits\obj\Debug\net5.0\ref\73-largest2digits.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\73-largest2digits\obj\Debug\net5.0\73-largest2digits.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\73-largest2digits\obj\Debug\net5.0\73-largest2digits.genruntimeconfig.cache

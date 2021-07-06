@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\126-MorseCode\bin\Debug\net5.0\126-MorseCode.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\126-MorseCode\bin\Debug\net5.0\126-MorseCode.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\126-MorseCode\bin\Debug\net5.0\126-MorseCode.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\126-MorseCode\bin\Debug\net5.0\126-MorseCode.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\126-MorseCode\bin\Debug\net5.0\126-MorseCode.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\126-MorseCode\bin\Debug\net5.0\ref\126-MorseCode.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\126-MorseCode\bin\Debug\net5.0\126-MorseCode.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\126-MorseCode\obj\Debug\net5.0\126-MorseCode.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\126-MorseCode\obj\Debug\net5.0\126-MorseCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\126-MorseCode\obj\Debug\net5.0\126-MorseCode.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\126-MorseCode\obj\Debug\net5.0\126-MorseCode.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\126-MorseCode\obj\Debug\net5.0\126-MorseCode.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\126-MorseCode\obj\Debug\net5.0\126-MorseCode.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\126-MorseCode\obj\Debug\net5.0\ref\126-MorseCode.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\126-MorseCode\obj\Debug\net5.0\126-MorseCode.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\126-MorseCode\obj\Debug\net5.0\126-MorseCode.genruntimeconfig.cache

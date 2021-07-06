@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\103-BitToInteger\bin\Debug\net5.0\103-BitToInteger.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\103-BitToInteger\bin\Debug\net5.0\103-BitToInteger.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\103-BitToInteger\bin\Debug\net5.0\103-BitToInteger.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\103-BitToInteger\bin\Debug\net5.0\103-BitToInteger.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\103-BitToInteger\bin\Debug\net5.0\103-BitToInteger.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\103-BitToInteger\bin\Debug\net5.0\ref\103-BitToInteger.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\103-BitToInteger\bin\Debug\net5.0\103-BitToInteger.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\103-BitToInteger\obj\Debug\net5.0\103-BitToInteger.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\103-BitToInteger\obj\Debug\net5.0\103-BitToInteger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\103-BitToInteger\obj\Debug\net5.0\103-BitToInteger.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\103-BitToInteger\obj\Debug\net5.0\103-BitToInteger.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\103-BitToInteger\obj\Debug\net5.0\103-BitToInteger.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\103-BitToInteger\obj\Debug\net5.0\103-BitToInteger.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\103-BitToInteger\obj\Debug\net5.0\ref\103-BitToInteger.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\103-BitToInteger\obj\Debug\net5.0\103-BitToInteger.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\103-BitToInteger\obj\Debug\net5.0\103-BitToInteger.genruntimeconfig.cache

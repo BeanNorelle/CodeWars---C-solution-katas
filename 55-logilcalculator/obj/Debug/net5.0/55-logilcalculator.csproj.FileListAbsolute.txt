@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\55-logilcalculator\bin\Debug\net5.0\55-logilcalculator.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\55-logilcalculator\bin\Debug\net5.0\55-logilcalculator.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\55-logilcalculator\bin\Debug\net5.0\55-logilcalculator.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\55-logilcalculator\bin\Debug\net5.0\55-logilcalculator.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\55-logilcalculator\bin\Debug\net5.0\55-logilcalculator.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\55-logilcalculator\bin\Debug\net5.0\ref\55-logilcalculator.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\55-logilcalculator\bin\Debug\net5.0\55-logilcalculator.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\55-logilcalculator\obj\Debug\net5.0\55-logilcalculator.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\55-logilcalculator\obj\Debug\net5.0\55-logilcalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\55-logilcalculator\obj\Debug\net5.0\55-logilcalculator.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\55-logilcalculator\obj\Debug\net5.0\55-logilcalculator.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\55-logilcalculator\obj\Debug\net5.0\55-logilcalculator.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\55-logilcalculator\obj\Debug\net5.0\55-logilcalculator.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\55-logilcalculator\obj\Debug\net5.0\ref\55-logilcalculator.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\55-logilcalculator\obj\Debug\net5.0\55-logilcalculator.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\55-logilcalculator\obj\Debug\net5.0\55-logilcalculator.genruntimeconfig.cache

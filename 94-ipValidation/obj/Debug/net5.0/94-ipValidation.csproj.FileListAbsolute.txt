@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\94-ipValidation\obj\Debug\net5.0\94-ipValidation.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\94-ipValidation\obj\Debug\net5.0\94-ipValidation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\94-ipValidation\obj\Debug\net5.0\94-ipValidation.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\94-ipValidation\obj\Debug\net5.0\94-ipValidation.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\94-ipValidation\obj\Debug\net5.0\94-ipValidation.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\94-ipValidation\bin\Debug\net5.0\94-ipValidation.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\94-ipValidation\bin\Debug\net5.0\94-ipValidation.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\94-ipValidation\bin\Debug\net5.0\94-ipValidation.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\94-ipValidation\bin\Debug\net5.0\94-ipValidation.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\94-ipValidation\bin\Debug\net5.0\94-ipValidation.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\94-ipValidation\bin\Debug\net5.0\ref\94-ipValidation.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\94-ipValidation\bin\Debug\net5.0\94-ipValidation.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\94-ipValidation\obj\Debug\net5.0\94-ipValidation.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\94-ipValidation\obj\Debug\net5.0\ref\94-ipValidation.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\94-ipValidation\obj\Debug\net5.0\94-ipValidation.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\94-ipValidation\obj\Debug\net5.0\94-ipValidation.genruntimeconfig.cache

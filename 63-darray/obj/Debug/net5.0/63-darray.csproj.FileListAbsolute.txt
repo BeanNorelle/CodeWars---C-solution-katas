@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\63-darray\bin\Debug\net5.0\63-darray.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\63-darray\bin\Debug\net5.0\63-darray.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\63-darray\bin\Debug\net5.0\63-darray.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\63-darray\bin\Debug\net5.0\63-darray.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\63-darray\bin\Debug\net5.0\63-darray.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\63-darray\bin\Debug\net5.0\ref\63-darray.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\63-darray\bin\Debug\net5.0\63-darray.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\63-darray\obj\Debug\net5.0\63-darray.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\63-darray\obj\Debug\net5.0\63-darray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\63-darray\obj\Debug\net5.0\63-darray.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\63-darray\obj\Debug\net5.0\63-darray.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\63-darray\obj\Debug\net5.0\63-darray.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\63-darray\obj\Debug\net5.0\63-darray.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\63-darray\obj\Debug\net5.0\ref\63-darray.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\63-darray\obj\Debug\net5.0\63-darray.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\63-darray\obj\Debug\net5.0\63-darray.genruntimeconfig.cache

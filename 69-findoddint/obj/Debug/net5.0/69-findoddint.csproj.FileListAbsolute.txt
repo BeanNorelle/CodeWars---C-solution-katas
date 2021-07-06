@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\69-findoddint\bin\Debug\net5.0\69-findoddint.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\69-findoddint\bin\Debug\net5.0\69-findoddint.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\69-findoddint\bin\Debug\net5.0\69-findoddint.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\69-findoddint\bin\Debug\net5.0\69-findoddint.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\69-findoddint\bin\Debug\net5.0\69-findoddint.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\69-findoddint\bin\Debug\net5.0\ref\69-findoddint.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\69-findoddint\bin\Debug\net5.0\69-findoddint.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\69-findoddint\obj\Debug\net5.0\69-findoddint.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\69-findoddint\obj\Debug\net5.0\69-findoddint.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\69-findoddint\obj\Debug\net5.0\69-findoddint.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\69-findoddint\obj\Debug\net5.0\69-findoddint.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\69-findoddint\obj\Debug\net5.0\69-findoddint.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\69-findoddint\obj\Debug\net5.0\69-findoddint.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\69-findoddint\obj\Debug\net5.0\ref\69-findoddint.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\69-findoddint\obj\Debug\net5.0\69-findoddint.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\69-findoddint\obj\Debug\net5.0\69-findoddint.genruntimeconfig.cache

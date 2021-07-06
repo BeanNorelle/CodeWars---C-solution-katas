@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\81-noOddities\bin\Debug\net5.0\81-noOddities.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\81-noOddities\bin\Debug\net5.0\81-noOddities.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\81-noOddities\bin\Debug\net5.0\81-noOddities.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\81-noOddities\bin\Debug\net5.0\81-noOddities.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\81-noOddities\bin\Debug\net5.0\81-noOddities.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\81-noOddities\bin\Debug\net5.0\ref\81-noOddities.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\81-noOddities\bin\Debug\net5.0\81-noOddities.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\81-noOddities\obj\Debug\net5.0\81-noOddities.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\81-noOddities\obj\Debug\net5.0\81-noOddities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\81-noOddities\obj\Debug\net5.0\81-noOddities.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\81-noOddities\obj\Debug\net5.0\81-noOddities.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\81-noOddities\obj\Debug\net5.0\81-noOddities.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\81-noOddities\obj\Debug\net5.0\81-noOddities.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\81-noOddities\obj\Debug\net5.0\ref\81-noOddities.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\81-noOddities\obj\Debug\net5.0\81-noOddities.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\81-noOddities\obj\Debug\net5.0\81-noOddities.genruntimeconfig.cache

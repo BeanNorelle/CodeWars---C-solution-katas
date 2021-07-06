@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "68-KnightMove/1.0.0": {
+        "runtime": {
+          "68-KnightMove.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "68-KnightMove/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

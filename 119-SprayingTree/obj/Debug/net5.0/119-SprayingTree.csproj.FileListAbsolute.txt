@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\119-SprayingTree\bin\Debug\net5.0\119-SprayingTree.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\119-SprayingTree\bin\Debug\net5.0\119-SprayingTree.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\119-SprayingTree\bin\Debug\net5.0\119-SprayingTree.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\119-SprayingTree\bin\Debug\net5.0\119-SprayingTree.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\119-SprayingTree\bin\Debug\net5.0\119-SprayingTree.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\119-SprayingTree\bin\Debug\net5.0\ref\119-SprayingTree.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\119-SprayingTree\bin\Debug\net5.0\119-SprayingTree.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\119-SprayingTree\obj\Debug\net5.0\119-SprayingTree.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\119-SprayingTree\obj\Debug\net5.0\119-SprayingTree.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\119-SprayingTree\obj\Debug\net5.0\119-SprayingTree.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\119-SprayingTree\obj\Debug\net5.0\119-SprayingTree.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\119-SprayingTree\obj\Debug\net5.0\119-SprayingTree.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\119-SprayingTree\obj\Debug\net5.0\119-SprayingTree.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\119-SprayingTree\obj\Debug\net5.0\ref\119-SprayingTree.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\119-SprayingTree\obj\Debug\net5.0\119-SprayingTree.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\119-SprayingTree\obj\Debug\net5.0\119-SprayingTree.genruntimeconfig.cache

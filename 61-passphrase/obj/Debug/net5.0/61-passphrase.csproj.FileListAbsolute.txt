@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\61-passphrase\bin\Debug\net5.0\61-passphrase.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\61-passphrase\bin\Debug\net5.0\61-passphrase.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\61-passphrase\bin\Debug\net5.0\61-passphrase.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\61-passphrase\bin\Debug\net5.0\61-passphrase.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\61-passphrase\bin\Debug\net5.0\61-passphrase.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\61-passphrase\bin\Debug\net5.0\ref\61-passphrase.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\61-passphrase\bin\Debug\net5.0\61-passphrase.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\61-passphrase\obj\Debug\net5.0\61-passphrase.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\61-passphrase\obj\Debug\net5.0\61-passphrase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\61-passphrase\obj\Debug\net5.0\61-passphrase.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\61-passphrase\obj\Debug\net5.0\61-passphrase.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\61-passphrase\obj\Debug\net5.0\61-passphrase.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\61-passphrase\obj\Debug\net5.0\61-passphrase.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\61-passphrase\obj\Debug\net5.0\ref\61-passphrase.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\61-passphrase\obj\Debug\net5.0\61-passphrase.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\61-passphrase\obj\Debug\net5.0\61-passphrase.genruntimeconfig.cache

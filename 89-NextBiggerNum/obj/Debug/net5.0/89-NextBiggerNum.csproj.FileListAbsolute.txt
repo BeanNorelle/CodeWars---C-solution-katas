@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\89-NextBiggerNum\obj\Debug\net5.0\89-NextBiggerNum.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\89-NextBiggerNum\obj\Debug\net5.0\89-NextBiggerNum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\89-NextBiggerNum\obj\Debug\net5.0\89-NextBiggerNum.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\89-NextBiggerNum\obj\Debug\net5.0\89-NextBiggerNum.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\89-NextBiggerNum\obj\Debug\net5.0\89-NextBiggerNum.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\89-NextBiggerNum\bin\Debug\net5.0\89-NextBiggerNum.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\89-NextBiggerNum\bin\Debug\net5.0\89-NextBiggerNum.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\89-NextBiggerNum\bin\Debug\net5.0\89-NextBiggerNum.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\89-NextBiggerNum\bin\Debug\net5.0\89-NextBiggerNum.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\89-NextBiggerNum\bin\Debug\net5.0\89-NextBiggerNum.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\89-NextBiggerNum\bin\Debug\net5.0\ref\89-NextBiggerNum.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\89-NextBiggerNum\bin\Debug\net5.0\89-NextBiggerNum.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\89-NextBiggerNum\obj\Debug\net5.0\89-NextBiggerNum.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\89-NextBiggerNum\obj\Debug\net5.0\ref\89-NextBiggerNum.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\89-NextBiggerNum\obj\Debug\net5.0\89-NextBiggerNum.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\89-NextBiggerNum\obj\Debug\net5.0\89-NextBiggerNum.genruntimeconfig.cache

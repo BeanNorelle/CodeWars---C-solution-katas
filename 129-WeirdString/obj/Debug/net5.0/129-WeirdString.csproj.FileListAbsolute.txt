@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\129-WeirdString\bin\Debug\net5.0\129-WeirdString.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\129-WeirdString\bin\Debug\net5.0\129-WeirdString.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\129-WeirdString\bin\Debug\net5.0\129-WeirdString.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\129-WeirdString\bin\Debug\net5.0\129-WeirdString.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\129-WeirdString\bin\Debug\net5.0\129-WeirdString.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\129-WeirdString\bin\Debug\net5.0\ref\129-WeirdString.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\129-WeirdString\bin\Debug\net5.0\129-WeirdString.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\129-WeirdString\obj\Debug\net5.0\129-WeirdString.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\129-WeirdString\obj\Debug\net5.0\129-WeirdString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\129-WeirdString\obj\Debug\net5.0\129-WeirdString.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\129-WeirdString\obj\Debug\net5.0\129-WeirdString.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\129-WeirdString\obj\Debug\net5.0\129-WeirdString.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\129-WeirdString\obj\Debug\net5.0\129-WeirdString.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\129-WeirdString\obj\Debug\net5.0\ref\129-WeirdString.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\129-WeirdString\obj\Debug\net5.0\129-WeirdString.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\129-WeirdString\obj\Debug\net5.0\129-WeirdString.genruntimeconfig.cache

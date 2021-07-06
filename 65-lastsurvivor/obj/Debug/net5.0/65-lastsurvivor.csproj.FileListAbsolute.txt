@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\65-lastsurvivor\bin\Debug\net5.0\65-lastsurvivor.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\65-lastsurvivor\bin\Debug\net5.0\65-lastsurvivor.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\65-lastsurvivor\bin\Debug\net5.0\65-lastsurvivor.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\65-lastsurvivor\bin\Debug\net5.0\65-lastsurvivor.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\65-lastsurvivor\bin\Debug\net5.0\65-lastsurvivor.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\65-lastsurvivor\bin\Debug\net5.0\ref\65-lastsurvivor.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\65-lastsurvivor\bin\Debug\net5.0\65-lastsurvivor.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\65-lastsurvivor\obj\Debug\net5.0\65-lastsurvivor.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\65-lastsurvivor\obj\Debug\net5.0\65-lastsurvivor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\65-lastsurvivor\obj\Debug\net5.0\65-lastsurvivor.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\65-lastsurvivor\obj\Debug\net5.0\65-lastsurvivor.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\65-lastsurvivor\obj\Debug\net5.0\65-lastsurvivor.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\65-lastsurvivor\obj\Debug\net5.0\65-lastsurvivor.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\65-lastsurvivor\obj\Debug\net5.0\ref\65-lastsurvivor.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\65-lastsurvivor\obj\Debug\net5.0\65-lastsurvivor.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\65-lastsurvivor\obj\Debug\net5.0\65-lastsurvivor.genruntimeconfig.cache

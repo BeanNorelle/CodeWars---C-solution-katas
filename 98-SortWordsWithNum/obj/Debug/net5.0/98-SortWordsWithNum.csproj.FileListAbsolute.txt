@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\98-SortWordsWithNum\bin\Debug\net5.0\98-SortWordsWithNum.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\98-SortWordsWithNum\bin\Debug\net5.0\98-SortWordsWithNum.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\98-SortWordsWithNum\bin\Debug\net5.0\98-SortWordsWithNum.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\98-SortWordsWithNum\bin\Debug\net5.0\98-SortWordsWithNum.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\98-SortWordsWithNum\bin\Debug\net5.0\98-SortWordsWithNum.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\98-SortWordsWithNum\bin\Debug\net5.0\ref\98-SortWordsWithNum.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\98-SortWordsWithNum\bin\Debug\net5.0\98-SortWordsWithNum.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\98-SortWordsWithNum\obj\Debug\net5.0\98-SortWordsWithNum.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\98-SortWordsWithNum\obj\Debug\net5.0\98-SortWordsWithNum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\98-SortWordsWithNum\obj\Debug\net5.0\98-SortWordsWithNum.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\98-SortWordsWithNum\obj\Debug\net5.0\98-SortWordsWithNum.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\98-SortWordsWithNum\obj\Debug\net5.0\98-SortWordsWithNum.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\98-SortWordsWithNum\obj\Debug\net5.0\98-SortWordsWithNum.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\98-SortWordsWithNum\obj\Debug\net5.0\ref\98-SortWordsWithNum.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\98-SortWordsWithNum\obj\Debug\net5.0\98-SortWordsWithNum.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\98-SortWordsWithNum\obj\Debug\net5.0\98-SortWordsWithNum.genruntimeconfig.cache

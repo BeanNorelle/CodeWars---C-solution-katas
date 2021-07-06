@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\99-arrayDiff\bin\Debug\net5.0\99-arrayDiff.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\99-arrayDiff\bin\Debug\net5.0\99-arrayDiff.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\99-arrayDiff\bin\Debug\net5.0\99-arrayDiff.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\99-arrayDiff\bin\Debug\net5.0\99-arrayDiff.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\99-arrayDiff\bin\Debug\net5.0\99-arrayDiff.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\99-arrayDiff\bin\Debug\net5.0\ref\99-arrayDiff.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\99-arrayDiff\bin\Debug\net5.0\99-arrayDiff.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\99-arrayDiff\obj\Debug\net5.0\99-arrayDiff.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\99-arrayDiff\obj\Debug\net5.0\99-arrayDiff.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\99-arrayDiff\obj\Debug\net5.0\99-arrayDiff.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\99-arrayDiff\obj\Debug\net5.0\99-arrayDiff.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\99-arrayDiff\obj\Debug\net5.0\99-arrayDiff.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\99-arrayDiff\obj\Debug\net5.0\99-arrayDiff.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\99-arrayDiff\obj\Debug\net5.0\ref\99-arrayDiff.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\99-arrayDiff\obj\Debug\net5.0\99-arrayDiff.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\99-arrayDiff\obj\Debug\net5.0\99-arrayDiff.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\56-whicharein\bin\Debug\net5.0\56-whicharein.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\56-whicharein\bin\Debug\net5.0\56-whicharein.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\56-whicharein\bin\Debug\net5.0\56-whicharein.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\56-whicharein\bin\Debug\net5.0\56-whicharein.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\56-whicharein\bin\Debug\net5.0\56-whicharein.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\56-whicharein\bin\Debug\net5.0\ref\56-whicharein.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\56-whicharein\bin\Debug\net5.0\56-whicharein.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\56-whicharein\obj\Debug\net5.0\56-whicharein.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\56-whicharein\obj\Debug\net5.0\56-whicharein.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\56-whicharein\obj\Debug\net5.0\56-whicharein.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\56-whicharein\obj\Debug\net5.0\56-whicharein.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\56-whicharein\obj\Debug\net5.0\56-whicharein.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\56-whicharein\obj\Debug\net5.0\56-whicharein.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\56-whicharein\obj\Debug\net5.0\ref\56-whicharein.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\56-whicharein\obj\Debug\net5.0\56-whicharein.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\56-whicharein\obj\Debug\net5.0\56-whicharein.genruntimeconfig.cache

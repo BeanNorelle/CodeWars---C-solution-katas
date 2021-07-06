@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\102-NarcisiticNumber\bin\Debug\net5.0\102-NarcisiticNumber.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\102-NarcisiticNumber\bin\Debug\net5.0\102-NarcisiticNumber.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\102-NarcisiticNumber\bin\Debug\net5.0\102-NarcisiticNumber.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\102-NarcisiticNumber\bin\Debug\net5.0\102-NarcisiticNumber.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\102-NarcisiticNumber\bin\Debug\net5.0\102-NarcisiticNumber.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\102-NarcisiticNumber\bin\Debug\net5.0\ref\102-NarcisiticNumber.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\102-NarcisiticNumber\bin\Debug\net5.0\102-NarcisiticNumber.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\102-NarcisiticNumber\obj\Debug\net5.0\102-NarcisiticNumber.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\102-NarcisiticNumber\obj\Debug\net5.0\102-NarcisiticNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\102-NarcisiticNumber\obj\Debug\net5.0\102-NarcisiticNumber.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\102-NarcisiticNumber\obj\Debug\net5.0\102-NarcisiticNumber.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\102-NarcisiticNumber\obj\Debug\net5.0\102-NarcisiticNumber.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\102-NarcisiticNumber\obj\Debug\net5.0\102-NarcisiticNumber.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\102-NarcisiticNumber\obj\Debug\net5.0\ref\102-NarcisiticNumber.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\102-NarcisiticNumber\obj\Debug\net5.0\102-NarcisiticNumber.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\102-NarcisiticNumber\obj\Debug\net5.0\102-NarcisiticNumber.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\95-BuildTower\bin\Debug\net5.0\95-BuildTower.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\95-BuildTower\bin\Debug\net5.0\95-BuildTower.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\95-BuildTower\bin\Debug\net5.0\95-BuildTower.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\95-BuildTower\bin\Debug\net5.0\95-BuildTower.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\95-BuildTower\bin\Debug\net5.0\95-BuildTower.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\95-BuildTower\bin\Debug\net5.0\ref\95-BuildTower.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\95-BuildTower\bin\Debug\net5.0\95-BuildTower.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\95-BuildTower\obj\Debug\net5.0\95-BuildTower.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\95-BuildTower\obj\Debug\net5.0\95-BuildTower.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\95-BuildTower\obj\Debug\net5.0\95-BuildTower.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\95-BuildTower\obj\Debug\net5.0\95-BuildTower.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\95-BuildTower\obj\Debug\net5.0\95-BuildTower.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\95-BuildTower\obj\Debug\net5.0\95-BuildTower.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\95-BuildTower\obj\Debug\net5.0\ref\95-BuildTower.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\95-BuildTower\obj\Debug\net5.0\95-BuildTower.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\95-BuildTower\obj\Debug\net5.0\95-BuildTower.genruntimeconfig.cache

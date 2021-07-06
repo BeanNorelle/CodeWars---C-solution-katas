@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\40-findistanceP2p\bin\Debug\net5.0\40-findistanceP2p.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\40-findistanceP2p\bin\Debug\net5.0\40-findistanceP2p.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\40-findistanceP2p\bin\Debug\net5.0\40-findistanceP2p.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\40-findistanceP2p\bin\Debug\net5.0\40-findistanceP2p.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\40-findistanceP2p\bin\Debug\net5.0\40-findistanceP2p.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\40-findistanceP2p\bin\Debug\net5.0\ref\40-findistanceP2p.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\40-findistanceP2p\bin\Debug\net5.0\40-findistanceP2p.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\40-findistanceP2p\obj\Debug\net5.0\40-findistanceP2p.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\40-findistanceP2p\obj\Debug\net5.0\40-findistanceP2p.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\40-findistanceP2p\obj\Debug\net5.0\40-findistanceP2p.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\40-findistanceP2p\obj\Debug\net5.0\40-findistanceP2p.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\40-findistanceP2p\obj\Debug\net5.0\40-findistanceP2p.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\40-findistanceP2p\obj\Debug\net5.0\40-findistanceP2p.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\40-findistanceP2p\obj\Debug\net5.0\ref\40-findistanceP2p.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\40-findistanceP2p\obj\Debug\net5.0\40-findistanceP2p.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\40-findistanceP2p\obj\Debug\net5.0\40-findistanceP2p.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\67-chessCellColor\bin\Debug\net5.0\67-chessCellColor.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\67-chessCellColor\bin\Debug\net5.0\67-chessCellColor.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\67-chessCellColor\bin\Debug\net5.0\67-chessCellColor.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\67-chessCellColor\bin\Debug\net5.0\67-chessCellColor.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\67-chessCellColor\bin\Debug\net5.0\67-chessCellColor.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\67-chessCellColor\bin\Debug\net5.0\ref\67-chessCellColor.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\67-chessCellColor\bin\Debug\net5.0\67-chessCellColor.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\67-chessCellColor\obj\Debug\net5.0\67-chessCellColor.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\67-chessCellColor\obj\Debug\net5.0\67-chessCellColor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\67-chessCellColor\obj\Debug\net5.0\67-chessCellColor.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\67-chessCellColor\obj\Debug\net5.0\67-chessCellColor.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\67-chessCellColor\obj\Debug\net5.0\67-chessCellColor.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\67-chessCellColor\obj\Debug\net5.0\67-chessCellColor.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\67-chessCellColor\obj\Debug\net5.0\ref\67-chessCellColor.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\67-chessCellColor\obj\Debug\net5.0\67-chessCellColor.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\67-chessCellColor\obj\Debug\net5.0\67-chessCellColor.genruntimeconfig.cache

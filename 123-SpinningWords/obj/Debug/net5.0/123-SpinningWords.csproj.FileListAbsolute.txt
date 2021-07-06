@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\123-SpinningWords\bin\Debug\net5.0\123-SpinningWords.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\123-SpinningWords\bin\Debug\net5.0\123-SpinningWords.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\123-SpinningWords\bin\Debug\net5.0\123-SpinningWords.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\123-SpinningWords\bin\Debug\net5.0\123-SpinningWords.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\123-SpinningWords\bin\Debug\net5.0\123-SpinningWords.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\123-SpinningWords\bin\Debug\net5.0\ref\123-SpinningWords.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\123-SpinningWords\bin\Debug\net5.0\123-SpinningWords.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\123-SpinningWords\obj\Debug\net5.0\123-SpinningWords.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\123-SpinningWords\obj\Debug\net5.0\123-SpinningWords.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\123-SpinningWords\obj\Debug\net5.0\123-SpinningWords.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\123-SpinningWords\obj\Debug\net5.0\123-SpinningWords.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\123-SpinningWords\obj\Debug\net5.0\123-SpinningWords.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\123-SpinningWords\obj\Debug\net5.0\123-SpinningWords.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\123-SpinningWords\obj\Debug\net5.0\ref\123-SpinningWords.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\123-SpinningWords\obj\Debug\net5.0\123-SpinningWords.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\123-SpinningWords\obj\Debug\net5.0\123-SpinningWords.genruntimeconfig.cache

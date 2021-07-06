@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\49-linqpract01\bin\Debug\net5.0\49-linqpract01.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\49-linqpract01\bin\Debug\net5.0\49-linqpract01.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\49-linqpract01\bin\Debug\net5.0\49-linqpract01.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\49-linqpract01\bin\Debug\net5.0\49-linqpract01.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\49-linqpract01\bin\Debug\net5.0\49-linqpract01.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\49-linqpract01\bin\Debug\net5.0\ref\49-linqpract01.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\49-linqpract01\bin\Debug\net5.0\49-linqpract01.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\49-linqpract01\obj\Debug\net5.0\49-linqpract01.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\49-linqpract01\obj\Debug\net5.0\49-linqpract01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\49-linqpract01\obj\Debug\net5.0\49-linqpract01.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\49-linqpract01\obj\Debug\net5.0\49-linqpract01.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\49-linqpract01\obj\Debug\net5.0\49-linqpract01.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\49-linqpract01\obj\Debug\net5.0\49-linqpract01.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\49-linqpract01\obj\Debug\net5.0\ref\49-linqpract01.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\49-linqpract01\obj\Debug\net5.0\49-linqpract01.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\49-linqpract01\obj\Debug\net5.0\49-linqpract01.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\112-ReplaceAlphaPos\bin\Debug\net5.0\112-ReplaceAlphaPos.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\112-ReplaceAlphaPos\bin\Debug\net5.0\112-ReplaceAlphaPos.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\112-ReplaceAlphaPos\bin\Debug\net5.0\112-ReplaceAlphaPos.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\112-ReplaceAlphaPos\bin\Debug\net5.0\112-ReplaceAlphaPos.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\112-ReplaceAlphaPos\bin\Debug\net5.0\112-ReplaceAlphaPos.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\112-ReplaceAlphaPos\bin\Debug\net5.0\ref\112-ReplaceAlphaPos.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\112-ReplaceAlphaPos\bin\Debug\net5.0\112-ReplaceAlphaPos.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\112-ReplaceAlphaPos\obj\Debug\net5.0\112-ReplaceAlphaPos.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\112-ReplaceAlphaPos\obj\Debug\net5.0\112-ReplaceAlphaPos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\112-ReplaceAlphaPos\obj\Debug\net5.0\112-ReplaceAlphaPos.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\112-ReplaceAlphaPos\obj\Debug\net5.0\112-ReplaceAlphaPos.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\112-ReplaceAlphaPos\obj\Debug\net5.0\112-ReplaceAlphaPos.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\112-ReplaceAlphaPos\obj\Debug\net5.0\112-ReplaceAlphaPos.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\112-ReplaceAlphaPos\obj\Debug\net5.0\ref\112-ReplaceAlphaPos.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\112-ReplaceAlphaPos\obj\Debug\net5.0\112-ReplaceAlphaPos.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\112-ReplaceAlphaPos\obj\Debug\net5.0\112-ReplaceAlphaPos.genruntimeconfig.cache

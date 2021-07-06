@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\34-practice\bin\Debug\net5.0\34-practice.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\34-practice\bin\Debug\net5.0\34-practice.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\34-practice\bin\Debug\net5.0\34-practice.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\34-practice\bin\Debug\net5.0\34-practice.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\34-practice\bin\Debug\net5.0\34-practice.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\34-practice\bin\Debug\net5.0\ref\34-practice.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\34-practice\bin\Debug\net5.0\34-practice.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\34-practice\obj\Debug\net5.0\34-practice.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\34-practice\obj\Debug\net5.0\34-practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\34-practice\obj\Debug\net5.0\34-practice.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\34-practice\obj\Debug\net5.0\34-practice.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\34-practice\obj\Debug\net5.0\34-practice.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\34-practice\obj\Debug\net5.0\34-practice.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\34-practice\obj\Debug\net5.0\ref\34-practice.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\34-practice\obj\Debug\net5.0\34-practice.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\34-practice\obj\Debug\net5.0\34-practice.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\101-PalindromeChain\bin\Debug\net5.0\101-PalindromeChain.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\101-PalindromeChain\bin\Debug\net5.0\101-PalindromeChain.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\101-PalindromeChain\bin\Debug\net5.0\101-PalindromeChain.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\101-PalindromeChain\bin\Debug\net5.0\101-PalindromeChain.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\101-PalindromeChain\bin\Debug\net5.0\101-PalindromeChain.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\101-PalindromeChain\bin\Debug\net5.0\ref\101-PalindromeChain.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\101-PalindromeChain\bin\Debug\net5.0\101-PalindromeChain.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\101-PalindromeChain\obj\Debug\net5.0\101-PalindromeChain.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\101-PalindromeChain\obj\Debug\net5.0\101-PalindromeChain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\101-PalindromeChain\obj\Debug\net5.0\101-PalindromeChain.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\101-PalindromeChain\obj\Debug\net5.0\101-PalindromeChain.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\101-PalindromeChain\obj\Debug\net5.0\101-PalindromeChain.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\101-PalindromeChain\obj\Debug\net5.0\101-PalindromeChain.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\101-PalindromeChain\obj\Debug\net5.0\ref\101-PalindromeChain.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\101-PalindromeChain\obj\Debug\net5.0\101-PalindromeChain.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\101-PalindromeChain\obj\Debug\net5.0\101-PalindromeChain.genruntimeconfig.cache

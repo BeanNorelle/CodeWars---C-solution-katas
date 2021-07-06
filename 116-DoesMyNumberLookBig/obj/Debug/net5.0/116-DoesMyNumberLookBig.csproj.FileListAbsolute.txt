@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\116-DoesMyNumberLookBig\bin\Debug\net5.0\116-DoesMyNumberLookBig.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\116-DoesMyNumberLookBig\bin\Debug\net5.0\116-DoesMyNumberLookBig.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\116-DoesMyNumberLookBig\bin\Debug\net5.0\116-DoesMyNumberLookBig.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\116-DoesMyNumberLookBig\bin\Debug\net5.0\116-DoesMyNumberLookBig.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\116-DoesMyNumberLookBig\bin\Debug\net5.0\116-DoesMyNumberLookBig.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\116-DoesMyNumberLookBig\bin\Debug\net5.0\ref\116-DoesMyNumberLookBig.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\116-DoesMyNumberLookBig\bin\Debug\net5.0\116-DoesMyNumberLookBig.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\116-DoesMyNumberLookBig\obj\Debug\net5.0\116-DoesMyNumberLookBig.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\116-DoesMyNumberLookBig\obj\Debug\net5.0\116-DoesMyNumberLookBig.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\116-DoesMyNumberLookBig\obj\Debug\net5.0\116-DoesMyNumberLookBig.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\116-DoesMyNumberLookBig\obj\Debug\net5.0\116-DoesMyNumberLookBig.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\116-DoesMyNumberLookBig\obj\Debug\net5.0\116-DoesMyNumberLookBig.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\116-DoesMyNumberLookBig\obj\Debug\net5.0\116-DoesMyNumberLookBig.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\116-DoesMyNumberLookBig\obj\Debug\net5.0\ref\116-DoesMyNumberLookBig.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\116-DoesMyNumberLookBig\obj\Debug\net5.0\116-DoesMyNumberLookBig.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\116-DoesMyNumberLookBig\obj\Debug\net5.0\116-DoesMyNumberLookBig.genruntimeconfig.cache

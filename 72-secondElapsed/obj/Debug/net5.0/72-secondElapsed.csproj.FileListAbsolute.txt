@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\72-secondElapsed\bin\Debug\net5.0\72-secondElapsed.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\72-secondElapsed\bin\Debug\net5.0\72-secondElapsed.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\72-secondElapsed\bin\Debug\net5.0\72-secondElapsed.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\72-secondElapsed\bin\Debug\net5.0\72-secondElapsed.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\72-secondElapsed\bin\Debug\net5.0\72-secondElapsed.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\72-secondElapsed\bin\Debug\net5.0\ref\72-secondElapsed.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\72-secondElapsed\bin\Debug\net5.0\72-secondElapsed.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\72-secondElapsed\obj\Debug\net5.0\72-secondElapsed.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\72-secondElapsed\obj\Debug\net5.0\72-secondElapsed.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\72-secondElapsed\obj\Debug\net5.0\72-secondElapsed.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\72-secondElapsed\obj\Debug\net5.0\72-secondElapsed.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\72-secondElapsed\obj\Debug\net5.0\72-secondElapsed.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\72-secondElapsed\obj\Debug\net5.0\72-secondElapsed.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\72-secondElapsed\obj\Debug\net5.0\ref\72-secondElapsed.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\72-secondElapsed\obj\Debug\net5.0\72-secondElapsed.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\72-secondElapsed\obj\Debug\net5.0\72-secondElapsed.genruntimeconfig.cache

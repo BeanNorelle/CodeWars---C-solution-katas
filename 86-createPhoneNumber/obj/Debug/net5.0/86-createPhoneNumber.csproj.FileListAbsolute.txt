@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\86-createPhoneNumber\bin\Debug\net5.0\86-createPhoneNumber.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\86-createPhoneNumber\bin\Debug\net5.0\86-createPhoneNumber.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\86-createPhoneNumber\bin\Debug\net5.0\86-createPhoneNumber.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\86-createPhoneNumber\bin\Debug\net5.0\86-createPhoneNumber.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\86-createPhoneNumber\bin\Debug\net5.0\86-createPhoneNumber.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\86-createPhoneNumber\bin\Debug\net5.0\ref\86-createPhoneNumber.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\86-createPhoneNumber\bin\Debug\net5.0\86-createPhoneNumber.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\86-createPhoneNumber\obj\Debug\net5.0\86-createPhoneNumber.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\86-createPhoneNumber\obj\Debug\net5.0\86-createPhoneNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\86-createPhoneNumber\obj\Debug\net5.0\86-createPhoneNumber.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\86-createPhoneNumber\obj\Debug\net5.0\86-createPhoneNumber.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\86-createPhoneNumber\obj\Debug\net5.0\86-createPhoneNumber.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\86-createPhoneNumber\obj\Debug\net5.0\86-createPhoneNumber.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\86-createPhoneNumber\obj\Debug\net5.0\ref\86-createPhoneNumber.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\86-createPhoneNumber\obj\Debug\net5.0\86-createPhoneNumber.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\86-createPhoneNumber\obj\Debug\net5.0\86-createPhoneNumber.genruntimeconfig.cache

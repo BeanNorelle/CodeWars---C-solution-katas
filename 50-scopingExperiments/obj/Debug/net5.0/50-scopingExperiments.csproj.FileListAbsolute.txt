@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\50-scopingExperiments\bin\Debug\net5.0\50-scopingExperiments.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\50-scopingExperiments\bin\Debug\net5.0\50-scopingExperiments.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\50-scopingExperiments\bin\Debug\net5.0\50-scopingExperiments.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\50-scopingExperiments\bin\Debug\net5.0\50-scopingExperiments.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\50-scopingExperiments\bin\Debug\net5.0\50-scopingExperiments.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\50-scopingExperiments\bin\Debug\net5.0\ref\50-scopingExperiments.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\50-scopingExperiments\bin\Debug\net5.0\50-scopingExperiments.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\50-scopingExperiments\obj\Debug\net5.0\50-scopingExperiments.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\50-scopingExperiments\obj\Debug\net5.0\50-scopingExperiments.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\50-scopingExperiments\obj\Debug\net5.0\50-scopingExperiments.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\50-scopingExperiments\obj\Debug\net5.0\50-scopingExperiments.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\50-scopingExperiments\obj\Debug\net5.0\50-scopingExperiments.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\50-scopingExperiments\obj\Debug\net5.0\50-scopingExperiments.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\50-scopingExperiments\obj\Debug\net5.0\ref\50-scopingExperiments.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\50-scopingExperiments\obj\Debug\net5.0\50-scopingExperiments.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\50-scopingExperiments\obj\Debug\net5.0\50-scopingExperiments.genruntimeconfig.cache

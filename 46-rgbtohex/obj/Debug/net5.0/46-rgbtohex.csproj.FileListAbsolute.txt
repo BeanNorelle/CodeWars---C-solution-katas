@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\46-rgbtohex\bin\Debug\net5.0\46-rgbtohex.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\46-rgbtohex\bin\Debug\net5.0\46-rgbtohex.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\46-rgbtohex\bin\Debug\net5.0\46-rgbtohex.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\46-rgbtohex\bin\Debug\net5.0\46-rgbtohex.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\46-rgbtohex\bin\Debug\net5.0\46-rgbtohex.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\46-rgbtohex\bin\Debug\net5.0\ref\46-rgbtohex.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\46-rgbtohex\bin\Debug\net5.0\46-rgbtohex.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\46-rgbtohex\obj\Debug\net5.0\46-rgbtohex.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\46-rgbtohex\obj\Debug\net5.0\46-rgbtohex.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\46-rgbtohex\obj\Debug\net5.0\46-rgbtohex.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\46-rgbtohex\obj\Debug\net5.0\46-rgbtohex.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\46-rgbtohex\obj\Debug\net5.0\46-rgbtohex.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\46-rgbtohex\obj\Debug\net5.0\46-rgbtohex.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\46-rgbtohex\obj\Debug\net5.0\ref\46-rgbtohex.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\46-rgbtohex\obj\Debug\net5.0\46-rgbtohex.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\46-rgbtohex\obj\Debug\net5.0\46-rgbtohex.genruntimeconfig.cache

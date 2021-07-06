@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\90-playingWithDigits\bin\Debug\net5.0\90-playingWithDigits.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\90-playingWithDigits\bin\Debug\net5.0\90-playingWithDigits.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\90-playingWithDigits\bin\Debug\net5.0\90-playingWithDigits.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\90-playingWithDigits\bin\Debug\net5.0\90-playingWithDigits.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\90-playingWithDigits\bin\Debug\net5.0\90-playingWithDigits.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\90-playingWithDigits\bin\Debug\net5.0\ref\90-playingWithDigits.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\90-playingWithDigits\bin\Debug\net5.0\90-playingWithDigits.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\90-playingWithDigits\obj\Debug\net5.0\90-playingWithDigits.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\90-playingWithDigits\obj\Debug\net5.0\90-playingWithDigits.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\90-playingWithDigits\obj\Debug\net5.0\90-playingWithDigits.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\90-playingWithDigits\obj\Debug\net5.0\90-playingWithDigits.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\90-playingWithDigits\obj\Debug\net5.0\90-playingWithDigits.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\90-playingWithDigits\obj\Debug\net5.0\90-playingWithDigits.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\90-playingWithDigits\obj\Debug\net5.0\ref\90-playingWithDigits.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\90-playingWithDigits\obj\Debug\net5.0\90-playingWithDigits.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\90-playingWithDigits\obj\Debug\net5.0\90-playingWithDigits.genruntimeconfig.cache

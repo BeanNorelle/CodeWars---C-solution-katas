@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\37-encryt\bin\Debug\net5.0\37-encryt.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\37-encryt\bin\Debug\net5.0\37-encryt.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\37-encryt\bin\Debug\net5.0\37-encryt.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\37-encryt\bin\Debug\net5.0\37-encryt.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\37-encryt\bin\Debug\net5.0\37-encryt.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\37-encryt\bin\Debug\net5.0\ref\37-encryt.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\37-encryt\bin\Debug\net5.0\37-encryt.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\37-encryt\obj\Debug\net5.0\37-encryt.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\37-encryt\obj\Debug\net5.0\37-encryt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\37-encryt\obj\Debug\net5.0\37-encryt.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\37-encryt\obj\Debug\net5.0\37-encryt.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\37-encryt\obj\Debug\net5.0\37-encryt.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\37-encryt\obj\Debug\net5.0\37-encryt.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\37-encryt\obj\Debug\net5.0\ref\37-encryt.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\37-encryt\obj\Debug\net5.0\37-encryt.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\37-encryt\obj\Debug\net5.0\37-encryt.genruntimeconfig.cache

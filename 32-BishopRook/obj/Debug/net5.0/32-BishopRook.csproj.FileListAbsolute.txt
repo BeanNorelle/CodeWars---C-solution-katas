@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\32-BishopRook\bin\Debug\net5.0\32-BishopRook.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\32-BishopRook\bin\Debug\net5.0\32-BishopRook.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\32-BishopRook\bin\Debug\net5.0\32-BishopRook.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\32-BishopRook\bin\Debug\net5.0\32-BishopRook.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\32-BishopRook\bin\Debug\net5.0\32-BishopRook.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\32-BishopRook\bin\Debug\net5.0\ref\32-BishopRook.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\32-BishopRook\bin\Debug\net5.0\32-BishopRook.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\32-BishopRook\obj\Debug\net5.0\32-BishopRook.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\32-BishopRook\obj\Debug\net5.0\32-BishopRook.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\32-BishopRook\obj\Debug\net5.0\32-BishopRook.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\32-BishopRook\obj\Debug\net5.0\32-BishopRook.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\32-BishopRook\obj\Debug\net5.0\32-BishopRook.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\32-BishopRook\obj\Debug\net5.0\32-BishopRook.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\32-BishopRook\obj\Debug\net5.0\ref\32-BishopRook.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\32-BishopRook\obj\Debug\net5.0\32-BishopRook.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\32-BishopRook\obj\Debug\net5.0\32-BishopRook.genruntimeconfig.cache

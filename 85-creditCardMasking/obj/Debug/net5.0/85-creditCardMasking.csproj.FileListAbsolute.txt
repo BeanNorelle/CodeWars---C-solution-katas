@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\85-creditCardMasking\obj\Debug\net5.0\85-creditCardMasking.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\85-creditCardMasking\obj\Debug\net5.0\85-creditCardMasking.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\85-creditCardMasking\obj\Debug\net5.0\85-creditCardMasking.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\85-creditCardMasking\obj\Debug\net5.0\85-creditCardMasking.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\85-creditCardMasking\obj\Debug\net5.0\85-creditCardMasking.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\85-creditCardMasking\bin\Debug\net5.0\85-creditCardMasking.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\85-creditCardMasking\bin\Debug\net5.0\85-creditCardMasking.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\85-creditCardMasking\bin\Debug\net5.0\85-creditCardMasking.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\85-creditCardMasking\bin\Debug\net5.0\85-creditCardMasking.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\85-creditCardMasking\bin\Debug\net5.0\85-creditCardMasking.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\85-creditCardMasking\bin\Debug\net5.0\ref\85-creditCardMasking.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\85-creditCardMasking\bin\Debug\net5.0\85-creditCardMasking.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\85-creditCardMasking\obj\Debug\net5.0\85-creditCardMasking.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\85-creditCardMasking\obj\Debug\net5.0\ref\85-creditCardMasking.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\85-creditCardMasking\obj\Debug\net5.0\85-creditCardMasking.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\85-creditCardMasking\obj\Debug\net5.0\85-creditCardMasking.genruntimeconfig.cache

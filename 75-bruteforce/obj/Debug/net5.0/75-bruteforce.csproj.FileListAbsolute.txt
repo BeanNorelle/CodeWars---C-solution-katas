@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\75-bruteforce\bin\Debug\net5.0\75-bruteforce.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\75-bruteforce\bin\Debug\net5.0\75-bruteforce.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\75-bruteforce\bin\Debug\net5.0\75-bruteforce.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\75-bruteforce\bin\Debug\net5.0\75-bruteforce.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\75-bruteforce\bin\Debug\net5.0\75-bruteforce.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\75-bruteforce\bin\Debug\net5.0\ref\75-bruteforce.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\75-bruteforce\bin\Debug\net5.0\75-bruteforce.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\75-bruteforce\obj\Debug\net5.0\75-bruteforce.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\75-bruteforce\obj\Debug\net5.0\75-bruteforce.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\75-bruteforce\obj\Debug\net5.0\75-bruteforce.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\75-bruteforce\obj\Debug\net5.0\75-bruteforce.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\75-bruteforce\obj\Debug\net5.0\75-bruteforce.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\75-bruteforce\obj\Debug\net5.0\75-bruteforce.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\75-bruteforce\obj\Debug\net5.0\ref\75-bruteforce.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\75-bruteforce\obj\Debug\net5.0\75-bruteforce.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\75-bruteforce\obj\Debug\net5.0\75-bruteforce.genruntimeconfig.cache

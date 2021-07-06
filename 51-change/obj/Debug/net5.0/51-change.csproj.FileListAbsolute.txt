@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\51-change\bin\Debug\net5.0\51-change.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\51-change\bin\Debug\net5.0\51-change.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\51-change\bin\Debug\net5.0\51-change.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\51-change\bin\Debug\net5.0\51-change.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\51-change\bin\Debug\net5.0\51-change.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\51-change\bin\Debug\net5.0\ref\51-change.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\51-change\bin\Debug\net5.0\51-change.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\51-change\obj\Debug\net5.0\51-change.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\51-change\obj\Debug\net5.0\51-change.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\51-change\obj\Debug\net5.0\51-change.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\51-change\obj\Debug\net5.0\51-change.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\51-change\obj\Debug\net5.0\51-change.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\51-change\obj\Debug\net5.0\51-change.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\51-change\obj\Debug\net5.0\ref\51-change.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\51-change\obj\Debug\net5.0\51-change.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\51-change\obj\Debug\net5.0\51-change.genruntimeconfig.cache

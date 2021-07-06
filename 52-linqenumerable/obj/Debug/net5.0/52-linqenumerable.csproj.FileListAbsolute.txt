@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\52-linqenumerable\bin\Debug\net5.0\52-linqenumerable.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\52-linqenumerable\bin\Debug\net5.0\52-linqenumerable.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\52-linqenumerable\bin\Debug\net5.0\52-linqenumerable.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\52-linqenumerable\bin\Debug\net5.0\52-linqenumerable.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\52-linqenumerable\bin\Debug\net5.0\52-linqenumerable.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\52-linqenumerable\bin\Debug\net5.0\ref\52-linqenumerable.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\52-linqenumerable\bin\Debug\net5.0\52-linqenumerable.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\52-linqenumerable\obj\Debug\net5.0\52-linqenumerable.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\52-linqenumerable\obj\Debug\net5.0\52-linqenumerable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\52-linqenumerable\obj\Debug\net5.0\52-linqenumerable.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\52-linqenumerable\obj\Debug\net5.0\52-linqenumerable.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\52-linqenumerable\obj\Debug\net5.0\52-linqenumerable.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\52-linqenumerable\obj\Debug\net5.0\52-linqenumerable.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\52-linqenumerable\obj\Debug\net5.0\ref\52-linqenumerable.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\52-linqenumerable\obj\Debug\net5.0\52-linqenumerable.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\52-linqenumerable\obj\Debug\net5.0\52-linqenumerable.genruntimeconfig.cache

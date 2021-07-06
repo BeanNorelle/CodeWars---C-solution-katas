@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\93-TimeLikeString\bin\Debug\net5.0\93-TimeLikeString.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\93-TimeLikeString\bin\Debug\net5.0\93-TimeLikeString.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\93-TimeLikeString\bin\Debug\net5.0\93-TimeLikeString.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\93-TimeLikeString\bin\Debug\net5.0\93-TimeLikeString.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\93-TimeLikeString\bin\Debug\net5.0\93-TimeLikeString.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\93-TimeLikeString\bin\Debug\net5.0\ref\93-TimeLikeString.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\93-TimeLikeString\bin\Debug\net5.0\93-TimeLikeString.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\93-TimeLikeString\obj\Debug\net5.0\93-TimeLikeString.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\93-TimeLikeString\obj\Debug\net5.0\93-TimeLikeString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\93-TimeLikeString\obj\Debug\net5.0\93-TimeLikeString.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\93-TimeLikeString\obj\Debug\net5.0\93-TimeLikeString.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\93-TimeLikeString\obj\Debug\net5.0\93-TimeLikeString.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\93-TimeLikeString\obj\Debug\net5.0\93-TimeLikeString.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\93-TimeLikeString\obj\Debug\net5.0\ref\93-TimeLikeString.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\93-TimeLikeString\obj\Debug\net5.0\93-TimeLikeString.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\93-TimeLikeString\obj\Debug\net5.0\93-TimeLikeString.genruntimeconfig.cache

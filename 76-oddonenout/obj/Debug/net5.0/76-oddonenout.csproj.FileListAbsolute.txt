@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\76-oddonenout\obj\Debug\net5.0\76-oddonenout.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\76-oddonenout\obj\Debug\net5.0\76-oddonenout.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\76-oddonenout\obj\Debug\net5.0\76-oddonenout.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\76-oddonenout\obj\Debug\net5.0\76-oddonenout.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\76-oddonenout\obj\Debug\net5.0\76-oddonenout.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\76-oddonenout\bin\Debug\net5.0\76-oddonenout.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\76-oddonenout\bin\Debug\net5.0\76-oddonenout.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\76-oddonenout\bin\Debug\net5.0\76-oddonenout.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\76-oddonenout\bin\Debug\net5.0\76-oddonenout.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\76-oddonenout\bin\Debug\net5.0\76-oddonenout.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\76-oddonenout\bin\Debug\net5.0\ref\76-oddonenout.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\76-oddonenout\bin\Debug\net5.0\76-oddonenout.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\76-oddonenout\obj\Debug\net5.0\76-oddonenout.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\76-oddonenout\obj\Debug\net5.0\ref\76-oddonenout.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\76-oddonenout\obj\Debug\net5.0\76-oddonenout.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\76-oddonenout\obj\Debug\net5.0\76-oddonenout.genruntimeconfig.cache

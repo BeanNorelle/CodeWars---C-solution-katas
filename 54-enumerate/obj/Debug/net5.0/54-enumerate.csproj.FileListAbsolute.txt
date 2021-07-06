@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\54-enumerate\bin\Debug\net5.0\54-enumerate.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\54-enumerate\bin\Debug\net5.0\54-enumerate.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\54-enumerate\bin\Debug\net5.0\54-enumerate.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\54-enumerate\bin\Debug\net5.0\54-enumerate.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\54-enumerate\bin\Debug\net5.0\54-enumerate.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\54-enumerate\bin\Debug\net5.0\ref\54-enumerate.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\54-enumerate\bin\Debug\net5.0\54-enumerate.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\54-enumerate\obj\Debug\net5.0\54-enumerate.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\54-enumerate\obj\Debug\net5.0\54-enumerate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\54-enumerate\obj\Debug\net5.0\54-enumerate.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\54-enumerate\obj\Debug\net5.0\54-enumerate.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\54-enumerate\obj\Debug\net5.0\54-enumerate.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\54-enumerate\obj\Debug\net5.0\54-enumerate.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\54-enumerate\obj\Debug\net5.0\ref\54-enumerate.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\54-enumerate\obj\Debug\net5.0\54-enumerate.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\54-enumerate\obj\Debug\net5.0\54-enumerate.genruntimeconfig.cache

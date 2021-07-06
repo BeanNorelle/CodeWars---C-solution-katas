@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\105-GetBytes\obj\Debug\net5.0\105-GetBytes.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\105-GetBytes\obj\Debug\net5.0\105-GetBytes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\105-GetBytes\obj\Debug\net5.0\105-GetBytes.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\105-GetBytes\obj\Debug\net5.0\105-GetBytes.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\105-GetBytes\obj\Debug\net5.0\105-GetBytes.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\105-GetBytes\bin\Debug\net5.0\105-GetBytes.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\105-GetBytes\bin\Debug\net5.0\105-GetBytes.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\105-GetBytes\bin\Debug\net5.0\105-GetBytes.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\105-GetBytes\bin\Debug\net5.0\105-GetBytes.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\105-GetBytes\bin\Debug\net5.0\105-GetBytes.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\105-GetBytes\bin\Debug\net5.0\ref\105-GetBytes.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\105-GetBytes\bin\Debug\net5.0\105-GetBytes.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\105-GetBytes\obj\Debug\net5.0\105-GetBytes.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\105-GetBytes\obj\Debug\net5.0\ref\105-GetBytes.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\105-GetBytes\obj\Debug\net5.0\105-GetBytes.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\105-GetBytes\obj\Debug\net5.0\105-GetBytes.genruntimeconfig.cache
