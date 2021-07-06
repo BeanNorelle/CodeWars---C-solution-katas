@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\132-Bugs\bin\Debug\net5.0\132-Bugs.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\132-Bugs\bin\Debug\net5.0\132-Bugs.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\132-Bugs\bin\Debug\net5.0\132-Bugs.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\132-Bugs\bin\Debug\net5.0\132-Bugs.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\132-Bugs\bin\Debug\net5.0\132-Bugs.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\132-Bugs\bin\Debug\net5.0\ref\132-Bugs.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\132-Bugs\bin\Debug\net5.0\132-Bugs.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\132-Bugs\obj\Debug\net5.0\132-Bugs.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\132-Bugs\obj\Debug\net5.0\132-Bugs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\132-Bugs\obj\Debug\net5.0\132-Bugs.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\132-Bugs\obj\Debug\net5.0\132-Bugs.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\132-Bugs\obj\Debug\net5.0\132-Bugs.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\132-Bugs\obj\Debug\net5.0\132-Bugs.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\132-Bugs\obj\Debug\net5.0\ref\132-Bugs.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\132-Bugs\obj\Debug\net5.0\132-Bugs.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\132-Bugs\obj\Debug\net5.0\132-Bugs.genruntimeconfig.cache
