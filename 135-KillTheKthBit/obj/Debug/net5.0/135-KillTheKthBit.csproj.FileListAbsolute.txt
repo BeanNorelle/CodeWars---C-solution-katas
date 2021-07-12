@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\135-KillTheKthBit\bin\Debug\net5.0\135-KillTheKthBit.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\135-KillTheKthBit\bin\Debug\net5.0\135-KillTheKthBit.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\135-KillTheKthBit\bin\Debug\net5.0\135-KillTheKthBit.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\135-KillTheKthBit\bin\Debug\net5.0\135-KillTheKthBit.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\135-KillTheKthBit\bin\Debug\net5.0\135-KillTheKthBit.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\135-KillTheKthBit\bin\Debug\net5.0\ref\135-KillTheKthBit.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\135-KillTheKthBit\bin\Debug\net5.0\135-KillTheKthBit.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\135-KillTheKthBit\obj\Debug\net5.0\135-KillTheKthBit.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\135-KillTheKthBit\obj\Debug\net5.0\135-KillTheKthBit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\135-KillTheKthBit\obj\Debug\net5.0\135-KillTheKthBit.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\135-KillTheKthBit\obj\Debug\net5.0\135-KillTheKthBit.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\135-KillTheKthBit\obj\Debug\net5.0\135-KillTheKthBit.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\135-KillTheKthBit\obj\Debug\net5.0\135-KillTheKthBit.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\135-KillTheKthBit\obj\Debug\net5.0\ref\135-KillTheKthBit.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\135-KillTheKthBit\obj\Debug\net5.0\135-KillTheKthBit.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\135-KillTheKthBit\obj\Debug\net5.0\135-KillTheKthBit.genruntimeconfig.cache

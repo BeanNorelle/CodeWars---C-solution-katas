@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\136-HashsetTest\bin\Debug\net5.0\136-HashsetTest.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\136-HashsetTest\bin\Debug\net5.0\136-HashsetTest.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\136-HashsetTest\bin\Debug\net5.0\136-HashsetTest.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\136-HashsetTest\bin\Debug\net5.0\136-HashsetTest.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\136-HashsetTest\bin\Debug\net5.0\136-HashsetTest.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\136-HashsetTest\bin\Debug\net5.0\ref\136-HashsetTest.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\136-HashsetTest\bin\Debug\net5.0\136-HashsetTest.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\136-HashsetTest\obj\Debug\net5.0\136-HashsetTest.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\136-HashsetTest\obj\Debug\net5.0\136-HashsetTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\136-HashsetTest\obj\Debug\net5.0\136-HashsetTest.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\136-HashsetTest\obj\Debug\net5.0\136-HashsetTest.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\136-HashsetTest\obj\Debug\net5.0\136-HashsetTest.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\136-HashsetTest\obj\Debug\net5.0\136-HashsetTest.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\136-HashsetTest\obj\Debug\net5.0\ref\136-HashsetTest.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\136-HashsetTest\obj\Debug\net5.0\136-HashsetTest.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\136-HashsetTest\obj\Debug\net5.0\136-HashsetTest.genruntimeconfig.cache

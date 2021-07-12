@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "136-HashsetTest/1.0.0": {
+        "runtime": {
+          "136-HashsetTest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "136-HashsetTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
