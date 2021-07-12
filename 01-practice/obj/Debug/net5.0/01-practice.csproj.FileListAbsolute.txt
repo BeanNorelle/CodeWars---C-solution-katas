@@ -14,3 +14,19 @@ D:\Bean - Files\Visual Test\c#\01-practice\obj\Debug\net5.0\01-practice.dll
 D:\Bean - Files\Visual Test\c#\01-practice\obj\Debug\net5.0\ref\01-practice.dll
 D:\Bean - Files\Visual Test\c#\01-practice\obj\Debug\net5.0\01-practice.pdb
 D:\Bean - Files\Visual Test\c#\01-practice\obj\Debug\net5.0\01-practice.genruntimeconfig.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\01-practice\bin\Debug\net5.0\01-practice.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\01-practice\bin\Debug\net5.0\01-practice.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\01-practice\bin\Debug\net5.0\01-practice.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\01-practice\bin\Debug\net5.0\01-practice.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\01-practice\bin\Debug\net5.0\01-practice.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\01-practice\bin\Debug\net5.0\ref\01-practice.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\01-practice\bin\Debug\net5.0\01-practice.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\01-practice\obj\Debug\net5.0\01-practice.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\01-practice\obj\Debug\net5.0\01-practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\01-practice\obj\Debug\net5.0\01-practice.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\01-practice\obj\Debug\net5.0\01-practice.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\01-practice\obj\Debug\net5.0\01-practice.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\01-practice\obj\Debug\net5.0\01-practice.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\01-practice\obj\Debug\net5.0\ref\01-practice.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\01-practice\obj\Debug\net5.0\01-practice.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\01-practice\obj\Debug\net5.0\01-practice.genruntimeconfig.cache

@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Bean - Files\\Visual Test\\c#\\Begineers Practice folder\\01-practice\\01-practice.csproj",
-      "projectName": "01-practice",
-      "projectPath": "d:\\Bean - Files\\Visual Test\\c#\\Begineers Practice folder\\01-practice\\01-practice.csproj",
+      "projectUniqueName": "D:\\Bean - Files\\Visual Test\\c#\\Begineers Practice folder\\134-SumMixedArray\\134-SumMixedArray.csproj",
+      "projectName": "134-SumMixedArray",
+      "projectPath": "D:\\Bean - Files\\Visual Test\\c#\\Begineers Practice folder\\134-SumMixedArray\\134-SumMixedArray.csproj",
       "packagesPath": "C:\\Users\\beans\\.nuget\\packages\\",
-      "outputPath": "d:\\Bean - Files\\Visual Test\\c#\\Begineers Practice folder\\01-practice\\obj\\",
+      "outputPath": "D:\\Bean - Files\\Visual Test\\c#\\Begineers Practice folder\\134-SumMixedArray\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

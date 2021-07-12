@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\134-SumMixedArray\bin\Debug\net5.0\134-SumMixedArray.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\134-SumMixedArray\bin\Debug\net5.0\134-SumMixedArray.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\134-SumMixedArray\bin\Debug\net5.0\134-SumMixedArray.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\134-SumMixedArray\bin\Debug\net5.0\134-SumMixedArray.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\134-SumMixedArray\bin\Debug\net5.0\134-SumMixedArray.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\134-SumMixedArray\bin\Debug\net5.0\ref\134-SumMixedArray.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\134-SumMixedArray\bin\Debug\net5.0\134-SumMixedArray.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\134-SumMixedArray\obj\Debug\net5.0\134-SumMixedArray.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\134-SumMixedArray\obj\Debug\net5.0\134-SumMixedArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\134-SumMixedArray\obj\Debug\net5.0\134-SumMixedArray.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\134-SumMixedArray\obj\Debug\net5.0\134-SumMixedArray.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\134-SumMixedArray\obj\Debug\net5.0\134-SumMixedArray.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\134-SumMixedArray\obj\Debug\net5.0\134-SumMixedArray.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\134-SumMixedArray\obj\Debug\net5.0\ref\134-SumMixedArray.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\134-SumMixedArray\obj\Debug\net5.0\134-SumMixedArray.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\134-SumMixedArray\obj\Debug\net5.0\134-SumMixedArray.genruntimeconfig.cache
