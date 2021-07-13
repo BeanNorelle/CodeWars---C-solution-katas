@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Bean - Files\\Visual Test\\c#\\Begineers Practice folder\\133-ShoppingCart\\133-ShoppingCart.csproj": {}
+    "D:\\Bean - Files\\Visual Test\\c#\\Begineers Practice folder\\137-Tribonacci\\137-Tribonacci.csproj": {}
   },
   "projects": {
-    "D:\\Bean - Files\\Visual Test\\c#\\Begineers Practice folder\\133-ShoppingCart\\133-ShoppingCart.csproj": {
+    "D:\\Bean - Files\\Visual Test\\c#\\Begineers Practice folder\\137-Tribonacci\\137-Tribonacci.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Bean - Files\\Visual Test\\c#\\Begineers Practice folder\\133-ShoppingCart\\133-ShoppingCart.csproj",
-        "projectName": "133-ShoppingCart",
-        "projectPath": "D:\\Bean - Files\\Visual Test\\c#\\Begineers Practice folder\\133-ShoppingCart\\133-ShoppingCart.csproj",
+        "projectUniqueName": "D:\\Bean - Files\\Visual Test\\c#\\Begineers Practice folder\\137-Tribonacci\\137-Tribonacci.csproj",
+        "projectName": "137-Tribonacci",
+        "projectPath": "D:\\Bean - Files\\Visual Test\\c#\\Begineers Practice folder\\137-Tribonacci\\137-Tribonacci.csproj",
         "packagesPath": "C:\\Users\\beans\\.nuget\\packages\\",
-        "outputPath": "D:\\Bean - Files\\Visual Test\\c#\\Begineers Practice folder\\133-ShoppingCart\\obj\\",
+        "outputPath": "D:\\Bean - Files\\Visual Test\\c#\\Begineers Practice folder\\137-Tribonacci\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

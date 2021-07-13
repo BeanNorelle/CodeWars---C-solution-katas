@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\133-ShoppingCart\bin\Debug\net5.0\133-ShoppingCart.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\133-ShoppingCart\bin\Debug\net5.0\133-ShoppingCart.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\133-ShoppingCart\bin\Debug\net5.0\133-ShoppingCart.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\133-ShoppingCart\bin\Debug\net5.0\133-ShoppingCart.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\133-ShoppingCart\bin\Debug\net5.0\133-ShoppingCart.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\133-ShoppingCart\bin\Debug\net5.0\ref\133-ShoppingCart.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\133-ShoppingCart\bin\Debug\net5.0\133-ShoppingCart.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\133-ShoppingCart\obj\Debug\net5.0\133-ShoppingCart.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\133-ShoppingCart\obj\Debug\net5.0\133-ShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\133-ShoppingCart\obj\Debug\net5.0\133-ShoppingCart.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\133-ShoppingCart\obj\Debug\net5.0\133-ShoppingCart.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\133-ShoppingCart\obj\Debug\net5.0\133-ShoppingCart.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\133-ShoppingCart\obj\Debug\net5.0\133-ShoppingCart.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\133-ShoppingCart\obj\Debug\net5.0\ref\133-ShoppingCart.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\133-ShoppingCart\obj\Debug\net5.0\133-ShoppingCart.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\133-ShoppingCart\obj\Debug\net5.0\133-ShoppingCart.genruntimeconfig.cache

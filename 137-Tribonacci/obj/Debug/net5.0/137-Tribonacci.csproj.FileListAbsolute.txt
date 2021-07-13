@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\137-Tribonacci\bin\Debug\net5.0\137-Tribonacci.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\137-Tribonacci\bin\Debug\net5.0\137-Tribonacci.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\137-Tribonacci\bin\Debug\net5.0\137-Tribonacci.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\137-Tribonacci\bin\Debug\net5.0\137-Tribonacci.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\137-Tribonacci\bin\Debug\net5.0\137-Tribonacci.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\137-Tribonacci\bin\Debug\net5.0\ref\137-Tribonacci.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\137-Tribonacci\bin\Debug\net5.0\137-Tribonacci.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\137-Tribonacci\obj\Debug\net5.0\137-Tribonacci.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\137-Tribonacci\obj\Debug\net5.0\137-Tribonacci.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\137-Tribonacci\obj\Debug\net5.0\137-Tribonacci.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\137-Tribonacci\obj\Debug\net5.0\137-Tribonacci.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\137-Tribonacci\obj\Debug\net5.0\137-Tribonacci.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\137-Tribonacci\obj\Debug\net5.0\137-Tribonacci.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\137-Tribonacci\obj\Debug\net5.0\ref\137-Tribonacci.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\137-Tribonacci\obj\Debug\net5.0\137-Tribonacci.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\137-Tribonacci\obj\Debug\net5.0\137-Tribonacci.genruntimeconfig.cache
