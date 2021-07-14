@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "140-CountDivisors/1.0.0": {
+        "runtime": {
+          "140-CountDivisors.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "140-CountDivisors/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

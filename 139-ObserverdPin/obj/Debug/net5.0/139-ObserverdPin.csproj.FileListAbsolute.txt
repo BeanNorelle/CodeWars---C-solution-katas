@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\139-ObserverdPin\bin\Debug\net5.0\139-ObserverdPin.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\139-ObserverdPin\bin\Debug\net5.0\139-ObserverdPin.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\139-ObserverdPin\bin\Debug\net5.0\139-ObserverdPin.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\139-ObserverdPin\bin\Debug\net5.0\139-ObserverdPin.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\139-ObserverdPin\bin\Debug\net5.0\139-ObserverdPin.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\139-ObserverdPin\bin\Debug\net5.0\ref\139-ObserverdPin.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\139-ObserverdPin\bin\Debug\net5.0\139-ObserverdPin.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\139-ObserverdPin\obj\Debug\net5.0\139-ObserverdPin.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\139-ObserverdPin\obj\Debug\net5.0\139-ObserverdPin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\139-ObserverdPin\obj\Debug\net5.0\139-ObserverdPin.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\139-ObserverdPin\obj\Debug\net5.0\139-ObserverdPin.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\139-ObserverdPin\obj\Debug\net5.0\139-ObserverdPin.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\139-ObserverdPin\obj\Debug\net5.0\139-ObserverdPin.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\139-ObserverdPin\obj\Debug\net5.0\ref\139-ObserverdPin.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\139-ObserverdPin\obj\Debug\net5.0\139-ObserverdPin.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\139-ObserverdPin\obj\Debug\net5.0\139-ObserverdPin.genruntimeconfig.cache

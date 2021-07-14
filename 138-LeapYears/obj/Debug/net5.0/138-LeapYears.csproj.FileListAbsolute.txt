@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\138-LeapYears\bin\Debug\net5.0\138-LeapYears.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\138-LeapYears\bin\Debug\net5.0\138-LeapYears.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\138-LeapYears\bin\Debug\net5.0\138-LeapYears.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\138-LeapYears\bin\Debug\net5.0\138-LeapYears.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\138-LeapYears\bin\Debug\net5.0\138-LeapYears.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\138-LeapYears\bin\Debug\net5.0\ref\138-LeapYears.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\138-LeapYears\bin\Debug\net5.0\138-LeapYears.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\138-LeapYears\obj\Debug\net5.0\138-LeapYears.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\138-LeapYears\obj\Debug\net5.0\138-LeapYears.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\138-LeapYears\obj\Debug\net5.0\138-LeapYears.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\138-LeapYears\obj\Debug\net5.0\138-LeapYears.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\138-LeapYears\obj\Debug\net5.0\138-LeapYears.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\138-LeapYears\obj\Debug\net5.0\138-LeapYears.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\138-LeapYears\obj\Debug\net5.0\ref\138-LeapYears.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\138-LeapYears\obj\Debug\net5.0\138-LeapYears.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\138-LeapYears\obj\Debug\net5.0\138-LeapYears.genruntimeconfig.cache

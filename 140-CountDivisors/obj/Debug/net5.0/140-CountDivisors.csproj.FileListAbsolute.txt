@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\140-CountDivisors\bin\Debug\net5.0\140-CountDivisors.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\140-CountDivisors\bin\Debug\net5.0\140-CountDivisors.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\140-CountDivisors\bin\Debug\net5.0\140-CountDivisors.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\140-CountDivisors\bin\Debug\net5.0\140-CountDivisors.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\140-CountDivisors\bin\Debug\net5.0\140-CountDivisors.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\140-CountDivisors\bin\Debug\net5.0\ref\140-CountDivisors.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\140-CountDivisors\bin\Debug\net5.0\140-CountDivisors.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\140-CountDivisors\obj\Debug\net5.0\140-CountDivisors.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\140-CountDivisors\obj\Debug\net5.0\140-CountDivisors.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\140-CountDivisors\obj\Debug\net5.0\140-CountDivisors.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\140-CountDivisors\obj\Debug\net5.0\140-CountDivisors.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\140-CountDivisors\obj\Debug\net5.0\140-CountDivisors.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\140-CountDivisors\obj\Debug\net5.0\140-CountDivisors.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\140-CountDivisors\obj\Debug\net5.0\ref\140-CountDivisors.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\140-CountDivisors\obj\Debug\net5.0\140-CountDivisors.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\140-CountDivisors\obj\Debug\net5.0\140-CountDivisors.genruntimeconfig.cache
