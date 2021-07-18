@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\148-SquaredStrings\bin\Debug\net5.0\148-SquaredStrings.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\148-SquaredStrings\bin\Debug\net5.0\148-SquaredStrings.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\148-SquaredStrings\bin\Debug\net5.0\148-SquaredStrings.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\148-SquaredStrings\bin\Debug\net5.0\148-SquaredStrings.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\148-SquaredStrings\bin\Debug\net5.0\148-SquaredStrings.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\148-SquaredStrings\bin\Debug\net5.0\ref\148-SquaredStrings.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\148-SquaredStrings\bin\Debug\net5.0\148-SquaredStrings.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\148-SquaredStrings\obj\Debug\net5.0\148-SquaredStrings.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\148-SquaredStrings\obj\Debug\net5.0\148-SquaredStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\148-SquaredStrings\obj\Debug\net5.0\148-SquaredStrings.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\148-SquaredStrings\obj\Debug\net5.0\148-SquaredStrings.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\148-SquaredStrings\obj\Debug\net5.0\148-SquaredStrings.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\148-SquaredStrings\obj\Debug\net5.0\148-SquaredStrings.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\148-SquaredStrings\obj\Debug\net5.0\ref\148-SquaredStrings.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\148-SquaredStrings\obj\Debug\net5.0\148-SquaredStrings.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\148-SquaredStrings\obj\Debug\net5.0\148-SquaredStrings.genruntimeconfig.cache

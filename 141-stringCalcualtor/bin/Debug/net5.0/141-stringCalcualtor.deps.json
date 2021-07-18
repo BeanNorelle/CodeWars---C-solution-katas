@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "141-stringCalcualtor/1.0.0": {
+        "runtime": {
+          "141-stringCalcualtor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "141-stringCalcualtor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

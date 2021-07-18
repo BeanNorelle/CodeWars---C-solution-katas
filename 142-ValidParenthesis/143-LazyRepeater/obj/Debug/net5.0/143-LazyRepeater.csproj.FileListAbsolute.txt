@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\142-ValidParenthesis\143-LazyRepeater\bin\Debug\net5.0\143-LazyRepeater.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\142-ValidParenthesis\143-LazyRepeater\bin\Debug\net5.0\143-LazyRepeater.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\142-ValidParenthesis\143-LazyRepeater\bin\Debug\net5.0\143-LazyRepeater.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\142-ValidParenthesis\143-LazyRepeater\bin\Debug\net5.0\143-LazyRepeater.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\142-ValidParenthesis\143-LazyRepeater\bin\Debug\net5.0\143-LazyRepeater.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\142-ValidParenthesis\143-LazyRepeater\bin\Debug\net5.0\ref\143-LazyRepeater.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\142-ValidParenthesis\143-LazyRepeater\bin\Debug\net5.0\143-LazyRepeater.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\142-ValidParenthesis\143-LazyRepeater\obj\Debug\net5.0\143-LazyRepeater.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\142-ValidParenthesis\143-LazyRepeater\obj\Debug\net5.0\143-LazyRepeater.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\142-ValidParenthesis\143-LazyRepeater\obj\Debug\net5.0\143-LazyRepeater.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\142-ValidParenthesis\143-LazyRepeater\obj\Debug\net5.0\143-LazyRepeater.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\142-ValidParenthesis\143-LazyRepeater\obj\Debug\net5.0\143-LazyRepeater.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\142-ValidParenthesis\143-LazyRepeater\obj\Debug\net5.0\143-LazyRepeater.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\142-ValidParenthesis\143-LazyRepeater\obj\Debug\net5.0\ref\143-LazyRepeater.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\142-ValidParenthesis\143-LazyRepeater\obj\Debug\net5.0\143-LazyRepeater.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\142-ValidParenthesis\143-LazyRepeater\obj\Debug\net5.0\143-LazyRepeater.genruntimeconfig.cache

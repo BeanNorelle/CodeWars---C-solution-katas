@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\144-PigLatin\bin\Debug\net5.0\144-PigLatin.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\144-PigLatin\bin\Debug\net5.0\144-PigLatin.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\144-PigLatin\bin\Debug\net5.0\144-PigLatin.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\144-PigLatin\bin\Debug\net5.0\144-PigLatin.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\144-PigLatin\bin\Debug\net5.0\144-PigLatin.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\144-PigLatin\bin\Debug\net5.0\ref\144-PigLatin.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\144-PigLatin\bin\Debug\net5.0\144-PigLatin.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\144-PigLatin\obj\Debug\net5.0\144-PigLatin.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\144-PigLatin\obj\Debug\net5.0\144-PigLatin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\144-PigLatin\obj\Debug\net5.0\144-PigLatin.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\144-PigLatin\obj\Debug\net5.0\144-PigLatin.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\144-PigLatin\obj\Debug\net5.0\144-PigLatin.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\144-PigLatin\obj\Debug\net5.0\144-PigLatin.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\144-PigLatin\obj\Debug\net5.0\ref\144-PigLatin.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\144-PigLatin\obj\Debug\net5.0\144-PigLatin.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\144-PigLatin\obj\Debug\net5.0\144-PigLatin.genruntimeconfig.cache

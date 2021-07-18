@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\141-stringCalcualtor\bin\Debug\net5.0\141-stringCalcualtor.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\141-stringCalcualtor\bin\Debug\net5.0\141-stringCalcualtor.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\141-stringCalcualtor\bin\Debug\net5.0\141-stringCalcualtor.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\141-stringCalcualtor\bin\Debug\net5.0\141-stringCalcualtor.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\141-stringCalcualtor\bin\Debug\net5.0\141-stringCalcualtor.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\141-stringCalcualtor\bin\Debug\net5.0\ref\141-stringCalcualtor.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\141-stringCalcualtor\bin\Debug\net5.0\141-stringCalcualtor.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\141-stringCalcualtor\obj\Debug\net5.0\141-stringCalcualtor.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\141-stringCalcualtor\obj\Debug\net5.0\141-stringCalcualtor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\141-stringCalcualtor\obj\Debug\net5.0\141-stringCalcualtor.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\141-stringCalcualtor\obj\Debug\net5.0\141-stringCalcualtor.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\141-stringCalcualtor\obj\Debug\net5.0\141-stringCalcualtor.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\141-stringCalcualtor\obj\Debug\net5.0\141-stringCalcualtor.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\141-stringCalcualtor\obj\Debug\net5.0\ref\141-stringCalcualtor.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\141-stringCalcualtor\obj\Debug\net5.0\141-stringCalcualtor.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\141-stringCalcualtor\obj\Debug\net5.0\141-stringCalcualtor.genruntimeconfig.cache

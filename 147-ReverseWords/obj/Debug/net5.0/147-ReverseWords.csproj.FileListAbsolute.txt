@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\147-ReverseWords\bin\Debug\net5.0\147-ReverseWords.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\147-ReverseWords\bin\Debug\net5.0\147-ReverseWords.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\147-ReverseWords\bin\Debug\net5.0\147-ReverseWords.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\147-ReverseWords\bin\Debug\net5.0\147-ReverseWords.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\147-ReverseWords\bin\Debug\net5.0\147-ReverseWords.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\147-ReverseWords\bin\Debug\net5.0\ref\147-ReverseWords.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\147-ReverseWords\bin\Debug\net5.0\147-ReverseWords.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\147-ReverseWords\obj\Debug\net5.0\147-ReverseWords.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\147-ReverseWords\obj\Debug\net5.0\147-ReverseWords.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\147-ReverseWords\obj\Debug\net5.0\147-ReverseWords.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\147-ReverseWords\obj\Debug\net5.0\147-ReverseWords.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\147-ReverseWords\obj\Debug\net5.0\147-ReverseWords.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\147-ReverseWords\obj\Debug\net5.0\147-ReverseWords.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\147-ReverseWords\obj\Debug\net5.0\ref\147-ReverseWords.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\147-ReverseWords\obj\Debug\net5.0\147-ReverseWords.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\147-ReverseWords\obj\Debug\net5.0\147-ReverseWords.genruntimeconfig.cache

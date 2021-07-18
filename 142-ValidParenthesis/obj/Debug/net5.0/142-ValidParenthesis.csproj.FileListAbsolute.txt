@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\142-ValidParenthesis\bin\Debug\net5.0\142-ValidParenthesis.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\142-ValidParenthesis\bin\Debug\net5.0\142-ValidParenthesis.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\142-ValidParenthesis\bin\Debug\net5.0\142-ValidParenthesis.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\142-ValidParenthesis\bin\Debug\net5.0\142-ValidParenthesis.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\142-ValidParenthesis\bin\Debug\net5.0\142-ValidParenthesis.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\142-ValidParenthesis\bin\Debug\net5.0\ref\142-ValidParenthesis.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\142-ValidParenthesis\bin\Debug\net5.0\142-ValidParenthesis.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\142-ValidParenthesis\obj\Debug\net5.0\142-ValidParenthesis.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\142-ValidParenthesis\obj\Debug\net5.0\142-ValidParenthesis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\142-ValidParenthesis\obj\Debug\net5.0\142-ValidParenthesis.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\142-ValidParenthesis\obj\Debug\net5.0\142-ValidParenthesis.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\142-ValidParenthesis\obj\Debug\net5.0\142-ValidParenthesis.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\142-ValidParenthesis\obj\Debug\net5.0\142-ValidParenthesis.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\142-ValidParenthesis\obj\Debug\net5.0\ref\142-ValidParenthesis.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\142-ValidParenthesis\obj\Debug\net5.0\142-ValidParenthesis.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\142-ValidParenthesis\obj\Debug\net5.0\142-ValidParenthesis.genruntimeconfig.cache

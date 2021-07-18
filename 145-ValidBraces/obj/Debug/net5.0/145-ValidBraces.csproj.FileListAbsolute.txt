@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\145-ValidBraces\bin\Debug\net5.0\145-ValidBraces.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\145-ValidBraces\bin\Debug\net5.0\145-ValidBraces.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\145-ValidBraces\bin\Debug\net5.0\145-ValidBraces.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\145-ValidBraces\bin\Debug\net5.0\145-ValidBraces.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\145-ValidBraces\bin\Debug\net5.0\145-ValidBraces.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\145-ValidBraces\bin\Debug\net5.0\ref\145-ValidBraces.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\145-ValidBraces\bin\Debug\net5.0\145-ValidBraces.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\145-ValidBraces\obj\Debug\net5.0\145-ValidBraces.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\145-ValidBraces\obj\Debug\net5.0\145-ValidBraces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\145-ValidBraces\obj\Debug\net5.0\145-ValidBraces.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\145-ValidBraces\obj\Debug\net5.0\145-ValidBraces.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\145-ValidBraces\obj\Debug\net5.0\145-ValidBraces.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\145-ValidBraces\obj\Debug\net5.0\145-ValidBraces.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\145-ValidBraces\obj\Debug\net5.0\ref\145-ValidBraces.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\145-ValidBraces\obj\Debug\net5.0\145-ValidBraces.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\145-ValidBraces\obj\Debug\net5.0\145-ValidBraces.genruntimeconfig.cache
