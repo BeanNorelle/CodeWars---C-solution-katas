@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\149-WriteOutNumber\bin\Debug\net5.0\149-WriteOutNumber.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\149-WriteOutNumber\bin\Debug\net5.0\149-WriteOutNumber.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\149-WriteOutNumber\bin\Debug\net5.0\149-WriteOutNumber.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\149-WriteOutNumber\bin\Debug\net5.0\149-WriteOutNumber.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\149-WriteOutNumber\bin\Debug\net5.0\149-WriteOutNumber.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\149-WriteOutNumber\bin\Debug\net5.0\ref\149-WriteOutNumber.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\149-WriteOutNumber\bin\Debug\net5.0\149-WriteOutNumber.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\149-WriteOutNumber\obj\Debug\net5.0\149-WriteOutNumber.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\149-WriteOutNumber\obj\Debug\net5.0\149-WriteOutNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\149-WriteOutNumber\obj\Debug\net5.0\149-WriteOutNumber.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\149-WriteOutNumber\obj\Debug\net5.0\149-WriteOutNumber.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\149-WriteOutNumber\obj\Debug\net5.0\149-WriteOutNumber.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\149-WriteOutNumber\obj\Debug\net5.0\149-WriteOutNumber.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\149-WriteOutNumber\obj\Debug\net5.0\ref\149-WriteOutNumber.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\149-WriteOutNumber\obj\Debug\net5.0\149-WriteOutNumber.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\149-WriteOutNumber\obj\Debug\net5.0\149-WriteOutNumber.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\155-SmallestPermutations2\bin\Debug\net5.0\155-SmallestPermutations2.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\155-SmallestPermutations2\bin\Debug\net5.0\155-SmallestPermutations2.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\155-SmallestPermutations2\bin\Debug\net5.0\155-SmallestPermutations2.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\155-SmallestPermutations2\bin\Debug\net5.0\155-SmallestPermutations2.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\155-SmallestPermutations2\bin\Debug\net5.0\155-SmallestPermutations2.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\155-SmallestPermutations2\bin\Debug\net5.0\ref\155-SmallestPermutations2.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\155-SmallestPermutations2\bin\Debug\net5.0\155-SmallestPermutations2.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\155-SmallestPermutations2\obj\Debug\net5.0\155-SmallestPermutations2.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\155-SmallestPermutations2\obj\Debug\net5.0\155-SmallestPermutations2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\155-SmallestPermutations2\obj\Debug\net5.0\155-SmallestPermutations2.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\155-SmallestPermutations2\obj\Debug\net5.0\155-SmallestPermutations2.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\155-SmallestPermutations2\obj\Debug\net5.0\155-SmallestPermutations2.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\155-SmallestPermutations2\obj\Debug\net5.0\155-SmallestPermutations2.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\155-SmallestPermutations2\obj\Debug\net5.0\ref\155-SmallestPermutations2.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\155-SmallestPermutations2\obj\Debug\net5.0\155-SmallestPermutations2.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\155-SmallestPermutations2\obj\Debug\net5.0\155-SmallestPermutations2.genruntimeconfig.cache

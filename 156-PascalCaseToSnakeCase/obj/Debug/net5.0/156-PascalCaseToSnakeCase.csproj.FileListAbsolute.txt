@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\156-PascalCaseToSnakeCase\bin\Debug\net5.0\156-PascalCaseToSnakeCase.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\156-PascalCaseToSnakeCase\bin\Debug\net5.0\156-PascalCaseToSnakeCase.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\156-PascalCaseToSnakeCase\bin\Debug\net5.0\156-PascalCaseToSnakeCase.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\156-PascalCaseToSnakeCase\bin\Debug\net5.0\156-PascalCaseToSnakeCase.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\156-PascalCaseToSnakeCase\bin\Debug\net5.0\156-PascalCaseToSnakeCase.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\156-PascalCaseToSnakeCase\bin\Debug\net5.0\ref\156-PascalCaseToSnakeCase.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\156-PascalCaseToSnakeCase\bin\Debug\net5.0\156-PascalCaseToSnakeCase.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\156-PascalCaseToSnakeCase\obj\Debug\net5.0\156-PascalCaseToSnakeCase.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\156-PascalCaseToSnakeCase\obj\Debug\net5.0\156-PascalCaseToSnakeCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\156-PascalCaseToSnakeCase\obj\Debug\net5.0\156-PascalCaseToSnakeCase.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\156-PascalCaseToSnakeCase\obj\Debug\net5.0\156-PascalCaseToSnakeCase.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\156-PascalCaseToSnakeCase\obj\Debug\net5.0\156-PascalCaseToSnakeCase.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\156-PascalCaseToSnakeCase\obj\Debug\net5.0\156-PascalCaseToSnakeCase.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\156-PascalCaseToSnakeCase\obj\Debug\net5.0\ref\156-PascalCaseToSnakeCase.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\156-PascalCaseToSnakeCase\obj\Debug\net5.0\156-PascalCaseToSnakeCase.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\156-PascalCaseToSnakeCase\obj\Debug\net5.0\156-PascalCaseToSnakeCase.genruntimeconfig.cache

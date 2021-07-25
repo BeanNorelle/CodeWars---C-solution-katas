@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace _149_WriteOutNumber
 {
@@ -6,7 +7,25 @@ namespace _149_WriteOutNumber
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string [] names = {"Ara","Jay","Mike","Ara"};
+           foreach(var name in names)
+           {
+               HandOutGift(name);
+           }
+        }
+
+       static List<string> NamesList = new List<string>();
+       public static void HandOutGift(string name)
+        {
+            if(!NamesList.Contains(name))
+            {
+            NamesList.Add(name);
+            }
+            else
+            {
+                throw new ArgumentException();
+            }
+            
         }
     }
 }

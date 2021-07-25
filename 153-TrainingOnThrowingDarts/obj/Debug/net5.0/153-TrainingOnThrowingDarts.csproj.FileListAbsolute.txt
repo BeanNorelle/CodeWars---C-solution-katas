@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\153-TrainingOnThrowingDarts\bin\Debug\net5.0\153-TrainingOnThrowingDarts.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\153-TrainingOnThrowingDarts\bin\Debug\net5.0\153-TrainingOnThrowingDarts.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\153-TrainingOnThrowingDarts\bin\Debug\net5.0\153-TrainingOnThrowingDarts.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\153-TrainingOnThrowingDarts\bin\Debug\net5.0\153-TrainingOnThrowingDarts.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\153-TrainingOnThrowingDarts\bin\Debug\net5.0\153-TrainingOnThrowingDarts.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\153-TrainingOnThrowingDarts\bin\Debug\net5.0\ref\153-TrainingOnThrowingDarts.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\153-TrainingOnThrowingDarts\bin\Debug\net5.0\153-TrainingOnThrowingDarts.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\153-TrainingOnThrowingDarts\obj\Debug\net5.0\153-TrainingOnThrowingDarts.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\153-TrainingOnThrowingDarts\obj\Debug\net5.0\153-TrainingOnThrowingDarts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\153-TrainingOnThrowingDarts\obj\Debug\net5.0\153-TrainingOnThrowingDarts.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\153-TrainingOnThrowingDarts\obj\Debug\net5.0\153-TrainingOnThrowingDarts.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\153-TrainingOnThrowingDarts\obj\Debug\net5.0\153-TrainingOnThrowingDarts.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\153-TrainingOnThrowingDarts\obj\Debug\net5.0\153-TrainingOnThrowingDarts.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\153-TrainingOnThrowingDarts\obj\Debug\net5.0\ref\153-TrainingOnThrowingDarts.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\153-TrainingOnThrowingDarts\obj\Debug\net5.0\153-TrainingOnThrowingDarts.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\153-TrainingOnThrowingDarts\obj\Debug\net5.0\153-TrainingOnThrowingDarts.genruntimeconfig.cache

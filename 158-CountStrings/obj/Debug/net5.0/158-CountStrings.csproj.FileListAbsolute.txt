@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\158-CountStrings\bin\Debug\net5.0\158-CountStrings.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\158-CountStrings\bin\Debug\net5.0\158-CountStrings.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\158-CountStrings\bin\Debug\net5.0\158-CountStrings.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\158-CountStrings\bin\Debug\net5.0\158-CountStrings.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\158-CountStrings\bin\Debug\net5.0\158-CountStrings.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\158-CountStrings\bin\Debug\net5.0\ref\158-CountStrings.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\158-CountStrings\bin\Debug\net5.0\158-CountStrings.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\158-CountStrings\obj\Debug\net5.0\158-CountStrings.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\158-CountStrings\obj\Debug\net5.0\158-CountStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\158-CountStrings\obj\Debug\net5.0\158-CountStrings.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\158-CountStrings\obj\Debug\net5.0\158-CountStrings.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\158-CountStrings\obj\Debug\net5.0\158-CountStrings.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\158-CountStrings\obj\Debug\net5.0\158-CountStrings.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\158-CountStrings\obj\Debug\net5.0\ref\158-CountStrings.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\158-CountStrings\obj\Debug\net5.0\158-CountStrings.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\158-CountStrings\obj\Debug\net5.0\158-CountStrings.genruntimeconfig.cache

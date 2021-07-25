@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "150-PowerOfTwo/1.0.0": {
+        "runtime": {
+          "150-PowerOfTwo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "150-PowerOfTwo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

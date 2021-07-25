@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\154-TwistedSum\bin\Debug\net5.0\154-TwistedSum.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\154-TwistedSum\bin\Debug\net5.0\154-TwistedSum.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\154-TwistedSum\bin\Debug\net5.0\154-TwistedSum.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\154-TwistedSum\bin\Debug\net5.0\154-TwistedSum.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\154-TwistedSum\bin\Debug\net5.0\154-TwistedSum.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\154-TwistedSum\bin\Debug\net5.0\ref\154-TwistedSum.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\154-TwistedSum\bin\Debug\net5.0\154-TwistedSum.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\154-TwistedSum\obj\Debug\net5.0\154-TwistedSum.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\154-TwistedSum\obj\Debug\net5.0\154-TwistedSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\154-TwistedSum\obj\Debug\net5.0\154-TwistedSum.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\154-TwistedSum\obj\Debug\net5.0\154-TwistedSum.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\154-TwistedSum\obj\Debug\net5.0\154-TwistedSum.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\154-TwistedSum\obj\Debug\net5.0\154-TwistedSum.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\154-TwistedSum\obj\Debug\net5.0\ref\154-TwistedSum.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\154-TwistedSum\obj\Debug\net5.0\154-TwistedSum.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\154-TwistedSum\obj\Debug\net5.0\154-TwistedSum.genruntimeconfig.cache

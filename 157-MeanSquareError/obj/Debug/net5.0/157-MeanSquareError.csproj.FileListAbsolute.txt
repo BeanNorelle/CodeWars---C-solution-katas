@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\157-MeanSquareError\bin\Debug\net5.0\157-MeanSquareError.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\157-MeanSquareError\bin\Debug\net5.0\157-MeanSquareError.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\157-MeanSquareError\bin\Debug\net5.0\157-MeanSquareError.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\157-MeanSquareError\bin\Debug\net5.0\157-MeanSquareError.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\157-MeanSquareError\bin\Debug\net5.0\157-MeanSquareError.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\157-MeanSquareError\bin\Debug\net5.0\ref\157-MeanSquareError.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\157-MeanSquareError\bin\Debug\net5.0\157-MeanSquareError.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\157-MeanSquareError\obj\Debug\net5.0\157-MeanSquareError.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\157-MeanSquareError\obj\Debug\net5.0\157-MeanSquareError.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\157-MeanSquareError\obj\Debug\net5.0\157-MeanSquareError.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\157-MeanSquareError\obj\Debug\net5.0\157-MeanSquareError.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\157-MeanSquareError\obj\Debug\net5.0\157-MeanSquareError.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\157-MeanSquareError\obj\Debug\net5.0\157-MeanSquareError.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\157-MeanSquareError\obj\Debug\net5.0\ref\157-MeanSquareError.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\157-MeanSquareError\obj\Debug\net5.0\157-MeanSquareError.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\157-MeanSquareError\obj\Debug\net5.0\157-MeanSquareError.genruntimeconfig.cache

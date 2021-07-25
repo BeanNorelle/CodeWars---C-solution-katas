@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\152-MakeDeadFishSwim\bin\Debug\net5.0\152-MakeDeadFishSwim.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\152-MakeDeadFishSwim\bin\Debug\net5.0\152-MakeDeadFishSwim.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\152-MakeDeadFishSwim\bin\Debug\net5.0\152-MakeDeadFishSwim.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\152-MakeDeadFishSwim\bin\Debug\net5.0\152-MakeDeadFishSwim.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\152-MakeDeadFishSwim\bin\Debug\net5.0\152-MakeDeadFishSwim.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\152-MakeDeadFishSwim\bin\Debug\net5.0\ref\152-MakeDeadFishSwim.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\152-MakeDeadFishSwim\bin\Debug\net5.0\152-MakeDeadFishSwim.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\152-MakeDeadFishSwim\obj\Debug\net5.0\152-MakeDeadFishSwim.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\152-MakeDeadFishSwim\obj\Debug\net5.0\152-MakeDeadFishSwim.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\152-MakeDeadFishSwim\obj\Debug\net5.0\152-MakeDeadFishSwim.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\152-MakeDeadFishSwim\obj\Debug\net5.0\152-MakeDeadFishSwim.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\152-MakeDeadFishSwim\obj\Debug\net5.0\152-MakeDeadFishSwim.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\152-MakeDeadFishSwim\obj\Debug\net5.0\152-MakeDeadFishSwim.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\152-MakeDeadFishSwim\obj\Debug\net5.0\ref\152-MakeDeadFishSwim.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\152-MakeDeadFishSwim\obj\Debug\net5.0\152-MakeDeadFishSwim.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\152-MakeDeadFishSwim\obj\Debug\net5.0\152-MakeDeadFishSwim.genruntimeconfig.cache

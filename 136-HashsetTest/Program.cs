@@ -7,17 +7,39 @@ namespace _08_ArrayCheck
 {
     class Program
     {
+
+
+        static List<double> HashTest = new List<double>();
+        static List<double> LinqTest = new List<double>();
+        static List<double> LinearTest = new List<double>();
         static void Main(string[] args)
         {   
-  
-            int [] arr = {5,100,1000,10000,100000,1000000};
+            int [] arr = {1,10,100,1000,10000,100000,1000000,10000000};
+            Console.Write("Test Ranges  |  ");
+            foreach(int element in arr)
+            {
+                Console.Write(""+element+"\t|");
+            }
 
             foreach(var range in arr)
             {
-                Console.WriteLine("\ntest for range: {0}", range);
                 tester(range);
             }
-   
+            Console.Write("\nHash Test    |");
+            foreach(double s in HashTest)
+            {
+                Console.Write(" "+string.Format("{0:0.##}",s)+" \t|");
+            }
+            Console.Write("\nLinq Test    |");
+             foreach(double s in LinqTest)
+            {
+                Console.Write(" "+string.Format("{0:0.##}",s)+" \t|");
+            }
+            Console.Write("\nLinear Test  |");
+             foreach(double s in LinearTest)
+            {
+                Console.Write(" "+string.Format("{0:0.##}",s)+" \t|");
+            }
         }  
         public static void tester(int range)
         {
@@ -38,14 +60,14 @@ namespace _08_ArrayCheck
             double d2Time = 0;
             double d3Time = 0.00;
 
-            HashSet<int> hashSearch = new HashSet<int>(a);
+
 
             sw.Start();
-            int max = 100;
+            int max = 10;
             for(int i =0;i<max;i++)
             {
             sTime = sw.Elapsed.TotalMilliseconds;
-            Hashset(hashSearch,r);
+            Hashset(a,r);
             fTime = sw.Elapsed.TotalMilliseconds;
             dTime += fTime - sTime;
    
@@ -59,15 +81,20 @@ namespace _08_ArrayCheck
             f3Time = sw.Elapsed.TotalMilliseconds;
             d3Time += f3Time - s3Time;
             }
-                Console.WriteLine("Range is {1}, Hashset test Elapsed time: {0}",string.Format("{0:0.##}",(dTime/max)),range);
-                Console.WriteLine("Range is {1}, Linq test Elapsed ime: {0}",string.Format("{0:0.##}",(d2Time/max)),range);
-                Console.WriteLine("Range is {1}, Foreach loop test Elapsed time: {0}", string.Format("{0:0.##}",(d3Time/max)),range);
+                HashTest.Add(dTime/max);
+                LinqTest.Add(d2Time/max);
+                LinearTest.Add(d3Time/max);
+
+                // Console.Write("\t {0}",string.Format("{0:0.##}",(dTime/max)),range);
+                // Console.Write("\t {0}",string.Format("{0:0.##}",(d2Time/max)),range);
+                // Console.Write("\t {0}", string.Format("{0:0.##}",(d3Time/max)),range);
 
             sw.Stop();   
         }
-        public static bool Hashset(HashSet<int> a, int x)
+        public static bool Hashset(int [] a, int x)
         // isn't hashset supposed to be'faster code  performance wise
         {
+            HashSet<int> hashSearch = new HashSet<int>(a);
             return a.Contains(x);
         }
 

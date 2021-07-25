@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\150-PowerOfTwo\bin\Debug\net5.0\150-PowerOfTwo.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\150-PowerOfTwo\bin\Debug\net5.0\150-PowerOfTwo.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\150-PowerOfTwo\bin\Debug\net5.0\150-PowerOfTwo.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\150-PowerOfTwo\bin\Debug\net5.0\150-PowerOfTwo.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\150-PowerOfTwo\bin\Debug\net5.0\150-PowerOfTwo.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\150-PowerOfTwo\bin\Debug\net5.0\ref\150-PowerOfTwo.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\150-PowerOfTwo\bin\Debug\net5.0\150-PowerOfTwo.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\150-PowerOfTwo\obj\Debug\net5.0\150-PowerOfTwo.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\150-PowerOfTwo\obj\Debug\net5.0\150-PowerOfTwo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\150-PowerOfTwo\obj\Debug\net5.0\150-PowerOfTwo.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\150-PowerOfTwo\obj\Debug\net5.0\150-PowerOfTwo.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\150-PowerOfTwo\obj\Debug\net5.0\150-PowerOfTwo.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\150-PowerOfTwo\obj\Debug\net5.0\150-PowerOfTwo.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\150-PowerOfTwo\obj\Debug\net5.0\ref\150-PowerOfTwo.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\150-PowerOfTwo\obj\Debug\net5.0\150-PowerOfTwo.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\150-PowerOfTwo\obj\Debug\net5.0\150-PowerOfTwo.genruntimeconfig.cache
