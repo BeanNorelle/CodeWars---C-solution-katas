@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\162-OrdinalNumbers\bin\Debug\net5.0\162-OrdinalNumbers.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\162-OrdinalNumbers\bin\Debug\net5.0\162-OrdinalNumbers.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\162-OrdinalNumbers\bin\Debug\net5.0\162-OrdinalNumbers.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\162-OrdinalNumbers\bin\Debug\net5.0\162-OrdinalNumbers.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\162-OrdinalNumbers\bin\Debug\net5.0\162-OrdinalNumbers.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\162-OrdinalNumbers\bin\Debug\net5.0\ref\162-OrdinalNumbers.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\162-OrdinalNumbers\bin\Debug\net5.0\162-OrdinalNumbers.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\162-OrdinalNumbers\obj\Debug\net5.0\162-OrdinalNumbers.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\162-OrdinalNumbers\obj\Debug\net5.0\162-OrdinalNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\162-OrdinalNumbers\obj\Debug\net5.0\162-OrdinalNumbers.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\162-OrdinalNumbers\obj\Debug\net5.0\162-OrdinalNumbers.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\162-OrdinalNumbers\obj\Debug\net5.0\162-OrdinalNumbers.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\162-OrdinalNumbers\obj\Debug\net5.0\162-OrdinalNumbers.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\162-OrdinalNumbers\obj\Debug\net5.0\ref\162-OrdinalNumbers.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\162-OrdinalNumbers\obj\Debug\net5.0\162-OrdinalNumbers.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\162-OrdinalNumbers\obj\Debug\net5.0\162-OrdinalNumbers.genruntimeconfig.cache

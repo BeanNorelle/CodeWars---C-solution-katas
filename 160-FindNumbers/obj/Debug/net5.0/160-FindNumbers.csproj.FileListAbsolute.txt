@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\160-FindNumbers\bin\Debug\net5.0\160-FindNumbers.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\160-FindNumbers\bin\Debug\net5.0\160-FindNumbers.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\160-FindNumbers\bin\Debug\net5.0\160-FindNumbers.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\160-FindNumbers\bin\Debug\net5.0\160-FindNumbers.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\160-FindNumbers\bin\Debug\net5.0\160-FindNumbers.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\160-FindNumbers\bin\Debug\net5.0\ref\160-FindNumbers.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\160-FindNumbers\bin\Debug\net5.0\160-FindNumbers.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\160-FindNumbers\obj\Debug\net5.0\160-FindNumbers.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\160-FindNumbers\obj\Debug\net5.0\160-FindNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\160-FindNumbers\obj\Debug\net5.0\160-FindNumbers.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\160-FindNumbers\obj\Debug\net5.0\160-FindNumbers.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\160-FindNumbers\obj\Debug\net5.0\160-FindNumbers.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\160-FindNumbers\obj\Debug\net5.0\160-FindNumbers.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\160-FindNumbers\obj\Debug\net5.0\ref\160-FindNumbers.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\160-FindNumbers\obj\Debug\net5.0\160-FindNumbers.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\160-FindNumbers\obj\Debug\net5.0\160-FindNumbers.genruntimeconfig.cache

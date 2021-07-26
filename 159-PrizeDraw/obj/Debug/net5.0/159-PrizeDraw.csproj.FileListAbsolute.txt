@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\159-PrizeDraw\bin\Debug\net5.0\159-PrizeDraw.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\159-PrizeDraw\bin\Debug\net5.0\159-PrizeDraw.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\159-PrizeDraw\bin\Debug\net5.0\159-PrizeDraw.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\159-PrizeDraw\bin\Debug\net5.0\159-PrizeDraw.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\159-PrizeDraw\bin\Debug\net5.0\159-PrizeDraw.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\159-PrizeDraw\bin\Debug\net5.0\ref\159-PrizeDraw.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\159-PrizeDraw\bin\Debug\net5.0\159-PrizeDraw.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\159-PrizeDraw\obj\Debug\net5.0\159-PrizeDraw.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\159-PrizeDraw\obj\Debug\net5.0\159-PrizeDraw.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\159-PrizeDraw\obj\Debug\net5.0\159-PrizeDraw.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\159-PrizeDraw\obj\Debug\net5.0\159-PrizeDraw.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\159-PrizeDraw\obj\Debug\net5.0\159-PrizeDraw.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\159-PrizeDraw\obj\Debug\net5.0\159-PrizeDraw.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\159-PrizeDraw\obj\Debug\net5.0\ref\159-PrizeDraw.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\159-PrizeDraw\obj\Debug\net5.0\159-PrizeDraw.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\159-PrizeDraw\obj\Debug\net5.0\159-PrizeDraw.genruntimeconfig.cache

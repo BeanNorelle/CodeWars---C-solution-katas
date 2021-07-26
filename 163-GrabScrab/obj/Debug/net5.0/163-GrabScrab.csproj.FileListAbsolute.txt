@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\163-GrabScrab\bin\Debug\net5.0\163-GrabScrab.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\163-GrabScrab\bin\Debug\net5.0\163-GrabScrab.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\163-GrabScrab\bin\Debug\net5.0\163-GrabScrab.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\163-GrabScrab\bin\Debug\net5.0\163-GrabScrab.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\163-GrabScrab\bin\Debug\net5.0\163-GrabScrab.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\163-GrabScrab\bin\Debug\net5.0\ref\163-GrabScrab.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\163-GrabScrab\bin\Debug\net5.0\163-GrabScrab.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\163-GrabScrab\obj\Debug\net5.0\163-GrabScrab.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\163-GrabScrab\obj\Debug\net5.0\163-GrabScrab.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\163-GrabScrab\obj\Debug\net5.0\163-GrabScrab.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\163-GrabScrab\obj\Debug\net5.0\163-GrabScrab.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\163-GrabScrab\obj\Debug\net5.0\163-GrabScrab.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\163-GrabScrab\obj\Debug\net5.0\163-GrabScrab.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\163-GrabScrab\obj\Debug\net5.0\ref\163-GrabScrab.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\163-GrabScrab\obj\Debug\net5.0\163-GrabScrab.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\163-GrabScrab\obj\Debug\net5.0\163-GrabScrab.genruntimeconfig.cache
