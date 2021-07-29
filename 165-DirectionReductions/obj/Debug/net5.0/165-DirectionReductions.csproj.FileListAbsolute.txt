@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\165-DirectionReductions\bin\Debug\net5.0\165-DirectionReductions.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\165-DirectionReductions\bin\Debug\net5.0\165-DirectionReductions.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\165-DirectionReductions\bin\Debug\net5.0\165-DirectionReductions.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\165-DirectionReductions\bin\Debug\net5.0\165-DirectionReductions.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\165-DirectionReductions\bin\Debug\net5.0\165-DirectionReductions.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\165-DirectionReductions\bin\Debug\net5.0\ref\165-DirectionReductions.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\165-DirectionReductions\bin\Debug\net5.0\165-DirectionReductions.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\165-DirectionReductions\obj\Debug\net5.0\165-DirectionReductions.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\165-DirectionReductions\obj\Debug\net5.0\165-DirectionReductions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\165-DirectionReductions\obj\Debug\net5.0\165-DirectionReductions.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\165-DirectionReductions\obj\Debug\net5.0\165-DirectionReductions.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\165-DirectionReductions\obj\Debug\net5.0\165-DirectionReductions.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\165-DirectionReductions\obj\Debug\net5.0\165-DirectionReductions.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\165-DirectionReductions\obj\Debug\net5.0\ref\165-DirectionReductions.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\165-DirectionReductions\obj\Debug\net5.0\165-DirectionReductions.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\165-DirectionReductions\obj\Debug\net5.0\165-DirectionReductions.genruntimeconfig.cache

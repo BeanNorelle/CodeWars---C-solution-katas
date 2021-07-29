@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\166-GroupIn10\bin\Debug\net5.0\166-GroupIn10.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\166-GroupIn10\bin\Debug\net5.0\166-GroupIn10.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\166-GroupIn10\bin\Debug\net5.0\166-GroupIn10.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\166-GroupIn10\bin\Debug\net5.0\166-GroupIn10.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\166-GroupIn10\bin\Debug\net5.0\166-GroupIn10.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\166-GroupIn10\bin\Debug\net5.0\ref\166-GroupIn10.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\166-GroupIn10\bin\Debug\net5.0\166-GroupIn10.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\166-GroupIn10\obj\Debug\net5.0\166-GroupIn10.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\166-GroupIn10\obj\Debug\net5.0\166-GroupIn10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\166-GroupIn10\obj\Debug\net5.0\166-GroupIn10.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\166-GroupIn10\obj\Debug\net5.0\166-GroupIn10.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\166-GroupIn10\obj\Debug\net5.0\166-GroupIn10.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\166-GroupIn10\obj\Debug\net5.0\166-GroupIn10.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\166-GroupIn10\obj\Debug\net5.0\ref\166-GroupIn10.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\166-GroupIn10\obj\Debug\net5.0\166-GroupIn10.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\166-GroupIn10\obj\Debug\net5.0\166-GroupIn10.genruntimeconfig.cache

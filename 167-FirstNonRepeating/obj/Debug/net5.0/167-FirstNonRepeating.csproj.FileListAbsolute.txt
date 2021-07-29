@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\167-FirstNonRepeating\bin\Debug\net5.0\167-FirstNonRepeating.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\167-FirstNonRepeating\bin\Debug\net5.0\167-FirstNonRepeating.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\167-FirstNonRepeating\bin\Debug\net5.0\167-FirstNonRepeating.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\167-FirstNonRepeating\bin\Debug\net5.0\167-FirstNonRepeating.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\167-FirstNonRepeating\bin\Debug\net5.0\167-FirstNonRepeating.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\167-FirstNonRepeating\bin\Debug\net5.0\ref\167-FirstNonRepeating.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\167-FirstNonRepeating\bin\Debug\net5.0\167-FirstNonRepeating.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\167-FirstNonRepeating\obj\Debug\net5.0\167-FirstNonRepeating.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\167-FirstNonRepeating\obj\Debug\net5.0\167-FirstNonRepeating.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\167-FirstNonRepeating\obj\Debug\net5.0\167-FirstNonRepeating.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\167-FirstNonRepeating\obj\Debug\net5.0\167-FirstNonRepeating.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\167-FirstNonRepeating\obj\Debug\net5.0\167-FirstNonRepeating.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\167-FirstNonRepeating\obj\Debug\net5.0\167-FirstNonRepeating.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\167-FirstNonRepeating\obj\Debug\net5.0\ref\167-FirstNonRepeating.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\167-FirstNonRepeating\obj\Debug\net5.0\167-FirstNonRepeating.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\167-FirstNonRepeating\obj\Debug\net5.0\167-FirstNonRepeating.genruntimeconfig.cache
