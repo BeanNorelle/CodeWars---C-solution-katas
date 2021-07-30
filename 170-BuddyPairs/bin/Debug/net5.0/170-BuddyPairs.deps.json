@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "170-BuddyPairs/1.0.0": {
+        "runtime": {
+          "170-BuddyPairs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "170-BuddyPairs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

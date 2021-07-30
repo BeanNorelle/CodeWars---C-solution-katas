@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\170-BuddyPairs\bin\Debug\net5.0\170-BuddyPairs.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\170-BuddyPairs\bin\Debug\net5.0\170-BuddyPairs.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\170-BuddyPairs\bin\Debug\net5.0\170-BuddyPairs.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\170-BuddyPairs\bin\Debug\net5.0\170-BuddyPairs.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\170-BuddyPairs\bin\Debug\net5.0\170-BuddyPairs.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\170-BuddyPairs\bin\Debug\net5.0\ref\170-BuddyPairs.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\170-BuddyPairs\bin\Debug\net5.0\170-BuddyPairs.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\170-BuddyPairs\obj\Debug\net5.0\170-BuddyPairs.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\170-BuddyPairs\obj\Debug\net5.0\170-BuddyPairs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\170-BuddyPairs\obj\Debug\net5.0\170-BuddyPairs.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\170-BuddyPairs\obj\Debug\net5.0\170-BuddyPairs.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\170-BuddyPairs\obj\Debug\net5.0\170-BuddyPairs.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\170-BuddyPairs\obj\Debug\net5.0\170-BuddyPairs.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\170-BuddyPairs\obj\Debug\net5.0\ref\170-BuddyPairs.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\170-BuddyPairs\obj\Debug\net5.0\170-BuddyPairs.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\170-BuddyPairs\obj\Debug\net5.0\170-BuddyPairs.genruntimeconfig.cache
