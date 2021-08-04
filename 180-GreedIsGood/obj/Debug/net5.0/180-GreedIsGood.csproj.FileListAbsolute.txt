@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\180-GreedIsGood\bin\Debug\net5.0\180-GreedIsGood.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\180-GreedIsGood\bin\Debug\net5.0\180-GreedIsGood.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\180-GreedIsGood\bin\Debug\net5.0\180-GreedIsGood.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\180-GreedIsGood\bin\Debug\net5.0\180-GreedIsGood.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\180-GreedIsGood\bin\Debug\net5.0\180-GreedIsGood.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\180-GreedIsGood\bin\Debug\net5.0\ref\180-GreedIsGood.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\180-GreedIsGood\bin\Debug\net5.0\180-GreedIsGood.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\180-GreedIsGood\obj\Debug\net5.0\180-GreedIsGood.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\180-GreedIsGood\obj\Debug\net5.0\180-GreedIsGood.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\180-GreedIsGood\obj\Debug\net5.0\180-GreedIsGood.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\180-GreedIsGood\obj\Debug\net5.0\180-GreedIsGood.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\180-GreedIsGood\obj\Debug\net5.0\180-GreedIsGood.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\180-GreedIsGood\obj\Debug\net5.0\180-GreedIsGood.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\180-GreedIsGood\obj\Debug\net5.0\ref\180-GreedIsGood.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\180-GreedIsGood\obj\Debug\net5.0\180-GreedIsGood.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\180-GreedIsGood\obj\Debug\net5.0\180-GreedIsGood.genruntimeconfig.cache

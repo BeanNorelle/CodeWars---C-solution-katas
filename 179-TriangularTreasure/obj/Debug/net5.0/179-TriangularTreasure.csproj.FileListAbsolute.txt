@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\179-TriangularTreasure\bin\Debug\net5.0\179-TriangularTreasure.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\179-TriangularTreasure\bin\Debug\net5.0\179-TriangularTreasure.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\179-TriangularTreasure\bin\Debug\net5.0\179-TriangularTreasure.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\179-TriangularTreasure\bin\Debug\net5.0\179-TriangularTreasure.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\179-TriangularTreasure\bin\Debug\net5.0\179-TriangularTreasure.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\179-TriangularTreasure\bin\Debug\net5.0\ref\179-TriangularTreasure.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\179-TriangularTreasure\bin\Debug\net5.0\179-TriangularTreasure.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\179-TriangularTreasure\obj\Debug\net5.0\179-TriangularTreasure.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\179-TriangularTreasure\obj\Debug\net5.0\179-TriangularTreasure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\179-TriangularTreasure\obj\Debug\net5.0\179-TriangularTreasure.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\179-TriangularTreasure\obj\Debug\net5.0\179-TriangularTreasure.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\179-TriangularTreasure\obj\Debug\net5.0\179-TriangularTreasure.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\179-TriangularTreasure\obj\Debug\net5.0\179-TriangularTreasure.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\179-TriangularTreasure\obj\Debug\net5.0\ref\179-TriangularTreasure.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\179-TriangularTreasure\obj\Debug\net5.0\179-TriangularTreasure.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\179-TriangularTreasure\obj\Debug\net5.0\179-TriangularTreasure.genruntimeconfig.cache

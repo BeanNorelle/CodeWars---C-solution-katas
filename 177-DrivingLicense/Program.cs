@@ -8,8 +8,10 @@ namespace _177_DrivingLicense
         static void Main(string[] args)
         {
             string [] data = { "John", "James", "Smiths", "01-Jan-2000", "M" };
+            DateTime dob  = DateTime.Parse( "01-Jan-2000");
+            int year = dob.Year;
 
-            Console.WriteLine(driver(data));
+            Console.WriteLine(dob.Month.ToString("D2"));
         }
 
          public static string driver (params string[] data)

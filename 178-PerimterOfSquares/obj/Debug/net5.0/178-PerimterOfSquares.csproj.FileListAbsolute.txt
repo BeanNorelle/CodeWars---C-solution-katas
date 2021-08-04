@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\178-PerimterOfSquares\bin\Debug\net5.0\178-PerimterOfSquares.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\178-PerimterOfSquares\bin\Debug\net5.0\178-PerimterOfSquares.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\178-PerimterOfSquares\bin\Debug\net5.0\178-PerimterOfSquares.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\178-PerimterOfSquares\bin\Debug\net5.0\178-PerimterOfSquares.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\178-PerimterOfSquares\bin\Debug\net5.0\178-PerimterOfSquares.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\178-PerimterOfSquares\bin\Debug\net5.0\ref\178-PerimterOfSquares.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\178-PerimterOfSquares\bin\Debug\net5.0\178-PerimterOfSquares.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\178-PerimterOfSquares\obj\Debug\net5.0\178-PerimterOfSquares.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\178-PerimterOfSquares\obj\Debug\net5.0\178-PerimterOfSquares.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\178-PerimterOfSquares\obj\Debug\net5.0\178-PerimterOfSquares.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\178-PerimterOfSquares\obj\Debug\net5.0\178-PerimterOfSquares.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\178-PerimterOfSquares\obj\Debug\net5.0\178-PerimterOfSquares.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\178-PerimterOfSquares\obj\Debug\net5.0\178-PerimterOfSquares.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\178-PerimterOfSquares\obj\Debug\net5.0\ref\178-PerimterOfSquares.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\178-PerimterOfSquares\obj\Debug\net5.0\178-PerimterOfSquares.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\178-PerimterOfSquares\obj\Debug\net5.0\178-PerimterOfSquares.genruntimeconfig.cache
