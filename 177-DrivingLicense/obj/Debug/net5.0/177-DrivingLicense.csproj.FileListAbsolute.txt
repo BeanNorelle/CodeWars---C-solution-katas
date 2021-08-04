@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\177-DrivingLicense\bin\Debug\net5.0\177-DrivingLicense.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\177-DrivingLicense\bin\Debug\net5.0\177-DrivingLicense.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\177-DrivingLicense\bin\Debug\net5.0\177-DrivingLicense.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\177-DrivingLicense\bin\Debug\net5.0\177-DrivingLicense.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\177-DrivingLicense\bin\Debug\net5.0\177-DrivingLicense.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\177-DrivingLicense\bin\Debug\net5.0\ref\177-DrivingLicense.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\177-DrivingLicense\bin\Debug\net5.0\177-DrivingLicense.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\177-DrivingLicense\obj\Debug\net5.0\177-DrivingLicense.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\177-DrivingLicense\obj\Debug\net5.0\177-DrivingLicense.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\177-DrivingLicense\obj\Debug\net5.0\177-DrivingLicense.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\177-DrivingLicense\obj\Debug\net5.0\177-DrivingLicense.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\177-DrivingLicense\obj\Debug\net5.0\177-DrivingLicense.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\177-DrivingLicense\obj\Debug\net5.0\177-DrivingLicense.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\177-DrivingLicense\obj\Debug\net5.0\ref\177-DrivingLicense.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\177-DrivingLicense\obj\Debug\net5.0\177-DrivingLicense.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\177-DrivingLicense\obj\Debug\net5.0\177-DrivingLicense.genruntimeconfig.cache

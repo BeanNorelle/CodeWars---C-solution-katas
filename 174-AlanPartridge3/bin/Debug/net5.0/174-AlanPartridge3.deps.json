@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "174-AlanPartridge3/1.0.0": {
+        "runtime": {
+          "174-AlanPartridge3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "174-AlanPartridge3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

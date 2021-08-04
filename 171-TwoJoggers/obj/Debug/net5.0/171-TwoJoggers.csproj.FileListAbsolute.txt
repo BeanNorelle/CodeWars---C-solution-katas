@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\171-TwoJoggers\bin\Debug\net5.0\171-TwoJoggers.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\171-TwoJoggers\bin\Debug\net5.0\171-TwoJoggers.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\171-TwoJoggers\bin\Debug\net5.0\171-TwoJoggers.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\171-TwoJoggers\bin\Debug\net5.0\171-TwoJoggers.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\171-TwoJoggers\bin\Debug\net5.0\171-TwoJoggers.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\171-TwoJoggers\bin\Debug\net5.0\ref\171-TwoJoggers.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\171-TwoJoggers\bin\Debug\net5.0\171-TwoJoggers.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\171-TwoJoggers\obj\Debug\net5.0\171-TwoJoggers.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\171-TwoJoggers\obj\Debug\net5.0\171-TwoJoggers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\171-TwoJoggers\obj\Debug\net5.0\171-TwoJoggers.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\171-TwoJoggers\obj\Debug\net5.0\171-TwoJoggers.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\171-TwoJoggers\obj\Debug\net5.0\171-TwoJoggers.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\171-TwoJoggers\obj\Debug\net5.0\171-TwoJoggers.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\171-TwoJoggers\obj\Debug\net5.0\ref\171-TwoJoggers.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\171-TwoJoggers\obj\Debug\net5.0\171-TwoJoggers.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\171-TwoJoggers\obj\Debug\net5.0\171-TwoJoggers.genruntimeconfig.cache

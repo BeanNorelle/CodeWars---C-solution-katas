@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\173-Permute\bin\Debug\net5.0\173-Permute.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\173-Permute\bin\Debug\net5.0\173-Permute.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\173-Permute\bin\Debug\net5.0\173-Permute.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\173-Permute\bin\Debug\net5.0\173-Permute.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\173-Permute\bin\Debug\net5.0\173-Permute.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\173-Permute\bin\Debug\net5.0\ref\173-Permute.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\173-Permute\bin\Debug\net5.0\173-Permute.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\173-Permute\obj\Debug\net5.0\173-Permute.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\173-Permute\obj\Debug\net5.0\173-Permute.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\173-Permute\obj\Debug\net5.0\173-Permute.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\173-Permute\obj\Debug\net5.0\173-Permute.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\173-Permute\obj\Debug\net5.0\173-Permute.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\173-Permute\obj\Debug\net5.0\173-Permute.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\173-Permute\obj\Debug\net5.0\ref\173-Permute.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\173-Permute\obj\Debug\net5.0\173-Permute.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\173-Permute\obj\Debug\net5.0\173-Permute.genruntimeconfig.cache

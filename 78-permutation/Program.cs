@@ -10,12 +10,7 @@ namespace _78_permutation
             {
                 string str = "ABC";
                 char[] charArry = str.ToCharArray();
-       
-
-                foreach(var s in Permute(charArry, 0, 2)){
-                    Console.WriteLine(s);
-                }
-                Console.ReadKey();
+                Permute(charArry, 0, 2);
             }
 
             static List<string> Permute(char[] arry, int i, int n)
@@ -33,7 +28,7 @@ namespace _78_permutation
                     if (!l.Contains(new string (arry))){
                          l.Add(new string (arry));}
                     }  
-
+                Console.Write(l.Count());
               return l;          
             }
 

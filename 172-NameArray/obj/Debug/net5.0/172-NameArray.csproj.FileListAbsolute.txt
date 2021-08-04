@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\172-NameArray\bin\Debug\net5.0\172-NameArray.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\172-NameArray\bin\Debug\net5.0\172-NameArray.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\172-NameArray\bin\Debug\net5.0\172-NameArray.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\172-NameArray\bin\Debug\net5.0\172-NameArray.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\172-NameArray\bin\Debug\net5.0\172-NameArray.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\172-NameArray\bin\Debug\net5.0\ref\172-NameArray.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\172-NameArray\bin\Debug\net5.0\172-NameArray.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\172-NameArray\obj\Debug\net5.0\172-NameArray.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\172-NameArray\obj\Debug\net5.0\172-NameArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\172-NameArray\obj\Debug\net5.0\172-NameArray.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\172-NameArray\obj\Debug\net5.0\172-NameArray.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\172-NameArray\obj\Debug\net5.0\172-NameArray.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\172-NameArray\obj\Debug\net5.0\172-NameArray.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\172-NameArray\obj\Debug\net5.0\ref\172-NameArray.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\172-NameArray\obj\Debug\net5.0\172-NameArray.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\172-NameArray\obj\Debug\net5.0\172-NameArray.genruntimeconfig.cache

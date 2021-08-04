@@ -6,7 +6,7 @@ namespace _170_BuddyPairs
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Buddy(381,4318));
+            Console.WriteLine(Buddy(10,48));
         }
 
         public static string Buddy(long start, long limit)
@@ -17,7 +17,9 @@ namespace _170_BuddyPairs
             {
                 long number=sumdivisors(n)-1;
                 long number2=sumdivisors(number)-1;
-                Console.WriteLine(n+" "+number);
+
+                Console.WriteLine(n+" "+number+" "+number2);
+
                 if(number>n&&number2==n)
                 {
                     result = $"({n} {number})"; 

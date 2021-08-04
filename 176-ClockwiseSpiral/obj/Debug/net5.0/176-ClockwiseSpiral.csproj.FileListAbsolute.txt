@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\176-ClockwiseSpiral\bin\Debug\net5.0\176-ClockwiseSpiral.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\176-ClockwiseSpiral\bin\Debug\net5.0\176-ClockwiseSpiral.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\176-ClockwiseSpiral\bin\Debug\net5.0\176-ClockwiseSpiral.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\176-ClockwiseSpiral\bin\Debug\net5.0\176-ClockwiseSpiral.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\176-ClockwiseSpiral\bin\Debug\net5.0\176-ClockwiseSpiral.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\176-ClockwiseSpiral\bin\Debug\net5.0\ref\176-ClockwiseSpiral.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\176-ClockwiseSpiral\bin\Debug\net5.0\176-ClockwiseSpiral.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\176-ClockwiseSpiral\obj\Debug\net5.0\176-ClockwiseSpiral.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\176-ClockwiseSpiral\obj\Debug\net5.0\176-ClockwiseSpiral.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\176-ClockwiseSpiral\obj\Debug\net5.0\176-ClockwiseSpiral.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\176-ClockwiseSpiral\obj\Debug\net5.0\176-ClockwiseSpiral.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\176-ClockwiseSpiral\obj\Debug\net5.0\176-ClockwiseSpiral.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\176-ClockwiseSpiral\obj\Debug\net5.0\176-ClockwiseSpiral.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\176-ClockwiseSpiral\obj\Debug\net5.0\ref\176-ClockwiseSpiral.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\176-ClockwiseSpiral\obj\Debug\net5.0\176-ClockwiseSpiral.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\176-ClockwiseSpiral\obj\Debug\net5.0\176-ClockwiseSpiral.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "172-NameArray/1.0.0": {
+        "runtime": {
+          "172-NameArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "172-NameArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
