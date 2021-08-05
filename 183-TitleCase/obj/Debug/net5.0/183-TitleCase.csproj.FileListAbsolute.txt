@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\183-TitleCase\bin\Debug\net5.0\183-TitleCase.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\183-TitleCase\bin\Debug\net5.0\183-TitleCase.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\183-TitleCase\bin\Debug\net5.0\183-TitleCase.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\183-TitleCase\bin\Debug\net5.0\183-TitleCase.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\183-TitleCase\bin\Debug\net5.0\183-TitleCase.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\183-TitleCase\bin\Debug\net5.0\ref\183-TitleCase.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\183-TitleCase\bin\Debug\net5.0\183-TitleCase.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\183-TitleCase\obj\Debug\net5.0\183-TitleCase.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\183-TitleCase\obj\Debug\net5.0\183-TitleCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\183-TitleCase\obj\Debug\net5.0\183-TitleCase.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\183-TitleCase\obj\Debug\net5.0\183-TitleCase.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\183-TitleCase\obj\Debug\net5.0\183-TitleCase.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\183-TitleCase\obj\Debug\net5.0\183-TitleCase.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\183-TitleCase\obj\Debug\net5.0\ref\183-TitleCase.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\183-TitleCase\obj\Debug\net5.0\183-TitleCase.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\183-TitleCase\obj\Debug\net5.0\183-TitleCase.genruntimeconfig.cache
