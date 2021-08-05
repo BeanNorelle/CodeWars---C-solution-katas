@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\181-FormatWordsToSentence\bin\Debug\net5.0\181-FormatWordsToSentence.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\181-FormatWordsToSentence\bin\Debug\net5.0\181-FormatWordsToSentence.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\181-FormatWordsToSentence\bin\Debug\net5.0\181-FormatWordsToSentence.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\181-FormatWordsToSentence\bin\Debug\net5.0\181-FormatWordsToSentence.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\181-FormatWordsToSentence\bin\Debug\net5.0\181-FormatWordsToSentence.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\181-FormatWordsToSentence\bin\Debug\net5.0\ref\181-FormatWordsToSentence.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\181-FormatWordsToSentence\bin\Debug\net5.0\181-FormatWordsToSentence.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\181-FormatWordsToSentence\obj\Debug\net5.0\181-FormatWordsToSentence.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\181-FormatWordsToSentence\obj\Debug\net5.0\181-FormatWordsToSentence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\181-FormatWordsToSentence\obj\Debug\net5.0\181-FormatWordsToSentence.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\181-FormatWordsToSentence\obj\Debug\net5.0\181-FormatWordsToSentence.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\181-FormatWordsToSentence\obj\Debug\net5.0\181-FormatWordsToSentence.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\181-FormatWordsToSentence\obj\Debug\net5.0\181-FormatWordsToSentence.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\181-FormatWordsToSentence\obj\Debug\net5.0\ref\181-FormatWordsToSentence.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\181-FormatWordsToSentence\obj\Debug\net5.0\181-FormatWordsToSentence.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\181-FormatWordsToSentence\obj\Debug\net5.0\181-FormatWordsToSentence.genruntimeconfig.cache

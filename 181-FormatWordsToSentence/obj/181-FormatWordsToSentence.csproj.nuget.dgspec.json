@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Bean - Files\\Visual Test\\c#\\Begineers Practice folder\\71-snailpattern\\71-snailpattern.csproj": {}
+    "D:\\Bean - Files\\Visual Test\\c#\\Begineers Practice folder\\181-FormatWordsToSentence\\181-FormatWordsToSentence.csproj": {}
   },
   "projects": {
-    "d:\\Bean - Files\\Visual Test\\c#\\Begineers Practice folder\\71-snailpattern\\71-snailpattern.csproj": {
+    "D:\\Bean - Files\\Visual Test\\c#\\Begineers Practice folder\\181-FormatWordsToSentence\\181-FormatWordsToSentence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Bean - Files\\Visual Test\\c#\\Begineers Practice folder\\71-snailpattern\\71-snailpattern.csproj",
-        "projectName": "71-snailpattern",
-        "projectPath": "d:\\Bean - Files\\Visual Test\\c#\\Begineers Practice folder\\71-snailpattern\\71-snailpattern.csproj",
+        "projectUniqueName": "D:\\Bean - Files\\Visual Test\\c#\\Begineers Practice folder\\181-FormatWordsToSentence\\181-FormatWordsToSentence.csproj",
+        "projectName": "181-FormatWordsToSentence",
+        "projectPath": "D:\\Bean - Files\\Visual Test\\c#\\Begineers Practice folder\\181-FormatWordsToSentence\\181-FormatWordsToSentence.csproj",
         "packagesPath": "C:\\Users\\beans\\.nuget\\packages\\",
-        "outputPath": "d:\\Bean - Files\\Visual Test\\c#\\Begineers Practice folder\\71-snailpattern\\obj\\",
+        "outputPath": "D:\\Bean - Files\\Visual Test\\c#\\Begineers Practice folder\\181-FormatWordsToSentence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

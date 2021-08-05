@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\182-ZeroFill\bin\Debug\net5.0\182-ZeroFill.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\182-ZeroFill\bin\Debug\net5.0\182-ZeroFill.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\182-ZeroFill\bin\Debug\net5.0\182-ZeroFill.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\182-ZeroFill\bin\Debug\net5.0\182-ZeroFill.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\182-ZeroFill\bin\Debug\net5.0\182-ZeroFill.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\182-ZeroFill\bin\Debug\net5.0\ref\182-ZeroFill.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\182-ZeroFill\bin\Debug\net5.0\182-ZeroFill.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\182-ZeroFill\obj\Debug\net5.0\182-ZeroFill.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\182-ZeroFill\obj\Debug\net5.0\182-ZeroFill.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\182-ZeroFill\obj\Debug\net5.0\182-ZeroFill.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\182-ZeroFill\obj\Debug\net5.0\182-ZeroFill.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\182-ZeroFill\obj\Debug\net5.0\182-ZeroFill.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\182-ZeroFill\obj\Debug\net5.0\182-ZeroFill.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\182-ZeroFill\obj\Debug\net5.0\ref\182-ZeroFill.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\182-ZeroFill\obj\Debug\net5.0\182-ZeroFill.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\182-ZeroFill\obj\Debug\net5.0\182-ZeroFill.genruntimeconfig.cache
