@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\184-SmallestInArray\bin\Debug\net5.0\184-SmallestInArray.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\184-SmallestInArray\bin\Debug\net5.0\184-SmallestInArray.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\184-SmallestInArray\bin\Debug\net5.0\184-SmallestInArray.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\184-SmallestInArray\bin\Debug\net5.0\184-SmallestInArray.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\184-SmallestInArray\bin\Debug\net5.0\184-SmallestInArray.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\184-SmallestInArray\bin\Debug\net5.0\ref\184-SmallestInArray.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\184-SmallestInArray\bin\Debug\net5.0\184-SmallestInArray.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\184-SmallestInArray\obj\Debug\net5.0\184-SmallestInArray.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\184-SmallestInArray\obj\Debug\net5.0\184-SmallestInArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\184-SmallestInArray\obj\Debug\net5.0\184-SmallestInArray.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\184-SmallestInArray\obj\Debug\net5.0\184-SmallestInArray.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\184-SmallestInArray\obj\Debug\net5.0\184-SmallestInArray.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\184-SmallestInArray\obj\Debug\net5.0\184-SmallestInArray.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\184-SmallestInArray\obj\Debug\net5.0\ref\184-SmallestInArray.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\184-SmallestInArray\obj\Debug\net5.0\184-SmallestInArray.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\184-SmallestInArray\obj\Debug\net5.0\184-SmallestInArray.genruntimeconfig.cache
