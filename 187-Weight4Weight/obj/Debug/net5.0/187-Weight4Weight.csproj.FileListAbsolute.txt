@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\187-Weight4Weight\bin\Debug\net5.0\187-Weight4Weight.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\187-Weight4Weight\bin\Debug\net5.0\187-Weight4Weight.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\187-Weight4Weight\bin\Debug\net5.0\187-Weight4Weight.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\187-Weight4Weight\bin\Debug\net5.0\187-Weight4Weight.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\187-Weight4Weight\bin\Debug\net5.0\187-Weight4Weight.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\187-Weight4Weight\bin\Debug\net5.0\ref\187-Weight4Weight.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\187-Weight4Weight\bin\Debug\net5.0\187-Weight4Weight.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\187-Weight4Weight\obj\Debug\net5.0\187-Weight4Weight.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\187-Weight4Weight\obj\Debug\net5.0\187-Weight4Weight.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\187-Weight4Weight\obj\Debug\net5.0\187-Weight4Weight.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\187-Weight4Weight\obj\Debug\net5.0\187-Weight4Weight.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\187-Weight4Weight\obj\Debug\net5.0\187-Weight4Weight.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\187-Weight4Weight\obj\Debug\net5.0\187-Weight4Weight.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\187-Weight4Weight\obj\Debug\net5.0\ref\187-Weight4Weight.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\187-Weight4Weight\obj\Debug\net5.0\187-Weight4Weight.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\187-Weight4Weight\obj\Debug\net5.0\187-Weight4Weight.genruntimeconfig.cache
