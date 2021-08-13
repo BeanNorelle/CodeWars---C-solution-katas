@@ -8,7 +8,10 @@ namespace _173_Permute
     {
         static void Main(string[] args)
         {
-            SinglePermutations("abcd");
+            var s  = SinglePermutations("abba");
+
+            s.ForEach(x=>Console.WriteLine(x));
+            Console.WriteLine(s.Count());
         }
 
         public static List<string> SinglePermutations(string str)
@@ -28,7 +31,6 @@ namespace _173_Permute
                     for(int i = 0;i<word.Length+1;i++)
                     {
                         words = word.Substring(0,i) + str[0] + word.Substring(i);
-                        Console.WriteLine(words);
                         slist.Add(words);
                     }
                 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Bean - Files\\Visual Test\\c#\\Begineers Practice folder\\173-Permute\\173-Permute.csproj": {}
+    "D:\\Bean - Files\\Visual Test\\c#\\Begineers Practice folder\\173-Permute\\173-Permute.csproj": {}
   },
   "projects": {
-    "d:\\Bean - Files\\Visual Test\\c#\\Begineers Practice folder\\173-Permute\\173-Permute.csproj": {
+    "D:\\Bean - Files\\Visual Test\\c#\\Begineers Practice folder\\173-Permute\\173-Permute.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Bean - Files\\Visual Test\\c#\\Begineers Practice folder\\173-Permute\\173-Permute.csproj",
+        "projectUniqueName": "D:\\Bean - Files\\Visual Test\\c#\\Begineers Practice folder\\173-Permute\\173-Permute.csproj",
         "projectName": "173-Permute",
-        "projectPath": "d:\\Bean - Files\\Visual Test\\c#\\Begineers Practice folder\\173-Permute\\173-Permute.csproj",
+        "projectPath": "D:\\Bean - Files\\Visual Test\\c#\\Begineers Practice folder\\173-Permute\\173-Permute.csproj",
         "packagesPath": "C:\\Users\\beans\\.nuget\\packages\\",
-        "outputPath": "d:\\Bean - Files\\Visual Test\\c#\\Begineers Practice folder\\173-Permute\\obj\\",
+        "outputPath": "D:\\Bean - Files\\Visual Test\\c#\\Begineers Practice folder\\173-Permute\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }

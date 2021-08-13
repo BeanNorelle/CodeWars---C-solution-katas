@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\190-EvenOrOdd\obj\Debug\net5.0\190-EvenOrOdd.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\190-EvenOrOdd\obj\Debug\net5.0\190-EvenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\190-EvenOrOdd\obj\Debug\net5.0\190-EvenOrOdd.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\190-EvenOrOdd\obj\Debug\net5.0\190-EvenOrOdd.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\190-EvenOrOdd\obj\Debug\net5.0\190-EvenOrOdd.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\190-EvenOrOdd\bin\Debug\net5.0\190-EvenOrOdd.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\190-EvenOrOdd\bin\Debug\net5.0\190-EvenOrOdd.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\190-EvenOrOdd\bin\Debug\net5.0\190-EvenOrOdd.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\190-EvenOrOdd\bin\Debug\net5.0\190-EvenOrOdd.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\190-EvenOrOdd\bin\Debug\net5.0\190-EvenOrOdd.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\190-EvenOrOdd\bin\Debug\net5.0\ref\190-EvenOrOdd.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\190-EvenOrOdd\bin\Debug\net5.0\190-EvenOrOdd.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\190-EvenOrOdd\obj\Debug\net5.0\190-EvenOrOdd.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\190-EvenOrOdd\obj\Debug\net5.0\ref\190-EvenOrOdd.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\190-EvenOrOdd\obj\Debug\net5.0\190-EvenOrOdd.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\190-EvenOrOdd\obj\Debug\net5.0\190-EvenOrOdd.genruntimeconfig.cache

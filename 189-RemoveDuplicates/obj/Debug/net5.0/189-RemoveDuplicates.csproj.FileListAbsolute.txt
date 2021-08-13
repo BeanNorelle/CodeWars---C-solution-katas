@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\189-RemoveDuplicates\bin\Debug\net5.0\189-RemoveDuplicates.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\189-RemoveDuplicates\bin\Debug\net5.0\189-RemoveDuplicates.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\189-RemoveDuplicates\bin\Debug\net5.0\189-RemoveDuplicates.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\189-RemoveDuplicates\bin\Debug\net5.0\189-RemoveDuplicates.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\189-RemoveDuplicates\bin\Debug\net5.0\189-RemoveDuplicates.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\189-RemoveDuplicates\bin\Debug\net5.0\ref\189-RemoveDuplicates.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\189-RemoveDuplicates\bin\Debug\net5.0\189-RemoveDuplicates.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\189-RemoveDuplicates\obj\Debug\net5.0\189-RemoveDuplicates.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\189-RemoveDuplicates\obj\Debug\net5.0\189-RemoveDuplicates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\189-RemoveDuplicates\obj\Debug\net5.0\189-RemoveDuplicates.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\189-RemoveDuplicates\obj\Debug\net5.0\189-RemoveDuplicates.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\189-RemoveDuplicates\obj\Debug\net5.0\189-RemoveDuplicates.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\189-RemoveDuplicates\obj\Debug\net5.0\189-RemoveDuplicates.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\189-RemoveDuplicates\obj\Debug\net5.0\ref\189-RemoveDuplicates.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\189-RemoveDuplicates\obj\Debug\net5.0\189-RemoveDuplicates.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\189-RemoveDuplicates\obj\Debug\net5.0\189-RemoveDuplicates.genruntimeconfig.cache

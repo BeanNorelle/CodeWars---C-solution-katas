@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\188-SumOfCubes\bin\Debug\net5.0\188-SumOfCubes.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\188-SumOfCubes\bin\Debug\net5.0\188-SumOfCubes.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\188-SumOfCubes\bin\Debug\net5.0\188-SumOfCubes.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\188-SumOfCubes\bin\Debug\net5.0\188-SumOfCubes.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\188-SumOfCubes\bin\Debug\net5.0\188-SumOfCubes.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\188-SumOfCubes\bin\Debug\net5.0\ref\188-SumOfCubes.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\188-SumOfCubes\bin\Debug\net5.0\188-SumOfCubes.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\188-SumOfCubes\obj\Debug\net5.0\188-SumOfCubes.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\188-SumOfCubes\obj\Debug\net5.0\188-SumOfCubes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\188-SumOfCubes\obj\Debug\net5.0\188-SumOfCubes.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\188-SumOfCubes\obj\Debug\net5.0\188-SumOfCubes.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\188-SumOfCubes\obj\Debug\net5.0\188-SumOfCubes.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\188-SumOfCubes\obj\Debug\net5.0\188-SumOfCubes.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\188-SumOfCubes\obj\Debug\net5.0\ref\188-SumOfCubes.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\188-SumOfCubes\obj\Debug\net5.0\188-SumOfCubes.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\188-SumOfCubes\obj\Debug\net5.0\188-SumOfCubes.genruntimeconfig.cache
