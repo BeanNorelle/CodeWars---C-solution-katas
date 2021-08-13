@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\192-BattleOfChar\bin\Debug\net5.0\192-BattleOfChar.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\192-BattleOfChar\bin\Debug\net5.0\192-BattleOfChar.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\192-BattleOfChar\bin\Debug\net5.0\192-BattleOfChar.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\192-BattleOfChar\bin\Debug\net5.0\192-BattleOfChar.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\192-BattleOfChar\bin\Debug\net5.0\192-BattleOfChar.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\192-BattleOfChar\bin\Debug\net5.0\ref\192-BattleOfChar.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\192-BattleOfChar\bin\Debug\net5.0\192-BattleOfChar.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\192-BattleOfChar\obj\Debug\net5.0\192-BattleOfChar.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\192-BattleOfChar\obj\Debug\net5.0\192-BattleOfChar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\192-BattleOfChar\obj\Debug\net5.0\192-BattleOfChar.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\192-BattleOfChar\obj\Debug\net5.0\192-BattleOfChar.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\192-BattleOfChar\obj\Debug\net5.0\192-BattleOfChar.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\192-BattleOfChar\obj\Debug\net5.0\192-BattleOfChar.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\192-BattleOfChar\obj\Debug\net5.0\ref\192-BattleOfChar.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\192-BattleOfChar\obj\Debug\net5.0\192-BattleOfChar.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\192-BattleOfChar\obj\Debug\net5.0\192-BattleOfChar.genruntimeconfig.cache
