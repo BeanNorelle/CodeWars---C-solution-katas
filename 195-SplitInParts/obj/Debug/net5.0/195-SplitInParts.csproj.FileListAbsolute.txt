@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\195-SplitInParts\bin\Debug\net5.0\195-SplitInParts.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\195-SplitInParts\bin\Debug\net5.0\195-SplitInParts.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\195-SplitInParts\bin\Debug\net5.0\195-SplitInParts.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\195-SplitInParts\bin\Debug\net5.0\195-SplitInParts.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\195-SplitInParts\bin\Debug\net5.0\195-SplitInParts.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\195-SplitInParts\bin\Debug\net5.0\ref\195-SplitInParts.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\195-SplitInParts\bin\Debug\net5.0\195-SplitInParts.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\195-SplitInParts\obj\Debug\net5.0\195-SplitInParts.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\195-SplitInParts\obj\Debug\net5.0\195-SplitInParts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\195-SplitInParts\obj\Debug\net5.0\195-SplitInParts.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\195-SplitInParts\obj\Debug\net5.0\195-SplitInParts.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\195-SplitInParts\obj\Debug\net5.0\195-SplitInParts.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\195-SplitInParts\obj\Debug\net5.0\195-SplitInParts.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\195-SplitInParts\obj\Debug\net5.0\ref\195-SplitInParts.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\195-SplitInParts\obj\Debug\net5.0\195-SplitInParts.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\195-SplitInParts\obj\Debug\net5.0\195-SplitInParts.genruntimeconfig.cache

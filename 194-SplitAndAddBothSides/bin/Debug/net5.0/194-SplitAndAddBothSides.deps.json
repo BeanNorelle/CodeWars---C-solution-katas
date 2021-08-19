@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "194-SplitAndAddBothSides/1.0.0": {
+        "runtime": {
+          "194-SplitAndAddBothSides.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "194-SplitAndAddBothSides/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

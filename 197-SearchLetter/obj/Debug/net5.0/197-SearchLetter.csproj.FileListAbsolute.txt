@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\197-SearchLetter\bin\Debug\net5.0\197-SearchLetter.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\197-SearchLetter\bin\Debug\net5.0\197-SearchLetter.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\197-SearchLetter\bin\Debug\net5.0\197-SearchLetter.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\197-SearchLetter\bin\Debug\net5.0\197-SearchLetter.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\197-SearchLetter\bin\Debug\net5.0\197-SearchLetter.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\197-SearchLetter\bin\Debug\net5.0\ref\197-SearchLetter.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\197-SearchLetter\bin\Debug\net5.0\197-SearchLetter.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\197-SearchLetter\obj\Debug\net5.0\197-SearchLetter.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\197-SearchLetter\obj\Debug\net5.0\197-SearchLetter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\197-SearchLetter\obj\Debug\net5.0\197-SearchLetter.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\197-SearchLetter\obj\Debug\net5.0\197-SearchLetter.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\197-SearchLetter\obj\Debug\net5.0\197-SearchLetter.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\197-SearchLetter\obj\Debug\net5.0\197-SearchLetter.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\197-SearchLetter\obj\Debug\net5.0\ref\197-SearchLetter.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\197-SearchLetter\obj\Debug\net5.0\197-SearchLetter.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\197-SearchLetter\obj\Debug\net5.0\197-SearchLetter.genruntimeconfig.cache

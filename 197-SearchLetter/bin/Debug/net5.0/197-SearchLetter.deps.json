@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "197-SearchLetter/1.0.0": {
+        "runtime": {
+          "197-SearchLetter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "197-SearchLetter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

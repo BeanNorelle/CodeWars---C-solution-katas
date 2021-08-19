@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\193-AlternateCase\obj\Debug\net5.0\193-AlternateCase.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\193-AlternateCase\obj\Debug\net5.0\193-AlternateCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\193-AlternateCase\obj\Debug\net5.0\193-AlternateCase.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\193-AlternateCase\obj\Debug\net5.0\193-AlternateCase.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\193-AlternateCase\obj\Debug\net5.0\193-AlternateCase.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\193-AlternateCase\bin\Debug\net5.0\193-AlternateCase.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\193-AlternateCase\bin\Debug\net5.0\193-AlternateCase.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\193-AlternateCase\bin\Debug\net5.0\193-AlternateCase.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\193-AlternateCase\bin\Debug\net5.0\193-AlternateCase.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\193-AlternateCase\bin\Debug\net5.0\193-AlternateCase.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\193-AlternateCase\bin\Debug\net5.0\ref\193-AlternateCase.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\193-AlternateCase\bin\Debug\net5.0\193-AlternateCase.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\193-AlternateCase\obj\Debug\net5.0\193-AlternateCase.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\193-AlternateCase\obj\Debug\net5.0\ref\193-AlternateCase.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\193-AlternateCase\obj\Debug\net5.0\193-AlternateCase.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\193-AlternateCase\obj\Debug\net5.0\193-AlternateCase.genruntimeconfig.cache

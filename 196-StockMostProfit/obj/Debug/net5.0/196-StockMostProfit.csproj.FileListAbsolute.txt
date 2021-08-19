@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\196-StockMostProfit\bin\Debug\net5.0\196-StockMostProfit.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\196-StockMostProfit\bin\Debug\net5.0\196-StockMostProfit.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\196-StockMostProfit\bin\Debug\net5.0\196-StockMostProfit.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\196-StockMostProfit\bin\Debug\net5.0\196-StockMostProfit.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\196-StockMostProfit\bin\Debug\net5.0\196-StockMostProfit.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\196-StockMostProfit\bin\Debug\net5.0\ref\196-StockMostProfit.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\196-StockMostProfit\bin\Debug\net5.0\196-StockMostProfit.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\196-StockMostProfit\obj\Debug\net5.0\196-StockMostProfit.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\196-StockMostProfit\obj\Debug\net5.0\196-StockMostProfit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\196-StockMostProfit\obj\Debug\net5.0\196-StockMostProfit.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\196-StockMostProfit\obj\Debug\net5.0\196-StockMostProfit.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\196-StockMostProfit\obj\Debug\net5.0\196-StockMostProfit.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\196-StockMostProfit\obj\Debug\net5.0\196-StockMostProfit.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\196-StockMostProfit\obj\Debug\net5.0\ref\196-StockMostProfit.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\196-StockMostProfit\obj\Debug\net5.0\196-StockMostProfit.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\196-StockMostProfit\obj\Debug\net5.0\196-StockMostProfit.genruntimeconfig.cache

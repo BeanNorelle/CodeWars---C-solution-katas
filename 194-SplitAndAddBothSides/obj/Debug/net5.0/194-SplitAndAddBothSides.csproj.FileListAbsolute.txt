@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\194-SplitAndAddBothSides\bin\Debug\net5.0\194-SplitAndAddBothSides.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\194-SplitAndAddBothSides\bin\Debug\net5.0\194-SplitAndAddBothSides.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\194-SplitAndAddBothSides\bin\Debug\net5.0\194-SplitAndAddBothSides.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\194-SplitAndAddBothSides\bin\Debug\net5.0\194-SplitAndAddBothSides.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\194-SplitAndAddBothSides\bin\Debug\net5.0\194-SplitAndAddBothSides.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\194-SplitAndAddBothSides\bin\Debug\net5.0\ref\194-SplitAndAddBothSides.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\194-SplitAndAddBothSides\bin\Debug\net5.0\194-SplitAndAddBothSides.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\194-SplitAndAddBothSides\obj\Debug\net5.0\194-SplitAndAddBothSides.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\194-SplitAndAddBothSides\obj\Debug\net5.0\194-SplitAndAddBothSides.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\194-SplitAndAddBothSides\obj\Debug\net5.0\194-SplitAndAddBothSides.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\194-SplitAndAddBothSides\obj\Debug\net5.0\194-SplitAndAddBothSides.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\194-SplitAndAddBothSides\obj\Debug\net5.0\194-SplitAndAddBothSides.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\194-SplitAndAddBothSides\obj\Debug\net5.0\194-SplitAndAddBothSides.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\194-SplitAndAddBothSides\obj\Debug\net5.0\ref\194-SplitAndAddBothSides.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\194-SplitAndAddBothSides\obj\Debug\net5.0\194-SplitAndAddBothSides.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\194-SplitAndAddBothSides\obj\Debug\net5.0\194-SplitAndAddBothSides.genruntimeconfig.cache
