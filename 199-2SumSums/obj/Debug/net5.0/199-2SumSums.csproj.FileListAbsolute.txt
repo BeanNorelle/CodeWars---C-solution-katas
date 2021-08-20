@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\199-2SumSums\bin\Debug\net5.0\199-2SumSums.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\199-2SumSums\bin\Debug\net5.0\199-2SumSums.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\199-2SumSums\bin\Debug\net5.0\199-2SumSums.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\199-2SumSums\bin\Debug\net5.0\199-2SumSums.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\199-2SumSums\bin\Debug\net5.0\199-2SumSums.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\199-2SumSums\bin\Debug\net5.0\ref\199-2SumSums.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\199-2SumSums\bin\Debug\net5.0\199-2SumSums.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\199-2SumSums\obj\Debug\net5.0\199-2SumSums.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\199-2SumSums\obj\Debug\net5.0\199-2SumSums.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\199-2SumSums\obj\Debug\net5.0\199-2SumSums.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\199-2SumSums\obj\Debug\net5.0\199-2SumSums.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\199-2SumSums\obj\Debug\net5.0\199-2SumSums.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\199-2SumSums\obj\Debug\net5.0\199-2SumSums.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\199-2SumSums\obj\Debug\net5.0\ref\199-2SumSums.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\199-2SumSums\obj\Debug\net5.0\199-2SumSums.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\199-2SumSums\obj\Debug\net5.0\199-2SumSums.genruntimeconfig.cache

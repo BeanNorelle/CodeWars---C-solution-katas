@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\201-BasicSequence\bin\Debug\net5.0\201-BasicSequence.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\201-BasicSequence\bin\Debug\net5.0\201-BasicSequence.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\201-BasicSequence\bin\Debug\net5.0\201-BasicSequence.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\201-BasicSequence\bin\Debug\net5.0\201-BasicSequence.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\201-BasicSequence\bin\Debug\net5.0\201-BasicSequence.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\201-BasicSequence\bin\Debug\net5.0\ref\201-BasicSequence.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\201-BasicSequence\bin\Debug\net5.0\201-BasicSequence.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\201-BasicSequence\obj\Debug\net5.0\201-BasicSequence.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\201-BasicSequence\obj\Debug\net5.0\201-BasicSequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\201-BasicSequence\obj\Debug\net5.0\201-BasicSequence.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\201-BasicSequence\obj\Debug\net5.0\201-BasicSequence.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\201-BasicSequence\obj\Debug\net5.0\201-BasicSequence.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\201-BasicSequence\obj\Debug\net5.0\201-BasicSequence.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\201-BasicSequence\obj\Debug\net5.0\ref\201-BasicSequence.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\201-BasicSequence\obj\Debug\net5.0\201-BasicSequence.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\201-BasicSequence\obj\Debug\net5.0\201-BasicSequence.genruntimeconfig.cache

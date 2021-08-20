@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\198-Fibonacci\bin\Debug\net5.0\198-Fibonacci.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\198-Fibonacci\bin\Debug\net5.0\198-Fibonacci.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\198-Fibonacci\bin\Debug\net5.0\198-Fibonacci.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\198-Fibonacci\bin\Debug\net5.0\198-Fibonacci.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\198-Fibonacci\bin\Debug\net5.0\198-Fibonacci.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\198-Fibonacci\bin\Debug\net5.0\ref\198-Fibonacci.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\198-Fibonacci\bin\Debug\net5.0\198-Fibonacci.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\198-Fibonacci\obj\Debug\net5.0\198-Fibonacci.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\198-Fibonacci\obj\Debug\net5.0\198-Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\198-Fibonacci\obj\Debug\net5.0\198-Fibonacci.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\198-Fibonacci\obj\Debug\net5.0\198-Fibonacci.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\198-Fibonacci\obj\Debug\net5.0\198-Fibonacci.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\198-Fibonacci\obj\Debug\net5.0\198-Fibonacci.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\198-Fibonacci\obj\Debug\net5.0\ref\198-Fibonacci.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\198-Fibonacci\obj\Debug\net5.0\198-Fibonacci.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\198-Fibonacci\obj\Debug\net5.0\198-Fibonacci.genruntimeconfig.cache
