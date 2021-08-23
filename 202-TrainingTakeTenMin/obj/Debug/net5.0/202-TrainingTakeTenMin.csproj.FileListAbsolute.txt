@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\202-TrainingTakeTenMin\bin\Debug\net5.0\202-TrainingTakeTenMin.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\202-TrainingTakeTenMin\bin\Debug\net5.0\202-TrainingTakeTenMin.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\202-TrainingTakeTenMin\bin\Debug\net5.0\202-TrainingTakeTenMin.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\202-TrainingTakeTenMin\bin\Debug\net5.0\202-TrainingTakeTenMin.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\202-TrainingTakeTenMin\bin\Debug\net5.0\202-TrainingTakeTenMin.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\202-TrainingTakeTenMin\bin\Debug\net5.0\ref\202-TrainingTakeTenMin.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\202-TrainingTakeTenMin\bin\Debug\net5.0\202-TrainingTakeTenMin.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\202-TrainingTakeTenMin\obj\Debug\net5.0\202-TrainingTakeTenMin.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\202-TrainingTakeTenMin\obj\Debug\net5.0\202-TrainingTakeTenMin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\202-TrainingTakeTenMin\obj\Debug\net5.0\202-TrainingTakeTenMin.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\202-TrainingTakeTenMin\obj\Debug\net5.0\202-TrainingTakeTenMin.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\202-TrainingTakeTenMin\obj\Debug\net5.0\202-TrainingTakeTenMin.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\202-TrainingTakeTenMin\obj\Debug\net5.0\202-TrainingTakeTenMin.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\202-TrainingTakeTenMin\obj\Debug\net5.0\ref\202-TrainingTakeTenMin.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\202-TrainingTakeTenMin\obj\Debug\net5.0\202-TrainingTakeTenMin.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\202-TrainingTakeTenMin\obj\Debug\net5.0\202-TrainingTakeTenMin.genruntimeconfig.cache
