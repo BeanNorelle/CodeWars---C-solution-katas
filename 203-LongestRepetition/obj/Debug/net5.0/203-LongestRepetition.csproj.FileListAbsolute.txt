@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\203-LongestRepetition\bin\Debug\net5.0\203-LongestRepetition.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\203-LongestRepetition\bin\Debug\net5.0\203-LongestRepetition.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\203-LongestRepetition\bin\Debug\net5.0\203-LongestRepetition.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\203-LongestRepetition\bin\Debug\net5.0\203-LongestRepetition.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\203-LongestRepetition\bin\Debug\net5.0\203-LongestRepetition.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\203-LongestRepetition\bin\Debug\net5.0\ref\203-LongestRepetition.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\203-LongestRepetition\bin\Debug\net5.0\203-LongestRepetition.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\203-LongestRepetition\obj\Debug\net5.0\203-LongestRepetition.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\203-LongestRepetition\obj\Debug\net5.0\203-LongestRepetition.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\203-LongestRepetition\obj\Debug\net5.0\203-LongestRepetition.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\203-LongestRepetition\obj\Debug\net5.0\203-LongestRepetition.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\203-LongestRepetition\obj\Debug\net5.0\203-LongestRepetition.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\203-LongestRepetition\obj\Debug\net5.0\203-LongestRepetition.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\203-LongestRepetition\obj\Debug\net5.0\ref\203-LongestRepetition.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\203-LongestRepetition\obj\Debug\net5.0\203-LongestRepetition.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\203-LongestRepetition\obj\Debug\net5.0\203-LongestRepetition.genruntimeconfig.cache
