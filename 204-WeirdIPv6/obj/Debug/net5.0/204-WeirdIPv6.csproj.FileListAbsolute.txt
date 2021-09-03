@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\204-WeirdIPv6\obj\Debug\net5.0\204-WeirdIPv6.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\204-WeirdIPv6\obj\Debug\net5.0\204-WeirdIPv6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\204-WeirdIPv6\obj\Debug\net5.0\204-WeirdIPv6.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\204-WeirdIPv6\obj\Debug\net5.0\204-WeirdIPv6.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\204-WeirdIPv6\obj\Debug\net5.0\204-WeirdIPv6.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\204-WeirdIPv6\bin\Debug\net5.0\204-WeirdIPv6.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\204-WeirdIPv6\bin\Debug\net5.0\204-WeirdIPv6.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\204-WeirdIPv6\bin\Debug\net5.0\204-WeirdIPv6.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\204-WeirdIPv6\bin\Debug\net5.0\204-WeirdIPv6.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\204-WeirdIPv6\bin\Debug\net5.0\204-WeirdIPv6.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\204-WeirdIPv6\bin\Debug\net5.0\ref\204-WeirdIPv6.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\204-WeirdIPv6\bin\Debug\net5.0\204-WeirdIPv6.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\204-WeirdIPv6\obj\Debug\net5.0\204-WeirdIPv6.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\204-WeirdIPv6\obj\Debug\net5.0\ref\204-WeirdIPv6.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\204-WeirdIPv6\obj\Debug\net5.0\204-WeirdIPv6.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\204-WeirdIPv6\obj\Debug\net5.0\204-WeirdIPv6.genruntimeconfig.cache
