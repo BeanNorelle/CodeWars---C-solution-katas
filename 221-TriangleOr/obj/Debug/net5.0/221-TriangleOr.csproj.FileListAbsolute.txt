@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\221-TriangleOr\bin\Debug\net5.0\221-TriangleOr.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\221-TriangleOr\bin\Debug\net5.0\221-TriangleOr.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\221-TriangleOr\bin\Debug\net5.0\221-TriangleOr.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\221-TriangleOr\bin\Debug\net5.0\221-TriangleOr.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\221-TriangleOr\bin\Debug\net5.0\221-TriangleOr.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\221-TriangleOr\bin\Debug\net5.0\ref\221-TriangleOr.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\221-TriangleOr\bin\Debug\net5.0\221-TriangleOr.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\221-TriangleOr\obj\Debug\net5.0\221-TriangleOr.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\221-TriangleOr\obj\Debug\net5.0\221-TriangleOr.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\221-TriangleOr\obj\Debug\net5.0\221-TriangleOr.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\221-TriangleOr\obj\Debug\net5.0\221-TriangleOr.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\221-TriangleOr\obj\Debug\net5.0\221-TriangleOr.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\221-TriangleOr\obj\Debug\net5.0\221-TriangleOr.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\221-TriangleOr\obj\Debug\net5.0\ref\221-TriangleOr.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\221-TriangleOr\obj\Debug\net5.0\221-TriangleOr.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\221-TriangleOr\obj\Debug\net5.0\221-TriangleOr.genruntimeconfig.cache

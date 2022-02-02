@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\210-Practice\bin\Debug\net5.0\210-Practice.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\210-Practice\bin\Debug\net5.0\210-Practice.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\210-Practice\bin\Debug\net5.0\210-Practice.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\210-Practice\bin\Debug\net5.0\210-Practice.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\210-Practice\bin\Debug\net5.0\210-Practice.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\210-Practice\bin\Debug\net5.0\ref\210-Practice.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\210-Practice\bin\Debug\net5.0\210-Practice.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\210-Practice\obj\Debug\net5.0\210-Practice.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\210-Practice\obj\Debug\net5.0\210-Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\210-Practice\obj\Debug\net5.0\210-Practice.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\210-Practice\obj\Debug\net5.0\210-Practice.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\210-Practice\obj\Debug\net5.0\210-Practice.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\210-Practice\obj\Debug\net5.0\210-Practice.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\210-Practice\obj\Debug\net5.0\ref\210-Practice.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\210-Practice\obj\Debug\net5.0\210-Practice.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\210-Practice\obj\Debug\net5.0\210-Practice.genruntimeconfig.cache

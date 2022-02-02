@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\208-RegularExpressions\bin\Debug\net5.0\208-RegularExpressions.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\208-RegularExpressions\bin\Debug\net5.0\208-RegularExpressions.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\208-RegularExpressions\bin\Debug\net5.0\208-RegularExpressions.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\208-RegularExpressions\bin\Debug\net5.0\208-RegularExpressions.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\208-RegularExpressions\bin\Debug\net5.0\208-RegularExpressions.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\208-RegularExpressions\bin\Debug\net5.0\ref\208-RegularExpressions.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\208-RegularExpressions\bin\Debug\net5.0\208-RegularExpressions.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\208-RegularExpressions\obj\Debug\net5.0\208-RegularExpressions.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\208-RegularExpressions\obj\Debug\net5.0\208-RegularExpressions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\208-RegularExpressions\obj\Debug\net5.0\208-RegularExpressions.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\208-RegularExpressions\obj\Debug\net5.0\208-RegularExpressions.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\208-RegularExpressions\obj\Debug\net5.0\208-RegularExpressions.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\208-RegularExpressions\obj\Debug\net5.0\208-RegularExpressions.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\208-RegularExpressions\obj\Debug\net5.0\ref\208-RegularExpressions.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\208-RegularExpressions\obj\Debug\net5.0\208-RegularExpressions.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\208-RegularExpressions\obj\Debug\net5.0\208-RegularExpressions.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\225-ParityOutlier\bin\Debug\net5.0\225-ParityOutlier.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\225-ParityOutlier\bin\Debug\net5.0\225-ParityOutlier.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\225-ParityOutlier\bin\Debug\net5.0\225-ParityOutlier.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\225-ParityOutlier\bin\Debug\net5.0\225-ParityOutlier.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\225-ParityOutlier\bin\Debug\net5.0\225-ParityOutlier.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\225-ParityOutlier\bin\Debug\net5.0\ref\225-ParityOutlier.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\225-ParityOutlier\bin\Debug\net5.0\225-ParityOutlier.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\225-ParityOutlier\obj\Debug\net5.0\225-ParityOutlier.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\225-ParityOutlier\obj\Debug\net5.0\225-ParityOutlier.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\225-ParityOutlier\obj\Debug\net5.0\225-ParityOutlier.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\225-ParityOutlier\obj\Debug\net5.0\225-ParityOutlier.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\225-ParityOutlier\obj\Debug\net5.0\225-ParityOutlier.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\225-ParityOutlier\obj\Debug\net5.0\225-ParityOutlier.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\225-ParityOutlier\obj\Debug\net5.0\ref\225-ParityOutlier.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\225-ParityOutlier\obj\Debug\net5.0\225-ParityOutlier.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\225-ParityOutlier\obj\Debug\net5.0\225-ParityOutlier.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\217-Leastcommonmultilpe\bin\Debug\net5.0\217-Leastcommonmultilpe.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\217-Leastcommonmultilpe\bin\Debug\net5.0\217-Leastcommonmultilpe.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\217-Leastcommonmultilpe\bin\Debug\net5.0\217-Leastcommonmultilpe.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\217-Leastcommonmultilpe\bin\Debug\net5.0\217-Leastcommonmultilpe.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\217-Leastcommonmultilpe\bin\Debug\net5.0\217-Leastcommonmultilpe.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\217-Leastcommonmultilpe\bin\Debug\net5.0\ref\217-Leastcommonmultilpe.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\217-Leastcommonmultilpe\bin\Debug\net5.0\217-Leastcommonmultilpe.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\217-Leastcommonmultilpe\obj\Debug\net5.0\217-Leastcommonmultilpe.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\217-Leastcommonmultilpe\obj\Debug\net5.0\217-Leastcommonmultilpe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\217-Leastcommonmultilpe\obj\Debug\net5.0\217-Leastcommonmultilpe.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\217-Leastcommonmultilpe\obj\Debug\net5.0\217-Leastcommonmultilpe.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\217-Leastcommonmultilpe\obj\Debug\net5.0\217-Leastcommonmultilpe.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\217-Leastcommonmultilpe\obj\Debug\net5.0\217-Leastcommonmultilpe.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\217-Leastcommonmultilpe\obj\Debug\net5.0\ref\217-Leastcommonmultilpe.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\217-Leastcommonmultilpe\obj\Debug\net5.0\217-Leastcommonmultilpe.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\217-Leastcommonmultilpe\obj\Debug\net5.0\217-Leastcommonmultilpe.genruntimeconfig.cache

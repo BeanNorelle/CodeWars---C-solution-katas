@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\212-MakeRecursion\bin\Debug\net5.0\212-MakeRecursion.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\212-MakeRecursion\bin\Debug\net5.0\212-MakeRecursion.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\212-MakeRecursion\bin\Debug\net5.0\212-MakeRecursion.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\212-MakeRecursion\bin\Debug\net5.0\212-MakeRecursion.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\212-MakeRecursion\bin\Debug\net5.0\212-MakeRecursion.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\212-MakeRecursion\bin\Debug\net5.0\ref\212-MakeRecursion.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\212-MakeRecursion\bin\Debug\net5.0\212-MakeRecursion.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\212-MakeRecursion\obj\Debug\net5.0\212-MakeRecursion.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\212-MakeRecursion\obj\Debug\net5.0\212-MakeRecursion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\212-MakeRecursion\obj\Debug\net5.0\212-MakeRecursion.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\212-MakeRecursion\obj\Debug\net5.0\212-MakeRecursion.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\212-MakeRecursion\obj\Debug\net5.0\212-MakeRecursion.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\212-MakeRecursion\obj\Debug\net5.0\212-MakeRecursion.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\212-MakeRecursion\obj\Debug\net5.0\ref\212-MakeRecursion.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\212-MakeRecursion\obj\Debug\net5.0\212-MakeRecursion.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\212-MakeRecursion\obj\Debug\net5.0\212-MakeRecursion.genruntimeconfig.cache

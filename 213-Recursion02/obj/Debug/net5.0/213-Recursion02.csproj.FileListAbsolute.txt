@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\213-Recursion02\bin\Debug\net5.0\213-Recursion02.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\213-Recursion02\bin\Debug\net5.0\213-Recursion02.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\213-Recursion02\bin\Debug\net5.0\213-Recursion02.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\213-Recursion02\bin\Debug\net5.0\213-Recursion02.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\213-Recursion02\bin\Debug\net5.0\213-Recursion02.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\213-Recursion02\bin\Debug\net5.0\ref\213-Recursion02.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\213-Recursion02\bin\Debug\net5.0\213-Recursion02.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\213-Recursion02\obj\Debug\net5.0\213-Recursion02.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\213-Recursion02\obj\Debug\net5.0\213-Recursion02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\213-Recursion02\obj\Debug\net5.0\213-Recursion02.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\213-Recursion02\obj\Debug\net5.0\213-Recursion02.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\213-Recursion02\obj\Debug\net5.0\213-Recursion02.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\213-Recursion02\obj\Debug\net5.0\213-Recursion02.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\213-Recursion02\obj\Debug\net5.0\ref\213-Recursion02.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\213-Recursion02\obj\Debug\net5.0\213-Recursion02.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\213-Recursion02\obj\Debug\net5.0\213-Recursion02.genruntimeconfig.cache

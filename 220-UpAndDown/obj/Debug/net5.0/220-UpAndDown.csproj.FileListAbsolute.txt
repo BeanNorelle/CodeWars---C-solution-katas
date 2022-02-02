@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\220-UpAndDown\bin\Debug\net5.0\220-UpAndDown.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\220-UpAndDown\bin\Debug\net5.0\220-UpAndDown.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\220-UpAndDown\bin\Debug\net5.0\220-UpAndDown.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\220-UpAndDown\bin\Debug\net5.0\220-UpAndDown.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\220-UpAndDown\bin\Debug\net5.0\220-UpAndDown.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\220-UpAndDown\bin\Debug\net5.0\ref\220-UpAndDown.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\220-UpAndDown\bin\Debug\net5.0\220-UpAndDown.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\220-UpAndDown\obj\Debug\net5.0\220-UpAndDown.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\220-UpAndDown\obj\Debug\net5.0\220-UpAndDown.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\220-UpAndDown\obj\Debug\net5.0\220-UpAndDown.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\220-UpAndDown\obj\Debug\net5.0\220-UpAndDown.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\220-UpAndDown\obj\Debug\net5.0\220-UpAndDown.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\220-UpAndDown\obj\Debug\net5.0\220-UpAndDown.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\220-UpAndDown\obj\Debug\net5.0\ref\220-UpAndDown.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\220-UpAndDown\obj\Debug\net5.0\220-UpAndDown.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\220-UpAndDown\obj\Debug\net5.0\220-UpAndDown.genruntimeconfig.cache

@@ -9,7 +9,7 @@ namespace _166_GroupIn10
         static void Main(string[] args)
         {  
         
-        int [] sss = {8, 12, 38, 3, 17, 19, 25, 35, 50}; 
+        int [] sss = {8, 12, 38, 3, 17, 19, 25, 35, 50,110}; 
 
          var n = GroupIn10(sss);
 

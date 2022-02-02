@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\205-ReverseList\obj\Debug\net5.0\205-ReverseList.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\205-ReverseList\obj\Debug\net5.0\205-ReverseList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\205-ReverseList\obj\Debug\net5.0\205-ReverseList.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\205-ReverseList\obj\Debug\net5.0\205-ReverseList.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\205-ReverseList\obj\Debug\net5.0\205-ReverseList.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\205-ReverseList\bin\Debug\net5.0\205-ReverseList.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\205-ReverseList\bin\Debug\net5.0\205-ReverseList.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\205-ReverseList\bin\Debug\net5.0\205-ReverseList.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\205-ReverseList\bin\Debug\net5.0\205-ReverseList.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\205-ReverseList\bin\Debug\net5.0\205-ReverseList.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\205-ReverseList\bin\Debug\net5.0\ref\205-ReverseList.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\205-ReverseList\bin\Debug\net5.0\205-ReverseList.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\205-ReverseList\obj\Debug\net5.0\205-ReverseList.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\205-ReverseList\obj\Debug\net5.0\ref\205-ReverseList.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\205-ReverseList\obj\Debug\net5.0\205-ReverseList.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\205-ReverseList\obj\Debug\net5.0\205-ReverseList.genruntimeconfig.cache

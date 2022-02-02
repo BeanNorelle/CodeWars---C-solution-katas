@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\216-Spoonerize\bin\Debug\net5.0\216-Spoonerize.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\216-Spoonerize\bin\Debug\net5.0\216-Spoonerize.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\216-Spoonerize\bin\Debug\net5.0\216-Spoonerize.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\216-Spoonerize\bin\Debug\net5.0\216-Spoonerize.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\216-Spoonerize\bin\Debug\net5.0\216-Spoonerize.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\216-Spoonerize\bin\Debug\net5.0\ref\216-Spoonerize.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\216-Spoonerize\bin\Debug\net5.0\216-Spoonerize.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\216-Spoonerize\obj\Debug\net5.0\216-Spoonerize.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\216-Spoonerize\obj\Debug\net5.0\216-Spoonerize.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\216-Spoonerize\obj\Debug\net5.0\216-Spoonerize.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\216-Spoonerize\obj\Debug\net5.0\216-Spoonerize.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\216-Spoonerize\obj\Debug\net5.0\216-Spoonerize.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\216-Spoonerize\obj\Debug\net5.0\216-Spoonerize.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\216-Spoonerize\obj\Debug\net5.0\ref\216-Spoonerize.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\216-Spoonerize\obj\Debug\net5.0\216-Spoonerize.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\216-Spoonerize\obj\Debug\net5.0\216-Spoonerize.genruntimeconfig.cache

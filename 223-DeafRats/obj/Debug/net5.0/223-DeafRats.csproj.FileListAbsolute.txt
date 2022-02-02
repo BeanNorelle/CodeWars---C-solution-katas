@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\223-DeafRats\bin\Debug\net5.0\223-DeafRats.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\223-DeafRats\bin\Debug\net5.0\223-DeafRats.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\223-DeafRats\bin\Debug\net5.0\223-DeafRats.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\223-DeafRats\bin\Debug\net5.0\223-DeafRats.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\223-DeafRats\bin\Debug\net5.0\223-DeafRats.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\223-DeafRats\bin\Debug\net5.0\ref\223-DeafRats.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\223-DeafRats\bin\Debug\net5.0\223-DeafRats.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\223-DeafRats\obj\Debug\net5.0\223-DeafRats.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\223-DeafRats\obj\Debug\net5.0\223-DeafRats.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\223-DeafRats\obj\Debug\net5.0\223-DeafRats.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\223-DeafRats\obj\Debug\net5.0\223-DeafRats.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\223-DeafRats\obj\Debug\net5.0\223-DeafRats.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\223-DeafRats\obj\Debug\net5.0\223-DeafRats.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\223-DeafRats\obj\Debug\net5.0\ref\223-DeafRats.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\223-DeafRats\obj\Debug\net5.0\223-DeafRats.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\223-DeafRats\obj\Debug\net5.0\223-DeafRats.genruntimeconfig.cache

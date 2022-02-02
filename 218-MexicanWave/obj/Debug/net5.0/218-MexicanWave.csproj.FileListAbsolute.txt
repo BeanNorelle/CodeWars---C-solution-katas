@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\218-MexicanWave\bin\Debug\net5.0\218-MexicanWave.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\218-MexicanWave\bin\Debug\net5.0\218-MexicanWave.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\218-MexicanWave\bin\Debug\net5.0\218-MexicanWave.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\218-MexicanWave\bin\Debug\net5.0\218-MexicanWave.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\218-MexicanWave\bin\Debug\net5.0\218-MexicanWave.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\218-MexicanWave\bin\Debug\net5.0\ref\218-MexicanWave.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\218-MexicanWave\bin\Debug\net5.0\218-MexicanWave.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\218-MexicanWave\obj\Debug\net5.0\218-MexicanWave.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\218-MexicanWave\obj\Debug\net5.0\218-MexicanWave.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\218-MexicanWave\obj\Debug\net5.0\218-MexicanWave.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\218-MexicanWave\obj\Debug\net5.0\218-MexicanWave.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\218-MexicanWave\obj\Debug\net5.0\218-MexicanWave.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\218-MexicanWave\obj\Debug\net5.0\218-MexicanWave.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\218-MexicanWave\obj\Debug\net5.0\ref\218-MexicanWave.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\218-MexicanWave\obj\Debug\net5.0\218-MexicanWave.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\218-MexicanWave\obj\Debug\net5.0\218-MexicanWave.genruntimeconfig.cache

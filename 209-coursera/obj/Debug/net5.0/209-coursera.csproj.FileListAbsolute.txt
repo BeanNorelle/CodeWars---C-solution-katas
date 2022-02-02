@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\209-coursera\bin\Debug\net5.0\209-coursera.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\209-coursera\bin\Debug\net5.0\209-coursera.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\209-coursera\bin\Debug\net5.0\209-coursera.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\209-coursera\bin\Debug\net5.0\209-coursera.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\209-coursera\bin\Debug\net5.0\209-coursera.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\209-coursera\bin\Debug\net5.0\ref\209-coursera.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\209-coursera\bin\Debug\net5.0\209-coursera.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\209-coursera\obj\Debug\net5.0\209-coursera.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\209-coursera\obj\Debug\net5.0\209-coursera.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\209-coursera\obj\Debug\net5.0\209-coursera.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\209-coursera\obj\Debug\net5.0\209-coursera.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\209-coursera\obj\Debug\net5.0\209-coursera.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\209-coursera\obj\Debug\net5.0\209-coursera.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\209-coursera\obj\Debug\net5.0\ref\209-coursera.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\209-coursera\obj\Debug\net5.0\209-coursera.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\209-coursera\obj\Debug\net5.0\209-coursera.genruntimeconfig.cache

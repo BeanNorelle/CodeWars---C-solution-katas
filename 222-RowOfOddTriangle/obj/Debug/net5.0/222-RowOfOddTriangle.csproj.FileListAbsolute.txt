@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\222-RowOfOddTriangle\obj\Debug\net5.0\222-RowOfOddTriangle.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\222-RowOfOddTriangle\obj\Debug\net5.0\222-RowOfOddTriangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\222-RowOfOddTriangle\obj\Debug\net5.0\222-RowOfOddTriangle.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\222-RowOfOddTriangle\obj\Debug\net5.0\222-RowOfOddTriangle.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\222-RowOfOddTriangle\obj\Debug\net5.0\222-RowOfOddTriangle.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\222-RowOfOddTriangle\bin\Debug\net5.0\222-RowOfOddTriangle.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\222-RowOfOddTriangle\bin\Debug\net5.0\222-RowOfOddTriangle.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\222-RowOfOddTriangle\bin\Debug\net5.0\222-RowOfOddTriangle.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\222-RowOfOddTriangle\bin\Debug\net5.0\222-RowOfOddTriangle.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\222-RowOfOddTriangle\bin\Debug\net5.0\222-RowOfOddTriangle.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\222-RowOfOddTriangle\bin\Debug\net5.0\ref\222-RowOfOddTriangle.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\222-RowOfOddTriangle\bin\Debug\net5.0\222-RowOfOddTriangle.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\222-RowOfOddTriangle\obj\Debug\net5.0\222-RowOfOddTriangle.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\222-RowOfOddTriangle\obj\Debug\net5.0\ref\222-RowOfOddTriangle.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\222-RowOfOddTriangle\obj\Debug\net5.0\222-RowOfOddTriangle.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\222-RowOfOddTriangle\obj\Debug\net5.0\222-RowOfOddTriangle.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\219-PrimeChecker\bin\Debug\net5.0\219-PrimeChecker.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\219-PrimeChecker\bin\Debug\net5.0\219-PrimeChecker.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\219-PrimeChecker\bin\Debug\net5.0\219-PrimeChecker.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\219-PrimeChecker\bin\Debug\net5.0\219-PrimeChecker.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\219-PrimeChecker\bin\Debug\net5.0\219-PrimeChecker.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\219-PrimeChecker\bin\Debug\net5.0\ref\219-PrimeChecker.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\219-PrimeChecker\bin\Debug\net5.0\219-PrimeChecker.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\219-PrimeChecker\obj\Debug\net5.0\219-PrimeChecker.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\219-PrimeChecker\obj\Debug\net5.0\219-PrimeChecker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\219-PrimeChecker\obj\Debug\net5.0\219-PrimeChecker.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\219-PrimeChecker\obj\Debug\net5.0\219-PrimeChecker.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\219-PrimeChecker\obj\Debug\net5.0\219-PrimeChecker.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\219-PrimeChecker\obj\Debug\net5.0\219-PrimeChecker.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\219-PrimeChecker\obj\Debug\net5.0\ref\219-PrimeChecker.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\219-PrimeChecker\obj\Debug\net5.0\219-PrimeChecker.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\219-PrimeChecker\obj\Debug\net5.0\219-PrimeChecker.genruntimeconfig.cache

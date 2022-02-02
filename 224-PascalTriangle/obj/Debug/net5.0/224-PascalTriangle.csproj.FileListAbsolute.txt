@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\224-PascalTriangle\obj\Debug\net5.0\224-PascalTriangle.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\224-PascalTriangle\obj\Debug\net5.0\224-PascalTriangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\224-PascalTriangle\obj\Debug\net5.0\224-PascalTriangle.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\224-PascalTriangle\obj\Debug\net5.0\224-PascalTriangle.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\224-PascalTriangle\obj\Debug\net5.0\224-PascalTriangle.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\224-PascalTriangle\bin\Debug\net5.0\224-PascalTriangle.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\224-PascalTriangle\bin\Debug\net5.0\224-PascalTriangle.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\224-PascalTriangle\bin\Debug\net5.0\224-PascalTriangle.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\224-PascalTriangle\bin\Debug\net5.0\224-PascalTriangle.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\224-PascalTriangle\bin\Debug\net5.0\224-PascalTriangle.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\224-PascalTriangle\bin\Debug\net5.0\ref\224-PascalTriangle.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\224-PascalTriangle\bin\Debug\net5.0\224-PascalTriangle.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\224-PascalTriangle\obj\Debug\net5.0\224-PascalTriangle.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\224-PascalTriangle\obj\Debug\net5.0\ref\224-PascalTriangle.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\224-PascalTriangle\obj\Debug\net5.0\224-PascalTriangle.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\224-PascalTriangle\obj\Debug\net5.0\224-PascalTriangle.genruntimeconfig.cache

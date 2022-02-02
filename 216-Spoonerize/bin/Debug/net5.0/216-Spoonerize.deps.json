@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "216-Spoonerize/1.0.0": {
+        "runtime": {
+          "216-Spoonerize.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "216-Spoonerize/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

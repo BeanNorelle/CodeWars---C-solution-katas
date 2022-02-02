@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\215-LeastCommonDenominator\bin\Debug\net5.0\215-LeastCommonDenominator.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\215-LeastCommonDenominator\bin\Debug\net5.0\215-LeastCommonDenominator.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\215-LeastCommonDenominator\bin\Debug\net5.0\215-LeastCommonDenominator.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\215-LeastCommonDenominator\bin\Debug\net5.0\215-LeastCommonDenominator.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\215-LeastCommonDenominator\bin\Debug\net5.0\215-LeastCommonDenominator.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\215-LeastCommonDenominator\bin\Debug\net5.0\ref\215-LeastCommonDenominator.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\215-LeastCommonDenominator\bin\Debug\net5.0\215-LeastCommonDenominator.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\215-LeastCommonDenominator\obj\Debug\net5.0\215-LeastCommonDenominator.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\215-LeastCommonDenominator\obj\Debug\net5.0\215-LeastCommonDenominator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\215-LeastCommonDenominator\obj\Debug\net5.0\215-LeastCommonDenominator.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\215-LeastCommonDenominator\obj\Debug\net5.0\215-LeastCommonDenominator.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\215-LeastCommonDenominator\obj\Debug\net5.0\215-LeastCommonDenominator.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\215-LeastCommonDenominator\obj\Debug\net5.0\215-LeastCommonDenominator.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\215-LeastCommonDenominator\obj\Debug\net5.0\ref\215-LeastCommonDenominator.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\215-LeastCommonDenominator\obj\Debug\net5.0\215-LeastCommonDenominator.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\215-LeastCommonDenominator\obj\Debug\net5.0\215-LeastCommonDenominator.genruntimeconfig.cache

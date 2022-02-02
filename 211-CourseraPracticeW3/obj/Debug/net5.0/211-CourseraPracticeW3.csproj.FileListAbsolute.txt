@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\211-CourseraPracticeW3\bin\Debug\net5.0\211-CourseraPracticeW3.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\211-CourseraPracticeW3\bin\Debug\net5.0\211-CourseraPracticeW3.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\211-CourseraPracticeW3\bin\Debug\net5.0\211-CourseraPracticeW3.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\211-CourseraPracticeW3\bin\Debug\net5.0\211-CourseraPracticeW3.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\211-CourseraPracticeW3\bin\Debug\net5.0\211-CourseraPracticeW3.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\211-CourseraPracticeW3\bin\Debug\net5.0\ref\211-CourseraPracticeW3.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\211-CourseraPracticeW3\bin\Debug\net5.0\211-CourseraPracticeW3.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\211-CourseraPracticeW3\obj\Debug\net5.0\211-CourseraPracticeW3.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\211-CourseraPracticeW3\obj\Debug\net5.0\211-CourseraPracticeW3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\211-CourseraPracticeW3\obj\Debug\net5.0\211-CourseraPracticeW3.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\211-CourseraPracticeW3\obj\Debug\net5.0\211-CourseraPracticeW3.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\211-CourseraPracticeW3\obj\Debug\net5.0\211-CourseraPracticeW3.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\211-CourseraPracticeW3\obj\Debug\net5.0\211-CourseraPracticeW3.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\211-CourseraPracticeW3\obj\Debug\net5.0\ref\211-CourseraPracticeW3.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\211-CourseraPracticeW3\obj\Debug\net5.0\211-CourseraPracticeW3.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\211-CourseraPracticeW3\obj\Debug\net5.0\211-CourseraPracticeW3.genruntimeconfig.cache

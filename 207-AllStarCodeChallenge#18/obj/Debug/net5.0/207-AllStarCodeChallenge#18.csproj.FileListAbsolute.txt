@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\207-AllStarCodeChallenge#18\bin\Debug\net5.0\207-AllStarCodeChallenge#18.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\207-AllStarCodeChallenge#18\bin\Debug\net5.0\207-AllStarCodeChallenge#18.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\207-AllStarCodeChallenge#18\bin\Debug\net5.0\207-AllStarCodeChallenge#18.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\207-AllStarCodeChallenge#18\bin\Debug\net5.0\207-AllStarCodeChallenge#18.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\207-AllStarCodeChallenge#18\bin\Debug\net5.0\207-AllStarCodeChallenge#18.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\207-AllStarCodeChallenge#18\bin\Debug\net5.0\ref\207-AllStarCodeChallenge#18.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\207-AllStarCodeChallenge#18\bin\Debug\net5.0\207-AllStarCodeChallenge#18.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\207-AllStarCodeChallenge#18\obj\Debug\net5.0\207-AllStarCodeChallenge#18.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\207-AllStarCodeChallenge#18\obj\Debug\net5.0\207-AllStarCodeChallenge#18.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\207-AllStarCodeChallenge#18\obj\Debug\net5.0\207-AllStarCodeChallenge#18.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\207-AllStarCodeChallenge#18\obj\Debug\net5.0\207-AllStarCodeChallenge#18.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\207-AllStarCodeChallenge#18\obj\Debug\net5.0\207-AllStarCodeChallenge#18.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\207-AllStarCodeChallenge#18\obj\Debug\net5.0\207-AllStarCodeChallenge#18.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\207-AllStarCodeChallenge#18\obj\Debug\net5.0\ref\207-AllStarCodeChallenge#18.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\207-AllStarCodeChallenge#18\obj\Debug\net5.0\207-AllStarCodeChallenge#18.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\207-AllStarCodeChallenge#18\obj\Debug\net5.0\207-AllStarCodeChallenge#18.genruntimeconfig.cache
