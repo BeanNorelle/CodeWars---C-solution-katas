@@ -51,6 +51,8 @@ namespace _225_ParityOutlier
                 else
                 even++;
             }
+            bool isOdd = nlist.ToList();
+
             return (nlist.Where(integer => (odd<even) ? integer % 2 == 0 : integer % 2 != 0)).First();
         }
     }

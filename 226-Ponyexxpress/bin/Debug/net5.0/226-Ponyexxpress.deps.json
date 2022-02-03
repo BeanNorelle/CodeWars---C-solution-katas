@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "226-Ponyexxpress/1.0.0": {
+        "runtime": {
+          "226-Ponyexxpress.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "226-Ponyexxpress/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

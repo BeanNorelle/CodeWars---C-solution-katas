@@ -1,0 +1,16 @@
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\226-Ponyexxpress\bin\Debug\net5.0\226-Ponyexxpress.exe
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\226-Ponyexxpress\bin\Debug\net5.0\226-Ponyexxpress.deps.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\226-Ponyexxpress\bin\Debug\net5.0\226-Ponyexxpress.runtimeconfig.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\226-Ponyexxpress\bin\Debug\net5.0\226-Ponyexxpress.runtimeconfig.dev.json
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\226-Ponyexxpress\bin\Debug\net5.0\226-Ponyexxpress.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\226-Ponyexxpress\bin\Debug\net5.0\ref\226-Ponyexxpress.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\226-Ponyexxpress\bin\Debug\net5.0\226-Ponyexxpress.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\226-Ponyexxpress\obj\Debug\net5.0\226-Ponyexxpress.csproj.AssemblyReference.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\226-Ponyexxpress\obj\Debug\net5.0\226-Ponyexxpress.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\226-Ponyexxpress\obj\Debug\net5.0\226-Ponyexxpress.AssemblyInfoInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\226-Ponyexxpress\obj\Debug\net5.0\226-Ponyexxpress.AssemblyInfo.cs
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\226-Ponyexxpress\obj\Debug\net5.0\226-Ponyexxpress.csproj.CoreCompileInputs.cache
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\226-Ponyexxpress\obj\Debug\net5.0\226-Ponyexxpress.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\226-Ponyexxpress\obj\Debug\net5.0\ref\226-Ponyexxpress.dll
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\226-Ponyexxpress\obj\Debug\net5.0\226-Ponyexxpress.pdb
+D:\Bean - Files\Visual Test\c#\Begineers Practice folder\226-Ponyexxpress\obj\Debug\net5.0\226-Ponyexxpress.genruntimeconfig.cache
